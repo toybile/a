@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3803652266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21d7d09c5ca496ca1d5f7d185071944c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e99aa84c8c93d3aada071ce5e6f911e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be71503a6b3b40b4980573392e86661a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c21a41f81f5c4bbc557ea3807916e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/Preview.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_top5.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_bottom4.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_glow.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_anim.controller
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_bottom5.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/Character04.prefab
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_top1.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_glow_022.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_top2.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_bottom2.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_top4.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_bottom3.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_glow.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_bottom1.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/Character04Color0.anim
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_bottom0.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_top3.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_glow_05.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character04/skin_02_character_04_hat_top0.png
+Dependencies: []

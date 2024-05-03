@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3371297912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 815ffd7c56e042ec897618ac51566332
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bbcbc79e13c7832a517885c89466cb9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b794439294961341b05a68751a9ed57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 597985ce793adb3428a7c94e0efbd43a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7de42f59658f1f4a9d6dd90d7e69f31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06f727905c1616d438acb615484b46c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b3e4481e2d2a784c9386c1ffeb874d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/prefabs/Buildings/City_Wonderland/CityBuilding_Wonderland.prefab
+- Assets/Bundled/prefabs/Buildings/City_Wonderland/city_wonderwall_flag.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d

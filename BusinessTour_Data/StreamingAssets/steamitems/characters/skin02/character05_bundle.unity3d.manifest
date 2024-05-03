@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 1509483400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7eba779f403eab5b0b6e26b8f58b0128
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e99aa84c8c93d3aada071ce5e6f911e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be71503a6b3b40b4980573392e86661a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c21a41f81f5c4bbc557ea3807916e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_smoke.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_body0.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_body2.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_motocycle_anim.controller
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_motocycle_anim.anim
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_body3.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_glow.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_wheels.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/Character05.prefab
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_glow_022.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_smoke.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_body4.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_glow_05.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_body1.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_glow.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_body5.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/skin_02_character_05_moto_back.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character05/Preview.png
+Dependencies: []

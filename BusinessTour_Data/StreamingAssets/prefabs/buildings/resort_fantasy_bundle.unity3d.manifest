@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 1239915290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9af9cc471cd2069d5e720a43b5e71408
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18bead4e32d2b2a496d29cb1c3f8c41c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b794439294961341b05a68751a9ed57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef383722eae9dda418c640bd96f9082b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 597985ce793adb3428a7c94e0efbd43a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06f727905c1616d438acb615484b46c9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_EarthLvl3.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_WindLvl2.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_EarthLvl1.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_WindLvl1.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/ResortBuilding_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_FireLvl1.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_EarthLvl2.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_WaterLvl1.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/ResortLvl2_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/ResortLvl1_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/ResortLvl0_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_WaterLvl2.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_WaterLvl3.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_FireLvl2.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Resort_base.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_WindLvl3.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/Obelisk_FireLvl3.prefab
+- Assets/Bundled/prefabs/Buildings/Resort_Fantasy/ResortLvl3_Fantasy.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/materials/buildings/city_fantasy_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/obelisks/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/obelisks_bundle.unity3d

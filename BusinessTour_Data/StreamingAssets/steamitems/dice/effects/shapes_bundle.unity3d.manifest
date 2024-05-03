@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 798862162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8166316bdaaf699af8e327dab96700a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f8601dacd88775e72e92474bccfcfba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec8da9418a6bf493e93ef4c7b7575847, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/blank_bubble.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/constalation_trail.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/light_02.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/rays.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/light_01.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/stars.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/feather.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/leaves.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/confetti_1.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/confetti_2.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/snowflake_1.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/Shape02.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/ice.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/spades_01.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/fog.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/pink_swirl.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/hearts_01.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/mirana.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/pink_swirl.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/pumpkin.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/mystic_circle.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/cyber_cube_tail.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/cooking_steam.psb
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/snowflake_2.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/dimond1.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/bullet.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/dimond.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/circle_1.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/Shape04.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/ro_stars.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/bulb.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/Shape01.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/bone.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/skull.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/Preview.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/boom.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/gradiant_bubble.png
+- Assets/Bundled/SteamItems/Dice/Effects/Shapes/bat.png
+Dependencies: []

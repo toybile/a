@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1559408514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e05a7be42a6fae88055c3b839d5c6b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a9fdf2094576ca5932bb53739aac4f4d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b794439294961341b05a68751a9ed57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef383722eae9dda418c640bd96f9082b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 597985ce793adb3428a7c94e0efbd43a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06f727905c1616d438acb615484b46c9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_Fantasy_7.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_Fantasy_5.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_Fantasy_3.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_Fantasy_2.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_Fantasy_1.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/City_base.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_Fantasy_4.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_base.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/CityBuilding_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_Fantasy_6.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Hotel_Fantasy_8.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/materials/buildings/city_fantasy_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/dwarfs/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/dwarfs_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/elves/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/elves_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/magicplaces/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/magicplaces_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/mountains/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/mountains_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/people/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/people_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/peoplenew/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/peoplenew_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/pirates/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/pirates_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/secrettower/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/secrettower_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap_bundle.unity3d

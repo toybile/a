@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2571362388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1235b568abbf04606ace5e5ee371a634
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87e86e1f63ec83f13b65d7cb30d2ae4a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8ee60af491978345bc197ed4e1316bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b66bf4ab5b9ff9c4289f7353cac37cdb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/prefabs/Rules/Section.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d

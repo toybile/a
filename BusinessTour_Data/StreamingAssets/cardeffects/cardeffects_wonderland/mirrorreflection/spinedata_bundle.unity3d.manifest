@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2905731464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a1ebd37c74b671d5a0750c85bad0c74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31dc32ee15946f12312086431da1d834
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/MirrorReflection/SpineData/\u041E\u0442\u0440\u0430\u0436\u0435\u043D\u0438\u0435
+  \u0432 \u0437\u0435\u0440\u043A\u0430\u043B\u0435.psd"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/MirrorReflection/SpineData/\u041E\u0442\u0440\u0430\u0436\u0435\u043D\u0438\u0435
+  \u0432 \u0437\u0435\u0440\u043A\u0430\u043B\u0435_SkeletonData.asset"
+- Assets/Bundled/CardEffects/CardEffects_Wonderland/MirrorReflection/SpineData/skeleton_SkeletonData.asset
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/MirrorReflection/SpineData/\u041E\u0442\u0440\u0430\u0436\u0435\u043D\u0438\u0435
+  \u0432 \u0437\u0435\u0440\u043A\u0430\u043B\u0435_Material.mat"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/MirrorReflection/SpineData/\u041E\u0442\u0440\u0430\u0436\u0435\u043D\u0438\u0435
+  \u0432 \u0437\u0435\u0440\u043A\u0430\u043B\u0435.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/MirrorReflection/SpineData/\u041E\u0442\u0440\u0430\u0436\u0435\u043D\u0438\u0435
+  \u0432 \u0437\u0435\u0440\u043A\u0430\u043B\u0435_Atlas.asset"
+Dependencies: []

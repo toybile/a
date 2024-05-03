@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2217645571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d7644a198548cea1f0aca99ff4e6b4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_12_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_2_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_5_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_4_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_19_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_9_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_14_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_17_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_20_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_1_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_11_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_16_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_8_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_10_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_21_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_6_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_3_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_0_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_18_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_15_fantasy.png
+- Assets/Bundled/Sprites/Cards/Fantasy/Icons/card_icon_13_fantasy.png
+Dependencies: []

@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 111432775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 851eadcbe3af821f3b2bf2a06bbdf5a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a86edca3c9fc4ed688e267d0d6bedb11
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec8da9418a6bf493e93ef4c7b7575847, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.U2D.SpriteBone
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/hit.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/CupcakeProjectile.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/cupcake_projectile.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/Target.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/hit.psb
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/hit 1.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/Preview.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/Hand.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/cupcake_projectile.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/hand.psb
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/hand.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/anim_cast.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/anim_hit.anim
+Dependencies: []

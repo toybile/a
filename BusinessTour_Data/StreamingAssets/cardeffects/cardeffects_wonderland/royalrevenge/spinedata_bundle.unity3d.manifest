@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3470935546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ae2b87d7472e054c8d27aa4ed27a881
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31dc32ee15946f12312086431da1d834
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/RoyalRevenge/SpineData/\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0430\u044F
+  \u043C\u0435\u0441\u0442\u044C_Material.mat"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/RoyalRevenge/SpineData/\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0430\u044F
+  \u043C\u0435\u0441\u0442\u044C_Atlas.asset"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/RoyalRevenge/SpineData/\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0430\u044F
+  \u043C\u0435\u0441\u0442\u044C_SkeletonData.asset"
+- Assets/Bundled/CardEffects/CardEffects_Wonderland/RoyalRevenge/SpineData/skeleton_SkeletonData.asset
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/RoyalRevenge/SpineData/\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0430\u044F
+  \u043C\u0435\u0441\u0442\u044C.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/RoyalRevenge/SpineData/\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0430\u044F
+  \u043C\u0435\u0441\u0442\u044C_02.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/RoyalRevenge/SpineData/\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0430\u044F
+  \u043C\u0435\u0441\u0442\u044C.psd"
+Dependencies: []

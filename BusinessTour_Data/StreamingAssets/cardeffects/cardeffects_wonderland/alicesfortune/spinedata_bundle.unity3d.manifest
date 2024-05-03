@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1612102472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e4fdfce97b77eb8fa837bc21a60ef96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31dc32ee15946f12312086431da1d834
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/AlicesFortune/SpineData/\u0424\u043E\u0440\u0442\u0443\u043D\u0430
+  \u0410\u043B\u0438\u0441\u044B_Material.mat"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/AlicesFortune/SpineData/\u0424\u043E\u0440\u0442\u0443\u043D\u0430
+  \u0410\u043B\u0438\u0441\u044B_Atlas.asset"
+- Assets/Bundled/CardEffects/CardEffects_Wonderland/AlicesFortune/SpineData/skeleton_SkeletonData.asset
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/AlicesFortune/SpineData/\u0424\u043E\u0440\u0442\u0443\u043D\u0430
+  \u0410\u043B\u0438\u0441\u044B.psd"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/AlicesFortune/SpineData/\u0424\u043E\u0440\u0442\u0443\u043D\u0430
+  \u0410\u043B\u0438\u0441\u044B.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/AlicesFortune/SpineData/\u0424\u043E\u0440\u0442\u0443\u043D\u0430
+  \u0410\u043B\u0438\u0441\u044B_SkeletonData.asset"
+Dependencies: []

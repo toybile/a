@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 251130273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30230340408d27d368eebbf51d23bfc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/HintSprites/icon_gamepad01.png
+- Assets/Bundled/Sprites/HintSprites/icon_LB.png
+- Assets/Bundled/Sprites/HintSprites/icon_a.png
+- Assets/Bundled/Sprites/HintSprites/icon_right_stick.png
+- Assets/Bundled/Sprites/HintSprites/icon_y.png
+- Assets/Bundled/Sprites/HintSprites/icon_RT.png
+- Assets/Bundled/Sprites/HintSprites/icon_left_stick.png
+- Assets/Bundled/Sprites/HintSprites/TutorialHintsAtlas.psd
+- Assets/Bundled/Sprites/HintSprites/icon_dpad.png
+- Assets/Bundled/Sprites/HintSprites/icon_x.png
+- Assets/Bundled/Sprites/HintSprites/substrate_hints.png
+- Assets/Bundled/Sprites/HintSprites/icon_RB.png
+- Assets/Bundled/Sprites/HintSprites/icon_view.png
+- Assets/Bundled/Sprites/HintSprites/icon_b.png
+- Assets/Bundled/Sprites/HintSprites/icon_menu.png
+- Assets/Bundled/Sprites/HintSprites/icon_LT.png
+- Assets/Bundled/Sprites/HintSprites/icon_gamepad02.png
+- Assets/Bundled/Sprites/HintSprites/icon_gamepad.png
+Dependencies: []

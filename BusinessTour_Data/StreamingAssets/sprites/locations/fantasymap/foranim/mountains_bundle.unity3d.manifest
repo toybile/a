@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 748424968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35d7f3efbbb2a75fe7d091a72e05ad4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 032a4a4830e417e35232193f8f7b4830
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_hotel_mountains_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_house2_mountains_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_hotel_mountains_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_5_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_house3_mountains_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_house3_mountains_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_house2_mountains_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_4_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_house1_mountains_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_ground_mountains_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_ground_mountains_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_1_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_1_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_3_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_house1_mountains_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_2_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_house2_mountains_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_2_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_4_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_hotel_mountains_anim4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_5_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_house3_mountains_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Mountauns_3_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/VI_hotel_mountains_anim1.png
+Dependencies: []

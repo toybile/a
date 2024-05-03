@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 189484141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6fcf23584672058593720f3704adc4aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36d03cbe0eab4146f240559a22a7ff2a
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: a51da47b2b4722740a357ebfcd2a309b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Configs/StartCellEffectsConfigs/EffectUpgradeRandomCityConfig_Wonderland.asset
+- Assets/Bundled/Configs/StartCellEffectsConfigs/EffectThrowDiceExtraConfig.asset
+- Assets/Bundled/Configs/StartCellEffectsConfigs/EffectUpgradeChosenCityConfig.asset
+- Assets/Bundled/Configs/StartCellEffectsConfigs/EffectUpgradeRandomCityConfig.asset
+- Assets/Bundled/Configs/StartCellEffectsConfigs/EffectUpgradeChosenCityConfig_Wonderland.asset
+- Assets/Bundled/Configs/StartCellEffectsConfigs/EffectThrowDiceExtraConfig_Wonderland.asset
+Dependencies: []

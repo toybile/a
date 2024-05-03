@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4132291446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2ab0dcf24491caee6e70288d97850be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Cards/Wonderland/Backgrounds/CardViewBg0002_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Backgrounds/CardViewBg0001_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Backgrounds/CardView_mask_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Backgrounds/CardView_description_bg_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Backgrounds/CardViewBg_tape_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Backgrounds/CardViewBg0003_wonderland.png
+Dependencies: []

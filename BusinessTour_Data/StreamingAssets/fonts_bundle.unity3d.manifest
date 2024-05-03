@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 3798386872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0d696ff92e834f3f656a815518353f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 936c5cc866edf55e16e80c70c87c8484
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/Bundled/Fonts/Tanugo-Regular Underlay.mat
+- Assets/Bundled/Fonts/Tanugo-Regular Japan.asset
+- Assets/Bundled/Fonts/UniSansHeavyCAPS.asset
+- Assets/Bundled/Fonts/Amiri-Regular Arabic SDF.asset
+- Assets/Bundled/Fonts/UniSansHeavyCAPS Material NoUnderlay_FreePass.mat
+- Assets/Bundled/Fonts/Verdana.ttf
+- Assets/Bundled/Fonts/Amiri-Regular Arabic.ttf
+- Assets/Bundled/Fonts/NotoSerifKR-Regular.otf
+- Assets/Bundled/Fonts/UNI SANS HEAVY SDF.asset
+- Assets/Bundled/Fonts/NotoSerifKR-Regular SDF.asset
+- Assets/Bundled/Fonts/UNI SANS HEAVY 1.OTF
+- Assets/Bundled/Fonts/Arial SDF.asset
+- Assets/Bundled/Fonts/Arial Underlay.mat
+- Assets/Bundled/Fonts/Tanugo-Regular Outlined.mat
+- Assets/Bundled/Fonts/UniSansHeavyCAPS Material NoUnderlay_NoOutline.mat
+- Assets/Bundled/Fonts/Archive Material Outlined.mat
+- Assets/Bundled/Fonts/UniSansHeavyCAPS Material NoUnderlay_InvestorPass.mat
+- Assets/Bundled/Fonts/Verdana.asset
+- Assets/Bundled/Fonts/NotoSerifKR-Regular Outlined.mat
+- Assets/Bundled/Fonts/Archive_Hieroglyphs.asset
+- Assets/Bundled/Fonts/Tanugo-Regular Japan.otf
+- Assets/Bundled/Fonts/Archive.otf
+- Assets/Bundled/Fonts/Arial.otf
+- Assets/Bundled/Fonts/Tanugo-Regular Japan SDF.asset
+- Assets/Bundled/Fonts/Verdana.Black.mat
+- Assets/Bundled/Fonts/Calibri.ttf
+- Assets/Bundled/Fonts/NotoSerifKR-Regular Underlay.mat
+- Assets/Bundled/Fonts/Archive.asset
+- Assets/Bundled/Fonts/Arial Outlined.mat
+- Assets/Bundled/Fonts/Verdana.otf
+- Assets/Bundled/Fonts/UniSansHeavyCAPS.otf
+- Assets/Bundled/Fonts/UNI SANS HEAVY.OTF
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d

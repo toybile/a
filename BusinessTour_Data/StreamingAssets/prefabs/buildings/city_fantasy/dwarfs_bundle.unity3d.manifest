@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3728593814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c5b3e5a5037c1d304210c94502a853e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e918bb5354c7e93ce4cca536f9f7441
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef383722eae9dda418c640bd96f9082b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 597985ce793adb3428a7c94e0efbd43a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06f727905c1616d438acb615484b46c9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Dwarfs/City_Dwarfs_Lvl0_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Dwarfs/City_Dwarfs_Lvl2_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Dwarfs/City_Dwarfs_Lvl4_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Dwarfs/City_Dwarfs_Lvl3_Fantasy.prefab
+- Assets/Bundled/prefabs/Buildings/City_Fantasy/Dwarfs/City_Dwarfs_Lvl1_Fantasy.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/materials/buildings/city_fantasy_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/dwarfs/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/foranim/dwarfs_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap_bundle.unity3d

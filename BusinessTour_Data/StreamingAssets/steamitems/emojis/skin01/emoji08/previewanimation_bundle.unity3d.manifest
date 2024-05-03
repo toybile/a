@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3426601877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b43b123d53901920a9b84ab34535108
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66fbaad185275ff19d0dee8da0f4f1ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5433b9741d8a44942aa233aa16dd63da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0dd5c17c10786274ca58cf5dd9eb187f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ccd2f2e3de26f44f9fe5cb6c766391e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/PreviewAnimation/Thrower.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/PreviewAnimation/Target.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/emojis/skin01/emoji08_bundle.unity3d

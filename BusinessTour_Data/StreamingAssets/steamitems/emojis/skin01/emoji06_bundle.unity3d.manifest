@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 144255654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c5e0c42cd748382ffb31876690a4426
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 625a31ce353b2ad23c172091c97a9027
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_03.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/Preview.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/Splash.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_top.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/Animation_Pie_Splash.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/Animation_Pie_Top.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_00.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_02.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_splash.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_bottom.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_bottom.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/pie_top.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji06/Animation_Pie_Bottom.anim
+Dependencies: []

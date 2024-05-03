@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4248445092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b595c4944b33e09aa00b980c8dc9e40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e43a2b888a62441beb5374c54aca97f8
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c1e222d85c2bc24ead00a23051d1a5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Configs/Buildings/Fantasy/MountainsHouse.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/DwarfsHouse.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/PeopleHouse.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/MagicPlacesHouse.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/SecretTowerHouse.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/WindObelisk.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/FireObelisk.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/ElvesHouse.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/PiratesHouse.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/WaterObelisk.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/PeopleNewHouse.asset
+- Assets/Bundled/Configs/Buildings/Fantasy/EarthObelisk.asset
+Dependencies: []

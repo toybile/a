@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 983418211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d55f78fc033ec806e54ff8c13d1bbb1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/gold/gold.png
+- Assets/Bundled/Sprites/gold/chest_gold.png
+- Assets/Bundled/Sprites/gold/handful_gold.png
+- Assets/Bundled/Sprites/gold/safe_gold.png
+- Assets/Bundled/Sprites/gold/bag_gold.png
+- Assets/Bundled/Sprites/gold/piggy_gold.png
+- Assets/Bundled/Sprites/gold/MovieTicket.png
+- Assets/Bundled/Sprites/gold/bank.png
+- Assets/Bundled/Sprites/gold/wallet_gold.png
+- Assets/Bundled/Sprites/gold/gold_wo_shadow.png
+- Assets/Bundled/Sprites/gold/gold_cup.png
+- Assets/Bundled/Sprites/gold/dollar.png
+Dependencies: []

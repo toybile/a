@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2480058755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79fbbaafaddcfdb2969b7a953595fee6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55ec7bc288e5a2331ab678aedaf7d291
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 69c959042a8fa7848980e45bf2c47638, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1817b1b2fde02348930e7fd65ea5944, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PlatformIdsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SerializedCharacterDefinition
+Assets:
+- Assets/Bundled/Configs/characters/Skin15SuperHeroes.asset
+- Assets/Bundled/Configs/characters/Skin23Pandas.asset
+- Assets/Bundled/Configs/characters/Skin19Frogs.asset
+- Assets/Bundled/Configs/characters/Skin31Mafia.asset
+- Assets/Bundled/Configs/characters/Skin12Sport.asset
+- Assets/Bundled/Configs/characters/Skin27Gadgets.asset
+- Assets/Bundled/Configs/characters/Skin33Western.asset
+- Assets/Bundled/Configs/characters/Skin06Pirates.asset
+- Assets/Bundled/Configs/characters/Skin09Fantasy.asset
+- Assets/Bundled/Configs/characters/Skin28Mythology.asset
+- Assets/Bundled/Configs/characters/Skin16Pets.asset
+- Assets/Bundled/Configs/characters/Skin29Apocalyptic.asset
+- Assets/Bundled/Configs/characters/Skin11Party.asset
+- Assets/Bundled/Configs/characters/Skin04Christmas2018.asset
+- Assets/Bundled/Configs/characters/Skin13SciFi.asset
+- Assets/Bundled/Configs/characters/Skin22StreetFood.asset
+- Assets/Bundled/Configs/characters/Skin32Rome.asset
+- Assets/Bundled/Configs/characters/Skin10Beach.asset
+- Assets/Bundled/Configs/characters/Skin01Standard.asset
+- Assets/Bundled/Configs/characters/Skin02Classic.asset
+- Assets/Bundled/Configs/characters/Skin08GreatLeaders.asset
+- Assets/Bundled/Configs/characters/Skin07Military.asset
+- Assets/Bundled/Configs/characters/Skin18Monkeys.asset
+- Assets/Bundled/Configs/characters/Skin20Knights.asset
+- Assets/Bundled/Configs/characters/Skin24Wonderland.asset
+- Assets/Bundled/Configs/characters/Skin30Egypt.asset
+- Assets/Bundled/Configs/characters/CharactersCollection.asset
+- Assets/Bundled/Configs/characters/Skin25Cats.asset
+- Assets/Bundled/Configs/characters/Skin17Dino.asset
+- Assets/Bundled/Configs/characters/Skin03Mystical.asset
+- Assets/Bundled/Configs/characters/Skin26Sweets.asset
+- Assets/Bundled/Configs/characters/Skin34Western2.asset
+- Assets/Bundled/Configs/characters/Skin21Pigs.asset
+- Assets/Bundled/Configs/characters/Skin14Football.asset
+Dependencies: []

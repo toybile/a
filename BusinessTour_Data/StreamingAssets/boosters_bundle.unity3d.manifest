@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2382694959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f991e4599d2fb31e9da3f056d8190e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1fe435ae48ac654649321c6abdc471be
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f1db4dfed8e7b14688c186cfbd3beff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.BoosterDefinition
+Assets:
+- Assets/Bundled/Boosters/gift_bonus_card.png
+- Assets/Bundled/Boosters/gift_bonus_even.png
+- Assets/Bundled/Boosters/gift_bonus_pair.png
+- Assets/Bundled/Boosters/gift_bonus_reroll.png
+- Assets/Bundled/Boosters/Boosters.asset
+Dependencies: []

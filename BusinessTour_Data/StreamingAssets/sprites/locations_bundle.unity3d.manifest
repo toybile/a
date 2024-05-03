@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3509602108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dcc4418cb266ccb20cd154f68763b604
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/Cell_Tax.png
+- Assets/Bundled/Sprites/Locations/Cell_Resort.png
+- Assets/Bundled/Sprites/Locations/Cell_Spain.png
+- Assets/Bundled/Sprites/Locations/Cell_UK.png
+- Assets/Bundled/Sprites/Locations/Cell_China.png
+- Assets/Bundled/Sprites/Locations/Cell_France.png
+- Assets/Bundled/Sprites/Locations/Cell_Russia.png
+- Assets/Bundled/Sprites/Locations/location_inner_field_classic.png
+- Assets/Bundled/Sprites/Locations/Cell_Italy.png
+- Assets/Bundled/Sprites/Locations/Cell_USA.png
+- Assets/Bundled/Sprites/Locations/Cell_Chance.png
+- Assets/Bundled/Sprites/Locations/Cell_Germany.png
+Dependencies: []

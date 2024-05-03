@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 370099217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dacd58317e54c5013b54dea32dd7bdaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2b8cd07321a898cc3449b71fa0f75fa5
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 48805c38cbf8fe94c8bdb924bd921e9e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/InputProvider/InputProvider.asset
+Dependencies: []

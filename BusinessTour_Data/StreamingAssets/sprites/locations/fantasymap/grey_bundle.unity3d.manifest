@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1700426176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6afb3992b11059ef4906b9967be07568
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VII_house3_secret_tower_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/IV_ground_pirates_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/IV_house1_pirates_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/V_house1_magic_places_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VII_ground_secret_tower_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VII_house2_secret_tower_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/V_house2_magic_places_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/I_ground_simple_people_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/I_house_3_simple_people_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/II_house1_dwarfs_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VIII_house1_people_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/III_ground_elves_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VI_ground_mountains_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VIII_house3_people_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/I_house_1_simple_people_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/I_house_2_simple_people_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/V_house3_magic_places_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/IV_house2_pirates_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VI_house1_mountains_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/III_house3_elves_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/IV_house3_pirates_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VI_house3_mountains_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/II_ground_dwarfs_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VI_house2_mountains_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/III_house2_elves_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/V_ground_magic_places_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VIII_ground_people_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VIII_house2_people_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/III_house1_elves_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/II_house3_dwarfs_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/II_house2_dwarfs_grey.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/grey/VII_house1_secret_tower_grey.png
+Dependencies: []

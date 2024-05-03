@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2711622962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f4cbc49f4aeaada1b8fcf5f87de7ad5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 32cd280c892d0546d1c00dafe0e2b4c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/X+L2
+  1.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/B+ZL.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/X+L2
+  1 Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/R
+  + +.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/R+SL.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/LT+B.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/L+SL.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/ZL+S.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/ZR+SL.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/L+SR.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/ZL+B.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/L+
+  -.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/ZL+SR.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/B+LT.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/CompositeButtonImageBase.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/A+ZL.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/A+LT.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/X+L2.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/ZL+A.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/R+SR.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/ZL+SL.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/ZR+SR.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/L2+X.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/ZR+S.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/LT+A.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/O+L2.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/L+S.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/CompositeButtons/L2+O.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/nintendo_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/playstation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites_bundle.unity3d

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2654450890
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2917f1d7b62bf4122d2ed68d9a695f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_alice_living_room.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_alice_bathroom.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_tea_party.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_portal.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_suit_7.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_suit_3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_alice_kitchen.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_suit_4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_chance.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_suit_6.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_court session.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_rabbit_s hole.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_alice_bedroom.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_suit_1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_suit_5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_suit_2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_tax.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/CellsBase/cell_wonderland_suit_8.png
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4107076954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 815a2ed77c8105a77904d4b473542c0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3027e940ef3f8b33b2d168651558e378
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a8686821e1e8fe4b86b6c2da20edcfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 020256d119d13d24597631fcf7e4e4c5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PlatformIdsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SerializedBuildingSkinDefinition
+Assets:
+- Assets/Bundled/Configs/BuildingsSkins/BuildingsSkinsCollection.asset
+- Assets/Bundled/Configs/BuildingsSkins/BuildingsSkinsSet.asset
+Dependencies: []

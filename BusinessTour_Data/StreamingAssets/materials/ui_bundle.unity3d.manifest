@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 49020943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 988b89797c8c4fe79f5e6a4c5b3d6445
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Materials/UI/MenuParticles.SpringBG4.mat
+- Assets/Bundled/Materials/UI/UIColorMask.mat
+- Assets/Bundled/Materials/UI/UIColorMask_WindowBuyCity.mat
+- Assets/Bundled/Materials/UI/MenuParticles.SpringBG5.mat
+- Assets/Bundled/Materials/UI/MenuParticles.AutumnBG1.mat
+- Assets/Bundled/Materials/UI/MenuParticles.AutumnBG2.mat
+- Assets/Bundled/Materials/UI/MenuParticles.SpringBG6.mat
+- Assets/Bundled/Materials/UI/MenuParticles.SpringBG2.mat
+- Assets/Bundled/Materials/UI/Running Text Material.mat
+- Assets/Bundled/Materials/UI/MenuParticles.Halloween.mat
+- Assets/Bundled/Materials/UI/MenuParticles.WinterBG1.mat
+- Assets/Bundled/Materials/UI/UIWindowInfoResort_Fantasy_obelisk.mat
+- Assets/Bundled/Materials/UI/MenuParticles.AutumnBG3.mat
+- Assets/Bundled/Materials/UI/MenuParticles.Default.mat
+- Assets/Bundled/Materials/UI/MenuParticles.Winter.mat
+- Assets/Bundled/Materials/UI/MenuParticles.AutumnBG4.mat
+- Assets/Bundled/Materials/UI/MenuParticles.SpringBG3.mat
+- Assets/Bundled/Materials/UI/MenuParticles.SpringBG1.mat
+- Assets/Bundled/Materials/UI/MenuParticles.SummerBG1.mat
+- Assets/Bundled/Materials/UI/WindowResortInfo_Classic_UIColorMask.mat
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/obelisks/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background06_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background07_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background08_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background09_bundle.unity3d

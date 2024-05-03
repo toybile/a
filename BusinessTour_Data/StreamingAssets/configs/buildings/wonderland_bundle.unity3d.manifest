@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3131194863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 433f0f23fe0b25b92ee1744d93558585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e43a2b888a62441beb5374c54aca97f8
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c1e222d85c2bc24ead00a23051d1a5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Configs/Buildings/Wonderland/HouseWonderland_8.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/AliceLivingroom.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/HouseWonderland_7.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/AliceKitchen.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/HouseWonderland_5.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/HouseWonderland_1.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/HouseWonderland_3.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/AliceBathroom.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/HouseWonderland_6.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/HouseWonderland_2.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/HouseWonderland_4.asset
+- Assets/Bundled/Configs/Buildings/Wonderland/AliceBedroom.asset
+Dependencies: []

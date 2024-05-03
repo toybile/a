@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1501953574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6856905b184b5cee4dce1e92d30ad8d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4164d6553e019da91b362ff768654e0
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 0212fec32f6330849a7c410fce0d3454, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e422e3c61167564d82e3461d37d5e4a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellControlBonus
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellPassRewardEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellTypeRewardDictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellsConfig/SpecialCell
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.LevelSetting
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.RawCellData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TaxSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TournamentSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TrapSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TravelSettings
+Assets:
+- Assets/Bundled/Configs/Gameplay/Maps/FantasyMap.asset
+- Assets/Bundled/Configs/Gameplay/Maps/MoreChances.asset
+- Assets/Bundled/Configs/Gameplay/Maps/CellsConfig.asset
+- Assets/Bundled/Configs/Gameplay/Maps/WonderlandMap.asset
+- Assets/Bundled/Configs/Gameplay/Maps/ClassicMap.asset
+Dependencies: []

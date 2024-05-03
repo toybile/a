@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3014930895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c2e23b85baef8d39fe2b3022e520109
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Special/wonderland_portal.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Special/img_rabbit_hole_wonderland.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Special/court_session.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Special/tea_party.png
+Dependencies: []

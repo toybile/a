@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3524755647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17204c6ae477f55b6a9a8e8892a0c4de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Lootboxes/Skin18/Lootbox01/Preview.png
+Dependencies: []

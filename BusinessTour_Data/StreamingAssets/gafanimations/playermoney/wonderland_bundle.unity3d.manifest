@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3433303331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d5e983db1d8e9a78cc6eca5cf3a8998
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 70916f02336f189ed5f9a9c8c7d96aec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c348337bd31add44183ff8d984824ad5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d3432732be5d4c40a6b9346b7d0e9a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec8da9418a6bf493e93ef4c7b7575847, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.MoneyStatesDict
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.U2D.SpriteBone
+Assets:
+- Assets/Bundled/GafAnimations/PlayerMoney/Wonderland/SalesEffect.prefab
+- Assets/Bundled/GafAnimations/PlayerMoney/Wonderland/SalesEffect_Animation.anim
+- Assets/Bundled/GafAnimations/PlayerMoney/Wonderland/SalesEffect.controller
+- Assets/Bundled/GafAnimations/PlayerMoney/Wonderland/SalesEffect.psb
+- Assets/Bundled/GafAnimations/PlayerMoney/Wonderland/PlayerMoney.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/gafanimations/playermoney/wonderland/sprites_bundle.unity3d

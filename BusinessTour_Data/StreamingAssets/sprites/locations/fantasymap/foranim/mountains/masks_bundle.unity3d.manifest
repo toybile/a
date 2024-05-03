@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2262296655
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0aee7d13c1531da32affa6f98bd63dc0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Masks/VI_house1_mountains_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Masks/VI_house2_mountains_anim3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Masks/VI_house3_mountains_anim3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Mountains/Masks/VI_hotel_mountains_anim4_mask.png
+Dependencies: []

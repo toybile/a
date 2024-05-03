@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 990191207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7218d601a5a9ba4d1706b2102bdb0148
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Materials/Buildings/City_Fantasy/DarkCityMaterial_5_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/CityMaterial_5_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/DarkCityMaterial_0_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/DarkCityMaterial_2_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/DarkCityMaterial_3_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/CityMaterial_2_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/CityMaterial_3_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/CityMaterial_0_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/CityMaterial_4_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/DarkCityMaterial_1_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/CityMaterial_1_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/Sprites_colorMasked.mat
+- Assets/Bundled/Materials/Buildings/City_Fantasy/DarkCityMaterial_4_Fantasy.mat
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/buildingstextures_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/masks_bundle.unity3d

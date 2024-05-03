@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3240546658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f21b840332301b827ec42e2e749c65e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/PlayerView/MoneyImg.png
+- Assets/Bundled/Sprites/PlayerView/MoneyImg_grey.png
+- Assets/Bundled/Sprites/PlayerView/MoneyImg_Fantasy.png
+- Assets/Bundled/Sprites/PlayerView/Player_Background.png
+- Assets/Bundled/Sprites/PlayerView/icon_player_frame_small_05.png
+- Assets/Bundled/Sprites/PlayerView/AvatarBorder.png
+- Assets/Bundled/Sprites/PlayerView/MoneyImg_Wonderland.png
+- Assets/Bundled/Sprites/PlayerView/Player_Active_Bar_Border.png
+- Assets/Bundled/Sprites/PlayerView/MoneyImg_grey_Wonderland.png
+- Assets/Bundled/Sprites/PlayerView/frame_vip.png
+- Assets/Bundled/Sprites/PlayerView/ProgressBar.png
+- Assets/Bundled/Sprites/PlayerView/Player_Avatar.png
+- Assets/Bundled/Sprites/PlayerView/MoneyImg_grey_Fantasy.png
+- Assets/Bundled/Sprites/PlayerView/bankruptIndicator.png
+Dependencies: []

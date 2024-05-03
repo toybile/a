@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 244720108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 420e6c0c85a24d26ea1e81a64348c11e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 625a31ce353b2ad23c172091c97a9027
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/pillow .prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/feathers_02.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/Preview.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/Animation_04feathers_02.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/feathers_02.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/feathers_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/dust_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/Pillow.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/pillow .controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/feathers_01.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/blot.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/Animation_04Dast.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/Dast.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/Animation_04pillow.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/Animation_04feathers_01.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/feathers_01.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/Dast.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/dust_03.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/feathers_02.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji08/dust_02.png
+Dependencies: []

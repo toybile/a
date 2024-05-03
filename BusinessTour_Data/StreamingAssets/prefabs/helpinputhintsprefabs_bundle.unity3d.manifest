@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 340498695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8dcb552fbd5ed21dbec00b8c47da740
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ae921b767b3b1816e126fa7c49a16a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4f9b13fa14fb4d44b56fbad11b23846, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1b8e8de05921f1428b5b91ff2acfa6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 203e1c008a460a84c9f6dd5bdaf9933a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b82b5adc61da12d4f99c44f9cab471da, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TMProFontInfo
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/BubbleHintPrefab.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites_bundle.unity3d

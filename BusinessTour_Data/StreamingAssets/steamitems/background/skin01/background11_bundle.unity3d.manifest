@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2238195653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23993db616f45c3e30c02cd7afc3c1a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 273cf454c4db30dda26a714cdc203275
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11cee95d991a54147a3720d9778703aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de93a28457a553940893b460799fa8d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48805c38cbf8fe94c8bdb924bd921e9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2048e83d020e5624e99715332a7dc934, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4195c06a8db8d3249bbca080b38ec2dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 911ea731c5ebd2b4a8fdc8547ad93af7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Background/Skin01/Background11/Background.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background11/Profile.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background11/back_inside.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background11/Preview.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background11/FieldPreview.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background11/back_island.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background11/Field.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/inputprovider_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/fieldsprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background10_bundle.unity3d

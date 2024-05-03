@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2894957905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87979b177b4a2512e6cfb3891b37d20d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/hair.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/hand2.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/New Animation_23_9.anim
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/New Animation_23_21.anim
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/Character11.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/Character06.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/Character10.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/New Animation_23_6.anim
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/New Animation_23_22.anim
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/Character07.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/Character08.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/cloak2.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/New Animation_23_10.anim
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/New Animation_23_8.anim
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/Character09.controller
+- Assets/Bundled/SteamItems/Characters/Skin06/extra/New Animation_23_7.anim
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/characters/skin06/character01_bundle.unity3d

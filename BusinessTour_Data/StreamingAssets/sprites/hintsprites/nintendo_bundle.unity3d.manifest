@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2933725576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da382119afd04e0a8a4b0b254b356ef0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_up.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_zr.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_l_plus_s.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_r.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_l.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_nintendo.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_r_plus_s.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_right.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_left.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_s.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_zl.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_plus.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_minus.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_down.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_directional.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_sr.png
+- Assets/Bundled/Sprites/HintSprites/Nintendo/icon_sl.png
+Dependencies: []

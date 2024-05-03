@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1519215839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d7684afb768c33bb94e6af461a3c155
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aefd9dd81111bba711effab315976dfc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d3432732be5d4c40a6b9346b7d0e9a3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/CellView/MoneyCellAnimation/MoneyFantasyCellAnimation/MoneyFantasyCellAnimation.prefab
+- Assets/Bundled/CellView/MoneyCellAnimation/MoneyFantasyCellAnimation/MoneyFantasyCellAnimation.png
+- Assets/Bundled/CellView/MoneyCellAnimation/MoneyFantasyCellAnimation/MoneyFantasyCellAnimation.anim
+- Assets/Bundled/CellView/MoneyCellAnimation/MoneyFantasyCellAnimation/MoneyFantasyCellAnimationController.controller
+Dependencies: []

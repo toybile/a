@@ -1,0 +1,1174 @@
+Initialize engine version: 2021.3.29f1 (204d6dc9ae1c)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Business Tour/BusinessTour_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4004 MB
+    Driver:   31.0.15.5123
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.724000 ms
+CrashListener Setup
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BusinessTour.Bootstrapper:Setup()
+
+DefaultFileHandler ReadFile
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DefaultFileHandler:ReadFile(String)
+BusinessTour.Config:ReadConfigData()
+BusinessTour.Config:get_ConfigData()
+BusinessTour.Config:Get(String, Func`2)
+BusinessTour.Config:get_MaxLogFilesCount()
+BusinessTour.Bootstrapper:Setup()
+
+<color=aqua>ICrashListener.LastSessionWasCrashed. Flag: SuccesfullyQuit. Log Contains Crash Message: False</color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BusinessTour.CrashListener:BusinessTour.ICrashListener.LastSessionWasCrashed()
+BusinessTour.Bootstrapper:Setup()
+
+<color=aqua>ICrashListener.ClearLastSessionCrashedFlag. </color>
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BusinessTour.CrashListener:BusinessTour.ICrashListener.ClearLastSessionCrashedFlag()
+BusinessTour.Bootstrapper:Setup()
+
+Setup Localization system
+No saved language. Setting to default: en-EN
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+BusinessTour.Localization:Setup()
+
+Set Language: en-EN
+Saving Language: en-EN
+LoadLanguageLocalizationsAsync
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+<color=aqua>ICrashListener.StartCrashListening. </color>
+<color=magenta>CommitHash:</color> <color=yellow>B175A292D4</color>
+Associating master with gamepad -1 masterSlot:0
+SetFrameRate Fps60
+TargetRate: Fps60; vSyncCount: 0
+Available resolution: 1176 x 664
+Available resolution: 1280 x 720
+Available resolution: 1280 x 720
+Available resolution: 1280 x 720
+Available resolution: 1280 x 800
+Available resolution: 1280 x 800
+Available resolution: 1280 x 800
+Available resolution: 1360 x 768
+Available resolution: 1360 x 768
+Available resolution: 1360 x 768
+Available resolution: 1366 x 768
+Available resolution: 1366 x 768
+Available resolution: 1366 x 768
+Available resolution: 1440 x 900
+Available resolution: 1440 x 900
+Available resolution: 1440 x 900
+Available resolution: 1600 x 900
+Available resolution: 1600 x 900
+Available resolution: 1600 x 900
+Available resolution: 1600 x 1024
+Available resolution: 1600 x 1024
+Available resolution: 1600 x 1024
+Available resolution: 1680 x 1050
+Available resolution: 1680 x 1050
+Available resolution: 1680 x 1050
+Available resolution: 1768 x 992
+Available resolution: 1768 x 992
+Available resolution: 1768 x 992
+Available resolution: 1920 x 1080
+Available resolution: 1920 x 1080
+Available resolution: 1920 x 1080
+Setting resolution: isFullscrene True, currentResolution = 1920x1080 newResolution = 1920x1080
+Current platform is: WindowsPlayer
+Add window PossibleUpdateInfo contains: False
+Add window WndSelectAvatar contains: False
+Add window WndRateGame contains: False
+Add window WndCredits contains: False
+Add window WndSplash contains: False
+Add window WndConnecting contains: False
+Add window WndTopPanel contains: False
+Add window WndRules contains: False
+Add window WndStore contains: False
+Add window WndChipsStore contains: False
+Add window WndBoostersStore contains: False
+Add window WndCinemaStore contains: False
+Add window WndHallOfFame contains: False
+Add window WndDailyBonus contains: False
+Add window WndDailyTasks contains: False
+Add window WndLeaderBoard contains: False
+Add window WndPlayerProfile contains: False
+Add window WndModalDialog contains: False
+Add window WndModalDialoPsnCheckout contains: False
+Add window WndModalDialogRed contains: False
+Add window WndModalDialogGreen contains: False
+Add window WndSimpleModalDialog contains: False
+Add window WndSelectAchievement contains: False
+Add window WndWithoutBet contains: False
+Add window WndWithBetSolo contains: False
+Add window WndWithBetAndFriend contains: False
+Add window WndTournamentMatch contains: False
+Add window WndDebugReplay contains: False
+Add window WndSubmitRoomKey contains: False
+Add window WndLinkAccountOptions contains: False
+Add window WndLinkAccountGenerate contains: False
+Add window WndLinkAccountSubmit contains: False
+Add window WndLinkAccountConfirm contains: False
+Add window WndLinkAccounFinished contains: False
+Add window WndVipInfo contains: False
+Add window WndFilters contains: False
+UICharacterCollectionController. SetProvider is null: False
+Add window WndChooseCharacter contains: False
+Add window WndInventory contains: False
+UIBackgroundsCollectionController. SetProvider is null: False
+Add window WndBoardBackgrounds contains: False
+UIBuildingsSkinsCollectionController. SetProvider is null: False
+UIBackgroundsCollectionController. SetProvider is null: False
+MoneySkinsCollectionController. SetProvider is null: False
+Add window WndMapCustomization contains: False
+Add window WndLootBox contains: False
+Add window WndChestContent contains: False
+Add window WndExchangeCard contains: False
+UIDicesCollectionController. SetProvider is null: False
+Add window WndChooseDice contains: False
+UISmile3DCollectionController. SetProvider is null: True
+Add window WndChooseSmile3D contains: False
+Add window WndVersus contains: False
+Add window WndExchange contains: False
+Add window WndTournament contains: False
+Add window WndMainMenu contains: False
+Add window InvestorPass contains: False
+Add window WndNotifications contains: False
+Add window PurchaseSubscription contains: False
+Add window WndSelectServer contains: False
+Add window WndSignInWithApple contains: False
+Add window WndThisIDAlreadyExists contains: False
+Add window WndJoinUs contains: False
+Add window WndExchangeLootboxForClub contains: False
+Add window WndRateUsFeedback contains: False
+Add window WndOffer contains: False
+Add window WndControlMenuPC contains: False
+Add window WndMapSelection contains: False
+Add window WndOptions contains: False
+Add window WndSocialPanel contains: False
+Add window WndGoldStore contains: False
+Add window WndReportPlayer contains: False
+Add window WndSendLog contains: False
+Add window WndStackContentPreview contains: False
+Add window WndStackContentLootboxPreview contains: False
+Add window WndItemPreview contains: False
+Add window WndPurchaseDailyPass contains: False
+Add window WndDailyRewardsSchedule contains: False
+Add window WndDeleteAccount contains: False
+Add window WndMapEditor contains: False
+Add window WndCardPreview contains: False
+Add window WndMapEditorLoadMap contains: False
+UIMapEditorLoadPresetController. SetProvider is null: True
+Add window WndMapEditorLoadPreset contains: False
+Add window WndPublicPlayerProfile contains: False
+Add window WndPublicPlayerProfileSettings contains: False
+Add window WndAddFriendWithId contains: False
+Add window WndMobileFortuneRoulette contains: False
+Add window WndFortuneRouletteReward contains: False
+Add window WndFortuneRouletteRewardsSchedule contains: False
+Add window WndLootboxInstructions contains: False
+Add window WndExchangeSkinsForTournamentRouletteSpins contains: False
+Add window WndEnterPromocode contains: False
+Add window WndPublishMapToSteamWorkshop contains: False
+Add window WndMapQuickSettings contains: False
+Add window WndDevTournamentLoadMap contains: False
+Add window WndBalanceHistory contains: False
+Add window WndObeliskPreview contains: False
+Add window WndTournamentRoulette contains: False
+<color=lime>Commands</color> => ShowSplashCommand.Execute
+Show splash command
+PostCreateView. BusinessTour.UISplash go:UISplash(Clone) (UnityEngine.GameObject) view: UISplash(Clone) (BusinessTour.UISplash)
+Show splash command1
+Get background sprite id: 386 sprite: Background (UnityEngine.Sprite)
+GameplayEvents::LateInit() _context:BusinessTour.Context _strtM:BusinessTour.StartupManager
+Country: Brazil City: São Paulo
+Window Before Closed WndSplash
+On before splash closed
+<color=lime>Commands</color> => ShowSplashCommand.Complete
+<color=lime>Commands</color> => InitializeAdjustCommand.Execute
+<color=lime>Commands</color> => ShowATTPromptCommand.Execute
+<color=lime>Commands</color> => ShowATTPromptCommand.Complete
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+<color=lime>Commands</color> => InitializeAdjustCommand.Complete
+<color=lime>Commands</color> => ShowWindowCommand`1.Execute
+PostCreateView. BusinessTour.UIConnecting go:UIConnecting(Clone) (UnityEngine.GameObject) view: UIConnecting(Clone) (BusinessTour.UIConnecting)
+<color=lime>Commands</color> => ShowWindowCommand`1.Complete
+<color=lime>Commands</color> => WaitForNetworkCommand.Execute
+Window Closed WndSplash
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+<color=lime>Commands</color> => WaitForNetworkCommand.Complete
+<color=lime>Commands</color> => InitializeAdvertisementCommand.Execute
+Generated with Unity editor
+<color=lime>Commands</color> => InitializeAdvertisementCommand.Complete
+<color=lime>Commands</color> => InitializeNativeServicesCommand.Execute
+<color=lime>Commands</color> => InitializeNativeServicesCommand.Complete
+<color=lime>Commands</color> => InitializeGameServiceCommand.Execute
+BackendAuth: CompositeAccount
+Steam : _currentAccount set to Creobit.Backend.Auth.SteamPlayFabAuth
+Adjust. Tracking generic adjust event Registration
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+Executing cloud script while not logged in, adding to event
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+BusinessTour.GameService:ExecuteCloudScript(ICloudScriptPackage, Boolean)
+BusinessTour.SteamAvatarSource:RequestProfile(Action`1)
+BusinessTour.GameService:ContinueLogin()
+Creobit.Backend.<>c__DisplayClass6_0:<Login>g__OnSuccess|0()
+Creobit.Backend.Auth.<>c__DisplayClass2_0:<Creobit.Backend.Auth.IAuth.Login>b__3(LoginResult)
+PlayFab.Internal.<>c__DisplayClass23_0`1:<_MakeApiCall>b__1()
+PlayFab.Internal.PlayFabUnityHttp:OnResponse(String, CallRequestContainer)
+PlayFab.Internal.<Post>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+GameService.SetProfileLanguage.OnResult: Created
+<color=yellow>CloudScript</color> => (RevisionSelection)Specific (SpecificRevision)2612
+<color=yellow>CloudScript</color> => login: {"sessionKey":"MTcxNDcwMDE3NDQ4MQ=="}
+<color=lime>Commands</color> => PostProcessLoginCommand.Execute
+<color=yellow>CloudScript</color> => processLogin: {"RequestResult":{"RequestResult":""}}
+Login process is sucessfull
+<color=lime>Commands</color> => PostProcessLoginCommand.Complete
+Setting PhotonNetwork authentication with playfab id
+ExecuteCloudScript getNewsReaded
+ExecuteCloudScript getMails
+ExecuteCloudScript getTasks
+ExecuteCloudScript getRewards
+<color=lime>Commands</color> => CheckVersionCommand.Execute
+Time interval for online state check recieved: 600 seconds
+<color=yellow>CloudScript</color> => getPlayerFriendsSettings: {"RequestResult":"{\"IsOpenToFriendship\":true,\"PendingRequests\":[],\"IsMyFriend\":false,\"FriendsCount\":0,\"MaxFriends\":10}"}
+Текущая версия лидерборда: 61
+<color=yellow>CloudScript</color> => getTasks: {"RequestResult":"{\"tasks\":\"{\\\"monopoly\\\":{\\\"Needs\\\":10,\\\"Has\\\":0},\\\"buildResorts\\\":{\\\"Needs\\\":10,\\\"Has\\\":0},\\\"collectRent\\\":{\\\"Needs\\\":10000000,\\\"Has\\\":0},\\\"goToIsland\\\":{\\\"Needs\\\":3,\\\"Has\\\":0},\\\"spendOnProperty\\\":{\\\"Needs\\\":10000000,\\\"Has\\\":0}}\",\"isFresh\":\"true\",\"remainingTime\":\"80620925\",\"salt\":\"-1483585966\"}"}
+<color=yellow>CloudScript</color> => VerifyStardustStatistics: {"RequestResult":"{}"}
+<color=yellow>CloudScript</color> => getDailyRewardsSchedule: {"RequestResult":"{\"Presets\":[\"dailyPreset_5\",\"dailyPreset_6\",\"dailyPreset_7\",\"dailyPreset_8\",\"dailyPreset_2\",\"dailyPreset_3\",\"dailyPreset_4\",\"dailyPreset_5\",\"dailyPreset_6\",\"dailyPreset_7\",\"dailyPreset_8\",\"dailyPreset_2\",\"dailyPreset_3\",\"dailyPreset_4\"],\"Duration\":7,\"StartDate\":\"2022-08-30T00:00:00.000Z\"}"}
+<color=yellow>CloudScript</color> => getFullDailyRewardsSchedule: {"RequestResult":"[{\"StartDate\":\"2024-04-30T00:00:00.000Z\",\"EndDate\":\"2024-05-06T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"dailyPreset_8\",\"DailyRewardThree\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":1,\"type\":\"493\",\"value\":1},{\"weight\":18,\"type\":\"557\",\"value\":1},{\"weight\":21,\"type\":\"571\",\"value\":1},{\"weight\":30,\"type\":\"531\",\"value\":1},{\"weight\":30,\"type\":\"544\",\"value\":1}],\"value\":1}]},\"DailyRewardFive\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":40,\"type\":\"chips\",\"value\":3000},{\"weight\":15,\"type\":\"booster_odd_even\",\"value\":4},{\"weight\":15,\"type\":\"booster_double\",\"value\":4},{\"weight\":15,\"type\":\"booster_chance\",\"value\":4},{\"weight\":15,\"type\":\"booster_throw_again\",\"value\":4}],\"value\":1}]},\"DailyRewardBonus\":{\"content\":[{\"type\":\"gold\",\"value\":50},{\"type\":\"417\",\"value\":1},{\"type\":\"457\",\"value\":1}]}}},{\"StartDate\":\"2024-05-07T00:00:00.000Z\",\"EndDate\":\"2024-05-13T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"dailyPreset_2\",\"DailyRewardThree\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":1,\"type\":\"493\",\"value\":1},{\"weight\":18,\"type\":\"557\",\"value\":1},{\"weight\":21,\"type\":\"571\",\"value\":1},{\"weight\":30,\"type\":\"531\",\"value\":1},{\"weight\":30,\"type\":\"544\",\"value\":1}],\"value\":1}]},\"DailyRewardFive\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":40,\"type\":\"chips\",\"value\":3000},{\"weight\":15,\"type\":\"booster_odd_even\",\"value\":4},{\"weight\":15,\"type\":\"booster_double\",\"value\":4},{\"weight\":15,\"type\":\"booster_chance\",\"value\":4},{\"weight\":15,\"type\":\"booster_throw_again\",\"value\":4}],\"value\":1}]},\"DailyRewardBonus\":{\"content\":[{\"type\":\"gold\",\"value\":50},{\"type\":\"479\",\"value\":1},{\"type\":\"417\",\"value\":1}]}}},{\"StartDate\":\"2024-05-14T00:00:00.000Z\",\"EndDate\":\"2024-05-20T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"dailyPreset_3\",\"DailyRewardThree\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":1,\"type\":\"493\",\"value\":1},{\"weight\":18,\"type\":\"557\",\"value\":1},{\"weight\":21,\"type\":\"571\",\"value\":1},{\"weight\":30,\"type\":\"531\",\"value\":1},{\"weight\":30,\"type\":\"544\",\"value\":1}],\"value\":1}]},\"DailyRewardFive\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":40,\"type\":\"chips\",\"value\":3000},{\"weight\":15,\"type\":\"booster_odd_even\",\"value\":4},{\"weight\":15,\"type\":\"booster_double\",\"value\":4},{\"weight\":15,\"type\":\"booster_chance\",\"value\":4},{\"weight\":15,\"type\":\"booster_throw_again\",\"value\":4}],\"value\":1}]},\"DailyRewardBonus\":{\"content\":[{\"type\":\"gold\",\"value\":200},{\"type\":\"417\",\"value\":1},{\"type\":\"442\",\"value\":1}]}}},{\"StartDate\":\"2024-05-21T00:00:00.000Z\",\"EndDate\":\"2024-05-27T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"dailyPreset_4\",\"DailyRewardThree\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":1,\"type\":\"493\",\"value\":1},{\"weight\":18,\"type\":\"557\",\"value\":1},{\"weight\":21,\"type\":\"571\",\"value\":1},{\"weight\":30,\"type\":\"531\",\"value\":1},{\"weight\":30,\"type\":\"544\",\"value\":1}],\"value\":1}]},\"DailyRewardFive\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":40,\"type\":\"chips\",\"value\":3000},{\"weight\":15,\"type\":\"booster_odd_even\",\"value\":4},{\"weight\":15,\"type\":\"booster_double\",\"value\":4},{\"weight\":15,\"type\":\"booster_chance\",\"value\":4},{\"weight\":15,\"type\":\"booster_throw_again\",\"value\":4}],\"value\":1}]},\"DailyRewardBonus\":{\"content\":[{\"type\":\"gold\",\"value\":200},{\"type\":\"431\",\"value\":1},{\"type\":\"270\",\"value\":1}]}}},{\"StartDate\":\"2024-05-28T00:00:00.000Z\",\"EndDate\":\"2024-06-03T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"dailyPreset_5\",\"DailyRewardThree\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":1,\"type\":\"493\",\"value\":1},{\"weight\":18,\"type\":\"557\",\"value\":1},{\"weight\":21,\"type\":\"571\",\"value\":1},{\"weight\":30,\"type\":\"531\",\"value\":1},{\"weight\":30,\"type\":\"544\",\"value\":1}],\"value\":1}]},\"DailyRewardFive\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":40,\"type\":\"chips\",\"value\":3000},{\"weight\":15,\"type\":\"booster_odd_even\",\"value\":4},{\"weight\":15,\"type\":\"booster_double\",\"value\":4},{\"weight\":15,\"type\":\"booster_chance\",\"value\":4},{\"weight\":15,\"type\":\"booster_throw_again\",\"value\":4}],\"value\":1}]},\"DailyRewardBonus\":{\"content\":[{\"type\":\"gold\",\"value\":50},{\"type\":\"417\",\"value\":1},{\"type\":\"430\",\"value\":1}]}}}]"}
+<color=yellow>CloudScript</color> => getReceivedDailyRewards: {"RequestResult":"{\"date\":\"2024-05-03T00:00:00.000Z\",\"DailyRewardThree\":false,\"DailyRewardFive\":false,\"DailyRewardBonus\":false}"}
+<color=yellow>CloudScript</color> => getPlayerCurrentGoldPassProgress: {"RequestResult":"{\"EndDate\":\"2024-05-04T00:00:00.000Z\",\"Progress\":0,\"RankOne\":false,\"RankTwo\":false,\"RankThree\":false}"}
+<color=yellow>CloudScript</color> => getCurrentGoldPassContent: {"RequestResult":"{\"endDate\":\"2024-05-04T00:00:00.000Z\",\"ranksRequirements\":{\"RankOne\":120,\"RankTwo\":250,\"RankThree\":650},\"rewards\":{\"RankOne\":{\"prizeId\":\"Lootbox. Wonderland\",\"content\":[{\"type\":\"480\",\"value\":1}]},\"RankTwo\":{\"prizeId\":\"Lootbox. Gadgets\",\"content\":[{\"type\":\"504\",\"value\":1}]},\"RankThree\":{\"prizeId\":\"Lootbox. Wonderland\",\"content\":[{\"type\":\"480\",\"value\":1}]}}}"}
+<color=yellow>CloudScript</color> => getRewards: {"RequestResult":"{}"}
+
+JsonConvert PlayFab.ClientModels.PlayerProfileModel to PlayFab.ClientModels.PlayerProfileModel in = PlayFab.ClientModels.PlayerProfileModel
+
+JsonConvert PlayFab.ClientModels.PlayerProfileModel serialized to 
+{"AdCampaignAttributions":null,"AvatarUrl":null,"BannedUntil":null,"ContactEmailAddresses":null,"Created":null,"DisplayName":null,"ExperimentVariants":null,"LastLogin":null,"LinkedAccounts":null,"Locations":[{"City":"Sao Paulo","ContinentCode":6,"CountryCode":31,"Latitude":-23.55152,"Longitude":-46.63314}],"Memberships":null,"Origination":null,"PlayerId":"FA91521589FB7856","PublisherId":"F273450563936456","PushNotificationRegistrations":null,"Statistics":null,"Tags":null,"TitleId":"7EAA","TotalValueToDateInUSD":null,"ValuesToDate":null}
+
+JsonConvert deserialized
+<color=yellow>CloudScript</color> => getCurrentDailyRewards: {"RequestResult":"{\"prizeId\":\"dailyPreset_8\",\"DailyRewardThree\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":1,\"type\":\"493\",\"value\":1},{\"weight\":18,\"type\":\"557\",\"value\":1},{\"weight\":21,\"type\":\"571\",\"value\":1},{\"weight\":30,\"type\":\"531\",\"value\":1},{\"weight\":30,\"type\":\"544\",\"value\":1}],\"value\":1}]},\"DailyRewardFive\":{\"content\":[{\"type\":\"random\",\"options\":[{\"weight\":40,\"type\":\"chips\",\"value\":3000},{\"weight\":15,\"type\":\"booster_odd_even\",\"value\":4},{\"weight\":15,\"type\":\"booster_double\",\"value\":4},{\"weight\":15,\"type\":\"booster_chance\",\"value\":4},{\"weight\":15,\"type\":\"booster_throw_again\",\"value\":4}],\"value\":1}]},\"DailyRewardBonus\":{\"content\":[{\"type\":\"gold\",\"value\":50},{\"type\":\"417\",\"value\":1},{\"type\":\"457\",\"value\":1}]}}"}
+<color=yellow>CloudScript</color> => getRouletteData: {"RequestResult":"{\"preset\":\"RouletteTournamentSteamPreset5\",\"endDate\":\"2024-05-04T00:00:00.000Z\",\"rewards\":{\"prizeId\":\"RouletteTournamentSteamPreset5\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"548\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]},\"spinsLeft\":5,\"ticketAmount\":0,\"maxRotations\":5,\"ticketPrice\":1,\"nextTicketsRefresh\":\"2024-05-04T00:00:00.000Z\"}"}
+<color=yellow>CloudScript</color> => getFullFortuneRouletteRewardsSchedule: {"RequestResult":"[{\"StartDate\":\"2024-05-03T00:00:00.000Z\",\"EndDate\":\"2024-05-03T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset5\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"548\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-04T00:00:00.000Z\",\"EndDate\":\"2024-05-04T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset6\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"489\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-05T00:00:00.000Z\",\"EndDate\":\"2024-05-05T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset7\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"522\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-06T00:00:00.000Z\",\"EndDate\":\"2024-05-06T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset8\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"376\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-07T00:00:00.000Z\",\"EndDate\":\"2024-05-07T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset9\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"378\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-08T00:00:00.000Z\",\"EndDate\":\"2024-05-08T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset10\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"377\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-09T00:00:00.000Z\",\"EndDate\":\"2024-05-09T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset11\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"380\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-10T00:00:00.000Z\",\"EndDate\":\"2024-05-10T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset12\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"494\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-11T00:00:00.000Z\",\"EndDate\":\"2024-05-11T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset13\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"492\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-12T00:00:00.000Z\",\"EndDate\":\"2024-05-12T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset14\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"374\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-13T00:00:00.000Z\",\"EndDate\":\"2024-05-13T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset1\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"550\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-14T00:00:00.000Z\",\"EndDate\":\"2024-05-14T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset2\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"535\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-15T00:00:00.000Z\",\"EndDate\":\"2024-05-15T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset3\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"474\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-16T00:00:00.000Z\",\"EndDate\":\"2024-05-16T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset4\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"421\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-17T00:00:00.000Z\",\"EndDate\":\"2024-05-17T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset5\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"548\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-18T00:00:00.000Z\",\"EndDate\":\"2024-05-18T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset6\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"489\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-19T00:00:00.000Z\",\"EndDate\":\"2024-05-19T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset7\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"522\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-20T00:00:00.000Z\",\"EndDate\":\"2024-05-20T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset8\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"376\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-21T00:00:00.000Z\",\"EndDate\":\"2024-05-21T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset9\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"378\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-22T00:00:00.000Z\",\"EndDate\":\"2024-05-22T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset10\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"377\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-23T00:00:00.000Z\",\"EndDate\":\"2024-05-23T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset11\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"380\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-24T00:00:00.000Z\",\"EndDate\":\"2024-05-24T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset12\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"494\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-25T00:00:00.000Z\",\"EndDate\":\"2024-05-25T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset13\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"492\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-26T00:00:00.000Z\",\"EndDate\":\"2024-05-26T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset14\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"374\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-27T00:00:00.000Z\",\"EndDate\":\"2024-05-27T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset1\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"550\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-28T00:00:00.000Z\",\"EndDate\":\"2024-05-28T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset2\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"535\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-29T00:00:00.000Z\",\"EndDate\":\"2024-05-29T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset3\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"474\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-30T00:00:00.000Z\",\"EndDate\":\"2024-05-30T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset4\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"421\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-05-31T00:00:00.000Z\",\"EndDate\":\"2024-05-31T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset5\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"548\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-06-01T00:00:00.000Z\",\"EndDate\":\"2024-06-01T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset6\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"489\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}},{\"StartDate\":\"2024-06-02T00:00:00.000Z\",\"EndDate\":\"2024-06-02T00:00:00.000Z\",\"Reward\":{\"prizeId\":\"RouletteTournamentSteamPreset7\",\"content\":[{\"type\":\"tournamentTickets\",\"value\":1},{\"type\":\"booster_double\",\"value\":1},{\"type\":\"booster_odd_even\",\"value\":1},{\"type\":\"booster_throw_again\",\"value\":1},{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":100},{\"type\":\"522\",\"value\":1},{\"type\":\"booster_chance\",\"value\":1},{\"type\":\"chips\",\"value\":200},{\"type\":\"tournamentTickets\",\"value\":2}]}}]"}
+<color=yellow>CloudScript</color> => getItemsRarities: {"RequestResult":"{\"booster_odd_even\":\"0\",\"booster_double\":\"0\",\"booster_chance\":\"0\",\"booster_throw_again\":\"0\",\"Chip_01\":\"0\",\"Chip_02\":\"0\",\"Chip_03\":\"0\",\"Chip_04\":\"0\",\"Chip_05\":\"0\",\"Chip_06\":\"0\",\"Chip_07\":\"0\",\"Chip_08\":\"0\",\"Gold_01\":\"0\",\"Gold_02\":\"0\",\"Gold_03\":\"0\",\"Gold_04\":\"0\",\"Gold_05\":\"0\",\"Gold_06\":\"0\",\"Gold_07\":\"0\",\"Gold_08\":\"0\",\"pack_01_sticker_01\":\"0\",\"pack_01_sticker_02\":\"0\",\"pack_01_sticker_03\":\"0\",\"pack_01_sticker_04\":\"0\",\"pack_01_sticker_08\":\"0\",\"pack_01_sticker_07\":\"0\",\"pack_01_sticker_06\":\"0\",\"pack_01_sticker_05\":\"0\",\"stickers_pack_01\":\"0\",\"Item_1000\":\"1\",\"Item_1002\":\"1\",\"Item_100\":\"5\",\"Item_101\":\"5\",\"Item_223\":\"1\",\"Item_224\":\"1\",\"Item_225\":\"1\",\"Item_226\":\"1\",\"Item_227\":\"1\",\"Item_228\":\"3\",\"Item_229\":\"3\",\"Item_230\":\"4\",\"Item_231\":\"4\",\"Item_232\":\"4\",\"Item_233\":\"4\",\"Item_234\":\"4\",\"Item_235\":\"4\",\"Item_236\":\"4\",\"Item_237\":\"4\",\"Item_238\":\"1\",\"Item_239\":\"1\",\"Item_240\":\"1\",\"Item_241\":\"1\",\"Item_242\":\"3\",\"Item_243\":\"4\",\"Item_247\":\"1\",\"Item_248\":\"1\",\"Item_249\":\"3\",\"Item_250\":\"4\",\"Item_210\":\"1\",\"Item_211\":\"1\",\"Item_212\":\"1\",\"Item_213\":\"1\",\"Item_214\":\"1\",\"Item_215\":\"1\",\"Item_216\":\"1\",\"Item_217\":\"4\",\"Item_218\":\"4\",\"Item_219\":\"4\",\"Item_220\":\"4\",\"Item_221\":\"4\",\"Item_222\":\"4\",\"Item_1100\":\"1\",\"Item_1101\":\"3\",\"Item_1102\":\"4\",\"Item_201\":\"1\",\"Item_202\":\"1\",\"Item_203\":\"1\",\"Item_204\":\"1\",\"Item_205\":\"1\",\"Item_206\":\"3\",\"Item_207\":\"3\",\"Item_208\":\"3\",\"Item_209\":\"4\",\"Item_200\":\"5\",\"Item_253\":\"1\",\"Item_254\":\"1\",\"Item_255\":\"1\",\"Item_256\":\"1\",\"Item_257\":\"3\",\"Item_258\":\"4\",\"Item_259\":\"1\",\"Item_260\":\"1\",\"Item_261\":\"1\",\"Item_262\":\"3\",\"Item_263\":\"4\",\"Item_246\":\"1\",\"Item_244\":\"4\",\"Item_264\":\"3\",\"Item_266\":\"3\",\"Item_268\":\"1\",\"Item_252\":\"1\",\"Item_245\":\"4\",\"Item_265\":\"1\",\"Item_267\":\"3\",\"Item_269\":\"1\",\"Item_270\":\"1\",\"Item_271\":\"1\",\"Item_272\":\"1\",\"Item_273\":\"1\",\"Item_274\":\"3\",\"Item_275\":\"3\",\"Item_276\":\"4\",\"Item_277\":\"1\",\"Item_278\":\"1\",\"Item_279\":\"1\",\"Item_280\":\"3\",\"Item_281\":\"3\",\"Item_282\":\"4\",\"Item_283\":\"1\",\"Item_284\":\"1\",\"Item_285\":\"1\",\"Item_286\":\"1\",\"Item_287\":\"3\",\"Item_288\":\"4\",\"Item_289\":\"1\",\"Item_290\":\"3\",\"Item_291\":\"1\",\"Item_292\":\"1\",\"Item_293\":\"3\",\"Item_294\":\"4\",\"Item_304\":\"1\",\"Item_295\":\"3\",\"Item_296\":\"3\",\"Item_297\":\"1\",\"Item_298\":\"4\",\"Item_299\":\"3\",\"Item_300\":\"3\",\"Item_301\":\"1\",\"Item_302\":\"1\",\"Item_303\":\"4\",\"Item_320\":\"1\",\"Item_313\":\"1\",\"Item_314\":\"3\",\"Item_315\":\"4\",\"Item_316\":\"3\",\"Item_317\":\"1\",\"Item_318\":\"1\",\"Item_319\":\"4\",\"Item_321\":\"1\",\"Item_322\":\"1\",\"Item_323\":\"1\",\"Item_324\":\"3\",\"Item_325\":\"4\",\"Item_326\":\"3\",\"Item_327\":\"1\",\"Item_328\":\"3\",\"Item_329\":\"1\",\"Item_330\":\"4\",\"Item_338\":\"1\",\"Item_305\":\"4\",\"Item_306\":\"4\",\"Item_309\":\"1\",\"Item_311\":\"3\",\"Item_307\":\"4\",\"Item_308\":\"4\",\"Item_310\":\"1\",\"Item_312\":\"3\",\"Item_339\":\"1\",\"Item_331\":\"1\",\"Item_336\":\"4\",\"Item_337\":\"3\",\"Item_332\":\"1\",\"Item_333\":\"1\",\"Item_334\":\"1\",\"Item_335\":\"1\",\"Item_341\":\"4\",\"Item_342\":\"3\",\"Item_343\":\"3\",\"Item_344\":\"1\",\"Item_345\":\"3\",\"Item_346\":\"3\",\"Item_347\":\"1\",\"Item_348\":\"1\",\"Item_349\":\"1\",\"Item_350\":\"4\",\"boosters_10_chance\":\"0\",\"boosters_10_double\":\"0\",\"boosters_10_odd_even\":\"0\",\"boosters_10_throw_again\":\"0\",\"boosters_30_odd_even\":\"0\",\"boosters_30_throw_again\":\"0\",\"boosters_30_double\":\"0\",\"boosters_30_chance\":\"0\",\"booster_for_chips_chance\":\"0\",\"booster_for_chips_odd_even\":\"0\",\"booster_for_chips_double\":\"0\",\"booster_for_chips_throw_again\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_02\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_03\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_05\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_07\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_08\":\"0\",\"basket\":\"0\",\"Promo_01\":\"0\",\"Promo_02\":\"0\",\"Promo_03\":\"0\",\"Promo_04\":\"0\",\"Promo_05\":\"0\",\"Promo_06\":\"0\",\"Promo_07\":\"0\",\"com.eightfloor.businesstour.f2p.battle_pass\":\"0\",\"Item_359\":\"4\",\"Item_360\":\"3\",\"Item_361\":\"1\",\"Item_362\":\"3\",\"Item_363\":\"1\",\"Item_364\":\"4\",\"Item_365\":\"3\",\"Item_366\":\"1\",\"Item_351\":\"4\",\"Item_352\":\"3\",\"Item_353\":\"1\",\"Item_354\":\"3\",\"Item_355\":\"1\",\"Item_356\":\"4\",\"Item_357\":\"3\",\"Item_358\":\"1\",\"LootboxSkinGGTier1\":\"0\",\"LootboxSkinGGTier2\":\"0\",\"LootboxSkinGGTier3\":\"0\",\"com.eightfloor.businesstour.f2p.lootboxskin_rm_tier2\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_bonus_03\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_bonus_05\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_bonus_07\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_bonus_08\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_01\":\"0\",\"com.eightfloor.businesstour.f2p.money_first_bonus_02\":\"0\",\"Item_340\":\"1\",\"Item_367\":\"3\",\"Promo_08\":\"0\",\"Item_368\":\"4\",\"Item_369\":\"4\",\"Item_373\":\"4\",\"Item_377\":\"4\",\"Item_374\":\"4\",\"Item_376\":\"5\",\"Item_375\":\"4\",\"Item_378\":\"4\",\"Item_379\":\"4\",\"Item_380\":\"4\",\"Item_381\":\"4\",\"Item_382\":\"3\",\"Item_370\":\"4\",\"Item_371\":\"4\",\"Item_372\":\"4\",\"Item_386\":\"4\",\"Item_387\":\"4\",\"Item_388\":\"4\",\"Item_389\":\"4\",\"Item_390\":\"4\",\"Item_383\":\"3\",\"Item_384\":\"3\",\"Item_385\":\"3\",\"Item_391\":\"2\",\"Item_392\":\"4\",\"Item_393\":\"2\",\"Item_394\":\"4\",\"Item_395\":\"3\",\"Item_396\":\"4\",\"Item_397\":\"3\",\"Item_398\":\"3\",\"Item_399\":\"3\",\"Item_400\":\"3\",\"Item_401\":\"3\",\"gold_amount100\":\"0\",\"OfferKeyRMTier1\":\"0\",\"OfferKeyRM399\":\"0\",\"OfferKeyRM1500\":\"0\",\"Item_402\":\"3\",\"Item_403\":\"1\",\"Item_404\":\"1\",\"Item_405\":\"3\",\"Item_406\":\"3\",\"Item_407\":\"3\",\"Item_408\":\"2\",\"Item_409\":\"2\",\"Item_410\":\"2\",\"premium_account_one_year\":\"0\",\"Item_416\":\"4\",\"Item_411\":\"1\",\"Item_412\":\"1\",\"Item_413\":\"1\",\"Item_414\":\"3\",\"Item_415\":\"3\",\"Item_417\":\"1\",\"com.eightfloor.businesstour.f2p.money_returning_bonus_01\":\"0\",\"com.eightfloor.businesstour.f2p.money_returning_bonus_02\":\"0\",\"exchange_wnd_tickets_offer\":\"0\",\"Item_367_Consoles\":\"3\",\"Item_418\":\"3\",\"Item_419\":\"3\",\"Item_420\":\"3\",\"Item_421\":\"3\",\"Item_422\":\"1\",\"Item_423\":\"1\",\"Item_424\":\"1\",\"Item_425\":\"1\",\"com.eightfloor.businesstour.f2p.daily_pass\":\"0\",\"com.eightfloor.businesstour.f2p.daily_pass.fake\":\"0\",\"Item_426\":\"1\",\"Item_427\":\"3\",\"Item_428\":\"1\",\"Item_429\":\"2\",\"Item_430\":\"4\",\"Item_432\":\"3\",\"Item_433\":\"1\",\"Item_434\":\"1\",\"Item_435\":\"1\",\"Item_431\":\"4\",\"Item_436\":\"2\",\"Item_437\":\"2\",\"Item_438\":\"2\",\"Item_439\":\"2\",\"Item_440\":\"2\",\"Item_441\":\"2\",\"Item_443\":\"3\",\"Item_444\":\"1\",\"Item_445\":\"1\",\"Item_446\":\"1\",\"Item_442\":\"4\",\"Item_448\":\"1\",\"Item_449\":\"1\",\"Item_450\":\"3\",\"Item_451\":\"1\",\"Item_447\":\"4\",\"Item_453\":\"2\",\"Item_454\":\"1\",\"Item_455\":\"3\",\"Item_456\":\"1\",\"Item_461\":\"2\",\"Item_460\":\"1\",\"Item_459\":\"3\",\"Item_458\":\"1\",\"Item_452\":\"4\",\"Item_457\":\"4\",\"Item_462\":\"4\",\"Item_463\":\"3\",\"Item_465\":\"1\",\"Item_466\":\"1\",\"Item_464\":\"1\",\"Item_467\":\"2\",\"Item_468\":\"1\",\"Item_469\":\"1\",\"Item_470\":\"3\",\"Item_471\":\"1\",\"Item_472\":\"2\",\"Item_473\":\"3\",\"Item_474\":\"3\",\"Item_475\":\"2\",\"Item_476\":\"2\",\"Item_477\":\"2\",\"Item_478\":\"3\",\"Item_479\":\"4\",\"Item_480\":\"4\",\"Item_481\":\"3\",\"Item_483\":\"1\",\"Item_484\":\"1\",\"Item_482\":\"1\",\"Item_485\":\"2\",\"Item_487\":\"3\",\"Item_486\":\"3\",\"Item_488\":\"3\",\"Item_489\":\"2\",\"Item_490\":\"2\",\"Item_491\":\"2\",\"Item_492\":\"4\",\"Item_493\":\"4\",\"Item_494\":\"4\",\"Item_495\":\"3\",\"Item_496\":\"2\",\"Item_497\":\"1\",\"Item_498\":\"1\",\"Item_500\":\"2\",\"Item_499\":\"3\",\"Item_501\":\"3\",\"Item_502\":\"3\",\"Item_503\":\"2\",\"Item_509\":\"1\",\"Item_508\":\"2\",\"Item_507\":\"3\",\"Item_506\":\"1\",\"Item_505\":\"1\",\"Item_504\":\"4\",\"Item_510\":\"3\",\"Item_511\":\"3\",\"Item_512\":\"3\",\"Item_513\":\"2\",\"Item_514\":\"2\",\"Item_515\":\"3\",\"Item_516\":\"3\",\"Item_517\":\"4\",\"premium_account_six_months\":\"0\",\"Item_519\":\"1\",\"Item_518\":\"1\",\"OfferKeyRMTier3\":\"0\",\"OfferKeyRMTier2\":\"0\",\"premium_account\":\"0\",\"premium_account_steam_newcomer\":\"0\",\"premium_account_steam_newcomer_one_year\":\"0\",\"premium_account_steam_newcomer_six_months\":\"0\",\"Item_520\":\"2\",\"Item_521\":\"2\",\"Item_522\":\"2\",\"Item_523\":\"2\",\"Item_524\":\"2\",\"Item_525\":\"2\",\"Item_526\":\"1\",\"Item_527\":\"1\",\"Item_528\":\"3\",\"Item_529\":\"2\",\"Item_530\":\"1\",\"Item_532\":\"3\",\"Item_533\":\"3\",\"Item_534\":\"3\",\"Item_535\":\"3\",\"Item_536\":\"3\",\"Item_537\":\"3\",\"Item_538\":\"1\",\"Item_539\":\"1\",\"Item_540\":\"3\",\"Item_541\":\"2\",\"Item_542\":\"1\",\"Item_543\":\"1\",\"Item_531\":\"4\",\"Item_545\":\"3\",\"Item_546\":\"3\",\"Item_547\":\"3\",\"Item_548\":\"3\",\"Item_549\":\"3\",\"Item_550\":\"3\",\"Item_551\":\"1\",\"Item_552\":\"1\",\"Item_553\":\"3\",\"Item_554\":\"2\",\"Item_555\":\"1\",\"Item_556\":\"1\",\"Item_558\":\"3\",\"Item_559\":\"3\",\"Item_560\":\"3\",\"Item_561\":\"3\",\"Item_562\":\"3\",\"Item_563\":\"3\",\"Item_564\":\"1\",\"Item_565\":\"1\",\"Item_566\":\"3\",\"Item_567\":\"2\",\"Item_568\":\"1\",\"Item_569\":\"1\",\"Item_570\":\"1\",\"Item_572\":\"3\",\"Item_573\":\"3\",\"Item_574\":\"3\",\"Item_575\":\"3\",\"Item_576\":\"3\",\"Item_577\":\"3\",\"Item_578\":\"1\",\"Item_579\":\"1\",\"Item_580\":\"3\",\"Item_581\":\"2\",\"Item_582\":\"1\",\"Item_583\":\"1\",\"Item_585\":\"3\",\"Item_586\":\"3\",\"Item_587\":\"3\",\"Item_588\":\"3\",\"Item_589\":\"3\",\"Item_590\":\"3\",\"Item_591\":\"1\",\"Item_592\":\"1\",\"Item_593\":\"3\",\"Item_594\":\"2\",\"Item_595\":\"1\",\"Item_596\":\"1\",\"Item_544\":\"4\",\"Item_557\":\"4\",\"Item_571\":\"4\",\"Item_584\":\"4\",\"Item_597\":\"4\"}"}
+<color=yellow>CloudScript</color> => getTournamentMapData: {"RequestResult":"{\"BUSINESSTOUR\":\"fe0372eb-0780-474d-8123-7d7062330092\",\"FANTASY\":\"3893e6d9-a399-4c4e-9ab8-4f2fd573d7a6\",\"WONDERLAND\":\"5104fda2-31df-4fa7-a488-14b6dacfd87c\"}"}
+GET SUPPORTED LEVEL 2.19.4 minimal:2.19.3 Curr;2.19.3
+<color=lime>Commands</color> => CheckVersionCommand.Complete
+<color=lime>Commands</color> => InitializeGameServiceCommand.Complete
+<color=lime>Commands</color> => CallMethodCommand[BetManager.CancelReadyToStart].Execute
+ExecuteCloudScript cancelReadyToStartV2
+<color=lime>Commands</color> => CallMethodCommand[BetManager.CancelReadyToStart].Complete
+<color=lime>Commands</color> => RequestSelectedRegionCommand.Execute
+<color=yellow>CloudScript</color> => getSteamUserProfile: {"RequestResult":"{\"name\":\"toybile\",\"avatar\":\"https://avatars.steamstatic.com/7b57bd15942bcc2475d9be9816f4a8a2cdfd7bb6_full.jpg\"}"}
+GameService.UpdatePlayerData(). data:
+[MyAvatarDispayOptions[0], Steam]
+///////
+<color=yellow>CloudScript</color> => getNewsReaded: {"RequestResult":"[]"}
+GameService.UpdatePlayerData(). data:
+[LastOnlineTimestamp, 2024-05-03T01:36:28.608Z]
+///////
+<color=yellow>CloudScript</color> => getMails: {"RequestResult":"{\"mail\":[],\"mailFullness\":0}"}
+<color=lime>Commands</color> => RequestSelectedRegionCommand.Complete
+<color=lime>Commands</color> => ConsumeRememberedSteamItemsCommand.Execute
+Success update player data. Data version = 1
+/Client/UpdateUserTitleDisplayName: HTTP/1.1 409 Conflict
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Creobit.Backend.User.<>c__DisplayClass6_0:<Creobit.Backend.User.IUser.SetName>b__1(PlayFabError)
+PlayFab.Internal.PlayFabUnityHttp:OnError(String, CallRequestContainer)
+PlayFab.Internal.<Post>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=yellow>CloudScript</color> => cancelReadyToStartV2: {"RequestResult":null}
+BetManager. CancelReadyToStart. OnSuccess
+PlayerInventoryService.RequestUpdatedData (0). Begin
+Validating map slots: Slots used 0, Items on playfab 0, Max slots 10
+GameService.UpdatePlayerData(). data:
+[MapSlots, {}]
+///////
+Success update player data. Data version = 2
+Запрос на получение наград за лидерборд 60 версии
+ExecuteCloudScript GrantAwardsForMonthlyChips
+<color=lime>Commands</color> => ConsumeRememberedSteamItemsCommand.Complete
+<color=lime>Commands</color> => GrantAllRememberedSteamItemsCommand.Execute
+PlayerInventoryService.RequestUpdatedData (0). Success
+Success update player data. Data version = 3
+<color=yellow>CloudScript</color> => GrantAwardsForMonthlyChips: {"RequestResult":false}
+ExecuteCloudScript getNewsReaded
+ExecuteCloudScript getMails
+<color=yellow>CloudScript</color> => getNewsReaded: {"RequestResult":"[]"}
+<color=yellow>CloudScript</color> => getMails: {"RequestResult":"{\"mail\":[],\"mailFullness\":0}"}
+<color=lime>Commands</color> => GrantAllRememberedSteamItemsCommand.Complete
+<color=lime>Commands</color> => CheckLegacyPremiumItemCommand.Execute
+ExecuteCloudScript ActivatePremiumItem
+<color=lime>Commands</color> => CheckLegacyPremiumItemCommand.Complete
+<color=lime>Commands</color> => InitializeGameServiceCatalogCommand.Execute
+CatalogService.RequestCatalogItems. BackendStore: Creobit.Backend.Store.SteamPlayFabStore
+<color=aqua>ICrashListener.StopCrashListening. </color>
+App goes to background. Local time: 2024-05-02 10:33:25 PM
+<color=lime>Commands</color> => InitializeGameServiceCatalogCommand.Complete
+<color=lime>Commands</color> => InitializeLootboxesCommand.Execute
+<color=yellow>CloudScript</color> => getParsedLootboxContent: {"RequestResult":"{\"210\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"211\",\"value\":1,\"weight\":16},{\"type\":\"212\",\"value\":1,\"weight\":16},{\"type\":\"213\",\"value\":1,\"weight\":15},{\"type\":\"214\",\"value\":1,\"weight\":14},{\"type\":\"215\",\"value\":1,\"weight\":14},{\"type\":\"216\",\"value\":1,\"weight\":14},{\"type\":\"217\",\"value\":1,\"weight\":11}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"218\",\"value\":1,\"weight\":20},{\"type\":\"219\",\"value\":1,\"weight\":20},{\"type\":\"220\",\"value\":1,\"weight\":20},{\"type\":\"221\",\"value\":1,\"weight\":20},{\"type\":\"222\",\"value\":1,\"weight\":20}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier2\",\"item_quality\":\"1\"},\"223\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":255},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"224\",\"value\":1,\"weight\":16},{\"type\":\"225\",\"value\":1,\"weight\":16},{\"type\":\"226\",\"value\":1,\"weight\":16},{\"type\":\"227\",\"value\":1,\"weight\":16},{\"type\":\"228\",\"value\":1,\"weight\":12},{\"type\":\"229\",\"value\":1,\"weight\":12},{\"type\":\"230\",\"value\":1,\"weight\":6},{\"type\":\"231\",\"value\":1,\"weight\":6}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"232\",\"value\":1,\"weight\":17},{\"type\":\"233\",\"value\":1,\"weight\":17},{\"type\":\"234\",\"value\":1,\"weight\":17},{\"type\":\"235\",\"value\":1,\"weight\":17},{\"type\":\"236\",\"value\":1,\"weight\":16},{\"type\":\"237\",\"value\":1,\"weight\":16}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier1\",\"item_quality\":\"1\"},\"238\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"239\",\"value\":1,\"weight\":25},{\"type\":\"240\",\"value\":1,\"weight\":25},{\"type\":\"241\",\"value\":1,\"weight\":25},{\"type\":\"242\",\"value\":1,\"weight\":15},{\"type\":\"243\",\"value\":1,\"weight\":10}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"247\",\"value\":1,\"weight\":35},{\"type\":\"248\",\"value\":1,\"weight\":35},{\"type\":\"249\",\"value\":1,\"weight\":20},{\"type\":\"250\",\"value\":1,\"weight\":10}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier2\",\"item_quality\":\"1\"},\"246\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"252\",\"value\":1,\"weight\":25},{\"type\":\"245\",\"value\":1,\"weight\":10},{\"type\":\"265\",\"value\":1,\"weight\":25},{\"type\":\"267\",\"value\":1,\"weight\":15},{\"type\":\"269\",\"value\":1,\"weight\":25}],\"weight\":10},{\"type\":\"random\",\"options\":[{\"type\":\"244\",\"value\":1,\"weight\":15},{\"type\":\"264\",\"value\":1,\"weight\":25},{\"type\":\"266\",\"value\":1,\"weight\":25},{\"type\":\"268\",\"value\":1,\"weight\":35}],\"weight\":90}]}],\"price\":\"LootboxSkinGGTier2\",\"item_quality\":\"1\"},\"253\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"254\",\"value\":1,\"weight\":25},{\"type\":\"255\",\"value\":1,\"weight\":25},{\"type\":\"256\",\"value\":1,\"weight\":25},{\"type\":\"257\",\"value\":1,\"weight\":15},{\"type\":\"258\",\"value\":1,\"weight\":10}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"259\",\"value\":1,\"weight\":25},{\"type\":\"260\",\"value\":1,\"weight\":25},{\"type\":\"261\",\"value\":1,\"weight\":25},{\"type\":\"262\",\"value\":1,\"weight\":15},{\"type\":\"263\",\"value\":1,\"weight\":10}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier2\",\"item_quality\":\"1\"},\"270\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"271\",\"value\":1,\"weight\":25},{\"type\":\"272\",\"value\":1,\"weight\":25},{\"type\":\"273\",\"value\":1,\"weight\":25},{\"type\":\"274\",\"value\":1,\"weight\":10},{\"type\":\"275\",\"value\":1,\"weight\":10},{\"type\":\"276\",\"value\":1,\"weight\":5}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"277\",\"value\":1,\"weight\":25},{\"type\":\"278\",\"value\":1,\"weight\":25},{\"type\":\"279\",\"value\":1,\"weight\":25},{\"type\":\"280\",\"value\":1,\"weight\":10},{\"type\":\"281\",\"value\":1,\"weight\":10},{\"type\":\"282\",\"value\":1,\"weight\":5}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier2\",\"item_quality\":\"1\"},\"283\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":770},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"284\",\"value\":1,\"weight\":25},{\"type\":\"285\",\"value\":1,\"weight\":25},{\"type\":\"286\",\"value\":1,\"weight\":25},{\"type\":\"287\",\"value\":1,\"weight\":15},{\"type\":\"288\",\"value\":1,\"weight\":10}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"289\",\"value\":1,\"weight\":25},{\"type\":\"290\",\"value\":1,\"weight\":10},{\"type\":\"291\",\"value\":1,\"weight\":25},{\"type\":\"292\",\"value\":1,\"weight\":25},{\"type\":\"293\",\"value\":1,\"weight\":10},{\"type\":\"294\",\"value\":1,\"weight\":5}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"1\"},\"304\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"295\",\"value\":1,\"weight\":25},{\"type\":\"296\",\"value\":1,\"weight\":25},{\"type\":\"297\",\"value\":1,\"weight\":35},{\"type\":\"298\",\"value\":1,\"weight\":15}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"299\",\"value\":1,\"weight\":15},{\"type\":\"300\",\"value\":1,\"weight\":15},{\"type\":\"301\",\"value\":1,\"weight\":30},{\"type\":\"302\",\"value\":1,\"weight\":30},{\"type\":\"303\",\"value\":1,\"weight\":10}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier2\",\"item_quality\":\"1\"},\"320\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":255},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"313\",\"value\":1,\"weight\":50},{\"type\":\"314\",\"value\":1,\"weight\":30},{\"type\":\"315\",\"value\":1,\"weight\":20}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"316\",\"value\":1,\"weight\":25},{\"type\":\"317\",\"value\":1,\"weight\":30},{\"type\":\"318\",\"value\":1,\"weight\":30},{\"type\":\"319\",\"value\":1,\"weight\":15}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier1\",\"item_quality\":\"1\"},\"321\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":770},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"322\",\"value\":1,\"weight\":35},{\"type\":\"323\",\"value\":1,\"weight\":35},{\"type\":\"324\",\"value\":1,\"weight\":20},{\"type\":\"325\",\"value\":1,\"weight\":10}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"326\",\"value\":1,\"weight\":15},{\"type\":\"327\",\"value\":1,\"weight\":30},{\"type\":\"328\",\"value\":1,\"weight\":15},{\"type\":\"329\",\"value\":1,\"weight\":30},{\"type\":\"330\",\"value\":1,\"weight\":10}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"1\"},\"338\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"305\",\"value\":1,\"weight\":20},{\"type\":\"306\",\"value\":1,\"weight\":20},{\"type\":\"309\",\"value\":1,\"weight\":35},{\"type\":\"311\",\"value\":1,\"weight\":25}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"307\",\"value\":1,\"weight\":20},{\"type\":\"308\",\"value\":1,\"weight\":20},{\"type\":\"310\",\"value\":1,\"weight\":35},{\"type\":\"312\",\"value\":1,\"weight\":25}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier2\",\"item_quality\":\"1\"},\"339\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"331\",\"value\":1,\"weight\":50},{\"type\":\"336\",\"value\":1,\"weight\":20},{\"type\":\"337\",\"value\":1,\"weight\":30}],\"weight\":90},{\"type\":\"random\",\"options\":[{\"type\":\"332\",\"value\":1,\"weight\":30},{\"type\":\"333\",\"value\":1,\"weight\":30},{\"type\":\"334\",\"value\":1,\"weight\":15},{\"type\":\"335\",\"value\":1,\"weight\":25}],\"weight\":10}]}],\"price\":\"LootboxSkinGGTier2\",\"item_quality\":\"1\"},\"340\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":770},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"345\",\"value\":1,\"weight\":10},{\"type\":\"346\",\"value\":1,\"weight\":10},{\"type\":\"347\",\"value\":1,\"weight\":25},{\"type\":\"348\",\"value\":1,\"weight\":25},{\"type\":\"349\",\"value\":1,\"weight\":25},{\"type\":\"350\",\"value\":1,\"weight\":5}],\"weight\":10},{\"type\":\"random\",\"options\":[{\"type\":\"341\",\"value\":1,\"weight\":15},{\"type\":\"342\",\"value\":1,\"weight\":25},{\"type\":\"343\",\"value\":1,\"weight\":25},{\"type\":\"344\",\"value\":1,\"weight\":35}],\"weight\":90}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"1\"},\"367\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":770},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"351\",\"value\":1,\"weight\":2},{\"type\":\"352\",\"value\":1,\"weight\":7},{\"type\":\"353\",\"value\":1,\"weight\":25},{\"type\":\"354\",\"value\":1,\"weight\":7},{\"type\":\"355\",\"value\":1,\"weight\":25},{\"type\":\"356\",\"value\":1,\"weight\":2},{\"type\":\"357\",\"value\":1,\"weight\":7},{\"type\":\"358\",\"value\":1,\"weight\":25}],\"weight\":1},{\"type\":\"random\",\"options\":[{\"type\":\"359\",\"value\":1,\"weight\":2},{\"type\":\"360\",\"value\":1,\"weight\":7},{\"type\":\"361\",\"value\":1,\"weight\":25},{\"type\":\"362\",\"value\":1,\"weight\":7},{\"type\":\"363\",\"value\":1,\"weight\":25},{\"type\":\"364\",\"value\":1,\"weight\":2},{\"type\":\"365\",\"value\":1,\"weight\":7},{\"type\":\"366\",\"value\":1,\"weight\":25}],\"weight\":1}]}],\"price\":\"com.eightfloor.businesstour.f2p.lootboxskin_rm_tier2\",\"item_quality\":\"3\"},\"417\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":770},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"402\",\"value\":1,\"weight\":4},{\"type\":\"403\",\"value\":1,\"weight\":5},{\"type\":\"404\",\"value\":1,\"weight\":5},{\"type\":\"405\",\"value\":1,\"weight\":2},{\"type\":\"406\",\"value\":1,\"weight\":4}],\"weight\":10},{\"type\":\"random\",\"options\":[{\"type\":\"411\",\"value\":1,\"weight\":25},{\"type\":\"412\",\"value\":1,\"weight\":25},{\"type\":\"413\",\"value\":1,\"weight\":25},{\"type\":\"414\",\"value\":1,\"weight\":10},{\"type\":\"415\",\"value\":1,\"weight\":10},{\"type\":\"416\",\"value\":1,\"weight\":5}],\"weight\":90}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"1\"},\"430\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":770},{\"type\":\"random\",\"options\":[{\"type\":\"418\",\"value\":1,\"weight\":6},{\"type\":\"419\",\"value\":1,\"weight\":6},{\"type\":\"420\",\"value\":1,\"weight\":6},{\"type\":\"421\",\"value\":1,\"weight\":6},{\"type\":\"426\",\"value\":1,\"weight\":23},{\"type\":\"427\",\"value\":1,\"weight\":12},{\"type\":\"428\",\"value\":1,\"weight\":23},{\"type\":\"429\",\"value\":1,\"weight\":18}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"431\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":255},{\"type\":\"random\",\"options\":[{\"type\":\"436\",\"value\":1,\"weight\":7},{\"type\":\"437\",\"value\":1,\"weight\":7},{\"type\":\"438\",\"value\":1,\"weight\":7},{\"type\":\"439\",\"value\":1,\"weight\":7},{\"type\":\"440\",\"value\":1,\"weight\":7},{\"type\":\"441\",\"value\":1,\"weight\":7},{\"type\":\"432\",\"value\":1,\"weight\":10},{\"type\":\"433\",\"value\":1,\"weight\":18},{\"type\":\"434\",\"value\":1,\"weight\":12},{\"type\":\"435\",\"value\":1,\"weight\":18}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"442\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"370\",\"value\":1,\"weight\":5},{\"type\":\"371\",\"value\":1,\"weight\":5},{\"type\":\"369\",\"value\":1,\"weight\":5},{\"type\":\"372\",\"value\":1,\"weight\":5},{\"type\":\"368\",\"value\":1,\"weight\":5},{\"type\":\"443\",\"value\":1,\"weight\":19},{\"type\":\"444\",\"value\":1,\"weight\":19},{\"type\":\"445\",\"value\":1,\"weight\":19},{\"type\":\"446\",\"value\":1,\"weight\":18}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"447\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"381\",\"value\":1,\"weight\":6},{\"type\":\"382\",\"value\":1,\"weight\":6},{\"type\":\"383\",\"value\":1,\"weight\":6},{\"type\":\"384\",\"value\":1,\"weight\":6},{\"type\":\"448\",\"value\":1,\"weight\":23},{\"type\":\"449\",\"value\":1,\"weight\":12},{\"type\":\"450\",\"value\":1,\"weight\":23},{\"type\":\"451\",\"value\":1,\"weight\":18}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"452\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"385\",\"value\":1,\"weight\":6},{\"type\":\"391\",\"value\":1,\"weight\":6},{\"type\":\"392\",\"value\":1,\"weight\":6},{\"type\":\"393\",\"value\":1,\"weight\":6},{\"type\":\"453\",\"value\":1,\"weight\":23},{\"type\":\"454\",\"value\":1,\"weight\":12},{\"type\":\"455\",\"value\":1,\"weight\":23},{\"type\":\"456\",\"value\":1,\"weight\":18}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"457\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"394\",\"value\":1,\"weight\":6},{\"type\":\"395\",\"value\":1,\"weight\":6},{\"type\":\"396\",\"value\":1,\"weight\":6},{\"type\":\"397\",\"value\":1,\"weight\":6},{\"type\":\"461\",\"value\":1,\"weight\":23},{\"type\":\"460\",\"value\":1,\"weight\":12},{\"type\":\"459\",\"value\":1,\"weight\":23},{\"type\":\"458\",\"value\":1,\"weight\":18}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"479\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"407\",\"value\":1,\"weight\":5},{\"type\":\"408\",\"value\":1,\"weight\":7},{\"type\":\"409\",\"value\":1,\"weight\":7},{\"type\":\"410\",\"value\":1,\"weight\":7},{\"type\":\"463\",\"value\":1,\"weight\":13},{\"type\":\"464\",\"value\":1,\"weight\":19},{\"type\":\"465\",\"value\":1,\"weight\":19},{\"type\":\"466\",\"value\":1,\"weight\":19},{\"type\":\"462\",\"value\":1,\"weight\":4}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"480\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"472\",\"value\":1,\"weight\":5},{\"type\":\"473\",\"value\":1,\"weight\":3},{\"type\":\"474\",\"value\":1,\"weight\":3},{\"type\":\"475\",\"value\":1,\"weight\":5},{\"type\":\"476\",\"value\":1,\"weight\":5},{\"type\":\"477\",\"value\":1,\"weight\":5},{\"type\":\"467\",\"value\":1,\"weight\":14},{\"type\":\"468\",\"value\":1,\"weight\":14},{\"type\":\"469\",\"value\":1,\"weight\":14},{\"type\":\"470\",\"value\":1,\"weight\":8},{\"type\":\"471\",\"value\":1,\"weight\":14},{\"type\":\"478\",\"value\":1,\"weight\":10}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"493\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"485\",\"value\":1,\"weight\":7},{\"type\":\"486\",\"value\":1,\"weight\":7},{\"type\":\"487\",\"value\":1,\"weight\":4},{\"type\":\"488\",\"value\":1,\"weight\":4},{\"type\":\"489\",\"value\":1,\"weight\":4},{\"type\":\"490\",\"value\":1,\"weight\":7},{\"type\":\"491\",\"value\":1,\"weight\":7},{\"type\":\"492\",\"value\":1,\"weight\":6},{\"type\":\"481\",\"value\":1,\"weight\":9},{\"type\":\"482\",\"value\":1,\"weight\":15},{\"type\":\"483\",\"value\":1,\"weight\":15},{\"type\":\"484\",\"value\":1,\"weight\":15}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"504\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"495\",\"value\":1,\"weight\":9},{\"type\":\"496\",\"value\":1,\"weight\":15},{\"type\":\"497\",\"value\":1,\"weight\":15},{\"type\":\"498\",\"value\":1,\"weight\":15},{\"type\":\"499\",\"value\":1,\"weight\":6},{\"type\":\"500\",\"value\":1,\"weight\":8},{\"type\":\"501\",\"value\":1,\"weight\":6},{\"type\":\"502\",\"value\":1,\"weight\":6},{\"type\":\"503\",\"value\":1,\"weight\":8},{\"type\":\"494\",\"value\":1,\"weight\":12}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"517\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"505\",\"value\":1,\"weight\":13},{\"type\":\"506\",\"value\":1,\"weight\":13},{\"type\":\"507\",\"value\":1,\"weight\":7},{\"type\":\"508\",\"value\":1,\"weight\":10},{\"type\":\"509\",\"value\":1,\"weight\":13},{\"type\":\"510\",\"value\":1,\"weight\":5},{\"type\":\"511\",\"value\":1,\"weight\":5},{\"type\":\"512\",\"value\":1,\"weight\":5},{\"type\":\"513\",\"value\":1,\"weight\":8},{\"type\":\"514\",\"value\":1,\"weight\":8},{\"type\":\"515\",\"value\":1,\"weight\":5},{\"type\":\"516\",\"value\":1,\"weight\":8}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"4\"},\"531\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"520\",\"value\":1,\"weight\":10},{\"type\":\"521\",\"value\":1,\"weight\":10},{\"type\":\"522\",\"value\":1,\"weight\":13},{\"type\":\"523\",\"value\":1,\"weight\":12},{\"type\":\"524\",\"value\":1,\"weight\":13},{\"type\":\"525\",\"value\":1,\"weight\":10},{\"type\":\"526\",\"value\":1,\"weight\":5},{\"type\":\"527\",\"value\":1,\"weight\":5},{\"type\":\"528\",\"value\":1,\"weight\":8},{\"type\":\"529\",\"value\":1,\"weight\":8},{\"type\":\"530\",\"value\":1,\"weight\":6}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"4\"},\"544\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"532\",\"value\":1,\"weight\":10},{\"type\":\"533\",\"value\":1,\"weight\":10},{\"type\":\"534\",\"value\":1,\"weight\":13},{\"type\":\"535\",\"value\":1,\"weight\":10},{\"type\":\"536\",\"value\":1,\"weight\":10},{\"type\":\"537\",\"value\":1,\"weight\":10},{\"type\":\"538\",\"value\":1,\"weight\":5},{\"type\":\"539\",\"value\":1,\"weight\":5},{\"type\":\"540\",\"value\":1,\"weight\":8},{\"type\":\"541\",\"value\":1,\"weight\":8},{\"type\":\"542\",\"value\":1,\"weight\":6},{\"type\":\"543\",\"value\":1,\"weight\":5}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"4\"},\"557\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"545\",\"value\":1,\"weight\":10},{\"type\":\"546\",\"value\":1,\"weight\":10},{\"type\":\"547\",\"value\":1,\"weight\":13},{\"type\":\"548\",\"value\":1,\"weight\":10},{\"type\":\"549\",\"value\":1,\"weight\":10},{\"type\":\"550\",\"value\":1,\"weight\":10},{\"type\":\"551\",\"value\":1,\"weight\":5},{\"type\":\"552\",\"value\":1,\"weight\":5},{\"type\":\"553\",\"value\":1,\"weight\":8},{\"type\":\"554\",\"value\":1,\"weight\":8},{\"type\":\"555\",\"value\":1,\"weight\":6},{\"type\":\"556\",\"value\":1,\"weight\":5}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"4\"},\"571\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"558\",\"value\":1,\"weight\":10},{\"type\":\"559\",\"value\":1,\"weight\":10},{\"type\":\"560\",\"value\":1,\"weight\":10},{\"type\":\"561\",\"value\":1,\"weight\":10},{\"type\":\"562\",\"value\":1,\"weight\":10},{\"type\":\"563\",\"value\":1,\"weight\":10},{\"type\":\"564\",\"value\":1,\"weight\":5},{\"type\":\"565\",\"value\":1,\"weight\":5},{\"type\":\"566\",\"value\":1,\"weight\":6},{\"type\":\"567\",\"value\":1,\"weight\":8},{\"type\":\"568\",\"value\":1,\"weight\":6},{\"type\":\"569\",\"value\":1,\"weight\":5},{\"type\":\"570\",\"value\":1,\"weight\":5}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"4\"},\"584\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"572\",\"value\":1,\"weight\":10},{\"type\":\"573\",\"value\":1,\"weight\":10},{\"type\":\"574\",\"value\":1,\"weight\":13},{\"type\":\"575\",\"value\":1,\"weight\":10},{\"type\":\"576\",\"value\":1,\"weight\":10},{\"type\":\"577\",\"value\":1,\"weight\":10},{\"type\":\"578\",\"value\":1,\"weight\":5},{\"type\":\"579\",\"value\":1,\"weight\":5},{\"type\":\"580\",\"value\":1,\"weight\":8},{\"type\":\"581\",\"value\":1,\"weight\":8},{\"type\":\"582\",\"value\":1,\"weight\":6},{\"type\":\"583\",\"value\":1,\"weight\":5}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"4\"},\"597\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":510},{\"type\":\"random\",\"options\":[{\"type\":\"585\",\"value\":1,\"weight\":10},{\"type\":\"586\",\"value\":1,\"weight\":10},{\"type\":\"587\",\"value\":1,\"weight\":13},{\"type\":\"588\",\"value\":1,\"weight\":10},{\"type\":\"589\",\"value\":1,\"weight\":10},{\"type\":\"590\",\"value\":1,\"weight\":10},{\"type\":\"591\",\"value\":1,\"weight\":5},{\"type\":\"592\",\"value\":1,\"weight\":5},{\"type\":\"593\",\"value\":1,\"weight\":8},{\"type\":\"594\",\"value\":1,\"weight\":8},{\"type\":\"595\",\"value\":1,\"weight\":6},{\"type\":\"596\",\"value\":1,\"weight\":5}]}],\"price\":\"LootboxSkinGGTier3\",\"item_quality\":\"4\"},\"1000\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":3,\"maxValue\":3}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"1\"},\"1001\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":7,\"maxValue\":7}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"1\"},\"1002\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":12,\"maxValue\":12}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"1\"},\"1100\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":3,\"maxValue\":3},{\"type\":\"random\",\"options\":[{\"type\":\"201\",\"value\":1,\"weight\":16},{\"type\":\"202\",\"value\":1,\"weight\":16},{\"type\":\"203\",\"value\":1,\"weight\":16},{\"type\":\"204\",\"value\":1,\"weight\":16},{\"type\":\"205\",\"value\":1,\"weight\":15},{\"type\":\"206\",\"value\":1,\"weight\":7},{\"type\":\"207\",\"value\":1,\"weight\":7},{\"type\":\"208\",\"value\":1,\"weight\":7}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"1\"},\"1101\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":7,\"maxValue\":7},{\"type\":\"random\",\"options\":[{\"type\":\"201\",\"value\":1,\"weight\":11},{\"type\":\"202\",\"value\":1,\"weight\":10},{\"type\":\"203\",\"value\":1,\"weight\":10},{\"type\":\"204\",\"value\":1,\"weight\":10},{\"type\":\"205\",\"value\":1,\"weight\":10},{\"type\":\"206\",\"value\":1,\"weight\":13},{\"type\":\"207\",\"value\":1,\"weight\":13},{\"type\":\"208\",\"value\":1,\"weight\":13},{\"type\":\"209\",\"value\":1,\"weight\":10}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"3\"},\"1102\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":12,\"maxValue\":12},{\"type\":\"random\",\"options\":[{\"type\":\"206\",\"value\":1,\"weight\":17},{\"type\":\"207\",\"value\":1,\"weight\":17},{\"type\":\"208\",\"value\":1,\"weight\":17},{\"type\":\"209\",\"value\":1,\"weight\":49}]}],\"price\":\"LootboxSkinFree\",\"item_quality\":\"4\"},\"367_Consoles\":{\"content\":[{\"type\":\"gadgets\",\"minValue\":8,\"maxValue\":8},{\"chips\":2500},{\"stardust\":770},{\"type\":\"random\",\"options\":[{\"type\":\"random\",\"options\":[{\"type\":\"351\",\"value\":1,\"weight\":2},{\"type\":\"352\",\"value\":1,\"weight\":7},{\"type\":\"353\",\"value\":1,\"weight\":25},{\"type\":\"354\",\"value\":1,\"weight\":7},{\"type\":\"355\",\"value\":1,\"weight\":25},{\"type\":\"356\",\"value\":1,\"weight\":2},{\"type\":\"357\",\"value\":1,\"weight\":7},{\"type\":\"358\",\"value\":1,\"weight\":25}],\"weight\":1},{\"type\":\"random\",\"options\":[{\"type\":\"359\",\"value\":1,\"weight\":2},{\"type\":\"360\",\"value\":1,\"weight\":7},{\"type\":\"361\",\"value\":1,\"weight\":25},{\"type\":\"362\",\"value\":1,\"weight\":7},{\"type\":\"363\",\"value\":1,\"weight\":25},{\"type\":\"364\",\"value\":1,\"weight\":2},{\"type\":\"365\",\"value\":1,\"weight\":7},{\"type\":\"366\",\"value\":1,\"weight\":25}],\"weight\":1}]}],\"price\":\"LootboxSkinGGTier1\",\"item_quality\":\"3\"}}"}
+<color=lime>Commands</color> => InitializeLootboxesCommand.Complete
+<color=lime>Commands</color> => InitializeUserInventoryCommand.Execute
+PlayerInventoryService.RequestUpdatedData (1). Begin
+PlayerInventoryService.RequestUpdatedData (1). Success
+<color=lime>Commands</color> => InitializeUserInventoryCommand.Complete
+<color=lime>Commands</color> => InitializeCurrentItemsCommand.Execute
+<color=lime>Commands</color> => InitializeCurrentItemsCommand.Complete
+<color=lime>Commands</color> => InitializeTournamentCommand.Execute
+ExecuteCloudScript initLocalTournamentManager
+<color=yellow>CloudScript</color> => initLocalTournamentManager: {"RequestResult":"{\"id\":\"event_tournament460\",\"templatesToApply\":[\"tickets_1_1_24_20х3_25_35_45_z\",\"standart_map\",\"preset_13_scifi_v4\"],\"startDate\":\"2024-04-30T00:00:00.000Z\",\"endDate\":\"2024-05-06T22:00:00.000Z\",\"minutesToGiveaway\":60,\"minutesToReset\":1,\"freeTicketsStart\":1,\"freeTicketsPeriodCount\":1,\"freeTicketsPeriodTime\":24,\"priceProgression\":[20,20,20,25,35,45],\"requreZeroTickets\":true,\"Map\":\"BUSINESSTOUR\",\"Background\":\"Customizable\",\"Buildings\":\"BusinessTour\",\"Money\":\"BusinessTour\",\"Music\":\"Default\",\"maxPlayersCount\":100,\"leaderboardsIds\":[\"tournamentPointsV22\",\"tournamentPointsV22_PSN\"],\"presetType\":\"Sci-Fi\",\"icon\":\"EventSkin13\",\"name\":\"events_txt_skin_13_header\",\"description\":\"events_txt_skin_13_description\",\"additionalParameters\":{\"name\":\"events_txt_skin_13_header\",\"congratulation\":\"events_dlg_skin_13_congratulation\"},\"prizeTableSources\":[\"scifi items\",\"chips\",\"stardust\"],\"replacements\":{\"ALL_ITEMS\":\"322, 323, 324, 325, 326, 327, 328, 329, 330\",\"DICE\":\"322, 323, 324, 325\",\"CHARACTERS\":\"326, 327, 328, 329, 330\",\"LEGENDARY_DICE\":\"325\",\"LOOTBOX\":\"321\"},\"prizeTable\":[{\"from\":1,\"to\":1,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"bundleItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"activateNow\":true},{\"type\":\"chips\",\"value\":1000000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":1000,\"activateNow\":false}]}},{\"from\":2,\"to\":2,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":5,\"activateNow\":true},{\"type\":\"bundleItems\",\"optionsInt\":[322,323,324,325],\"activateNow\":true},{\"type\":\"chips\",\"value\":800000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":950,\"activateNow\":false}]}},{\"from\":3,\"to\":3,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":4,\"activateNow\":true},{\"type\":\"bundleItems\",\"optionsInt\":[322,323,324,325],\"activateNow\":true},{\"type\":\"chips\",\"value\":600000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":900,\"activateNow\":false}]}},{\"from\":4,\"to\":4,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":3,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[325],\"value\":1,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":4,\"activateNow\":true},{\"type\":\"chips\",\"value\":550000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":850,\"activateNow\":false}]}},{\"from\":5,\"to\":5,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":3,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[325],\"value\":1,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":3,\"activateNow\":true},{\"type\":\"chips\",\"value\":500000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":800,\"activateNow\":false}]}},{\"from\":6,\"to\":6,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":3,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[325],\"value\":1,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":3,\"activateNow\":true},{\"type\":\"chips\",\"value\":450000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":750,\"activateNow\":false}]}},{\"from\":7,\"to\":7,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":2,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[325],\"value\":1,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":3,\"activateNow\":true},{\"type\":\"chips\",\"value\":400000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":700,\"activateNow\":false}]}},{\"from\":8,\"to\":8,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":2,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":4,\"activateNow\":true},{\"type\":\"chips\",\"value\":350000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":650,\"activateNow\":false}]}},{\"from\":9,\"to\":9,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":2,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":4,\"activateNow\":true},{\"type\":\"chips\",\"value\":300000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":600,\"activateNow\":false}]}},{\"from\":10,\"to\":10,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":1,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":4,\"activateNow\":true},{\"type\":\"chips\",\"value\":250000,\"activateNow\":false},{\"type\":\"stardust\",\"value\":550,\"activateNow\":false}]}},{\"from\":11,\"to\":20,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[326,327,328,329,330],\"value\":1,\"activateNow\":true},{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":3,\"activateNow\":true},{\"type\":\"chips\",\"topValue\":200000,\"bottomValue\":110000,\"activateNow\":false},{\"type\":\"stardust\",\"topValue\":500,\"bottomValue\":455,\"activateNow\":false}]}},{\"from\":21,\"to\":40,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":4,\"activateNow\":true},{\"type\":\"chips\",\"topValue\":80000,\"bottomValue\":61000,\"activateNow\":false},{\"type\":\"stardust\",\"topValue\":450,\"bottomValue\":355,\"activateNow\":false}]}},{\"from\":41,\"to\":60,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":3,\"activateNow\":true},{\"type\":\"chips\",\"topValue\":60000,\"bottomValue\":41000,\"activateNow\":false},{\"type\":\"stardust\",\"topValue\":350,\"bottomValue\":255,\"activateNow\":false}]}},{\"from\":61,\"to\":80,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":2,\"activateNow\":true},{\"type\":\"chips\",\"topValue\":40000,\"bottomValue\":21000,\"activateNow\":false},{\"type\":\"stardust\",\"topValue\":250,\"bottomValue\":155,\"activateNow\":false}]}},{\"from\":81,\"to\":100,\"content\":{\"type\":\"bundle\",\"options\":[{\"type\":\"randomItems\",\"optionsInt\":[322,323,324,325,326,327,328,329,330],\"value\":1,\"activateNow\":true},{\"type\":\"chips\",\"topValue\":20000,\"bottomValue\":1000,\"activateNow\":false},{\"type\":\"stardust\",\"topValue\":150,\"bottomValue\":55,\"activateNow\":false}]}}],\"isInProgress\":true,\"tillEnd\":\"332605287\",\"multiplierDates\":[{\"startDate\":\"2024-05-04T00:00:00.000Z\",\"endDate\":\"2024-05-06T00:00:00.000Z\"}],\"tillNextCheckpoint\":\"80605287\",\"bet\":{\"currency\":\"ticket\",\"amount\":1,\"available\":true,\"tournamentId\":\"event_tournament460\",\"ticketsAvailable\":1,\"millisecondsToCooldown\":0}}"}
+<color=lime>Commands</color> => InitializeTournamentCommand.Complete
+<color=lime>Commands</color> => RequestUnclaimedInvestorPassRewardsCommand.Execute
+<color=yellow>CloudScript</color> => sendUnclaimedBattlePassRewards: {"RequestResult":false}
+<color=lime>Commands</color> => RequestUnclaimedInvestorPassRewardsCommand.Complete
+<color=lime>Commands</color> => InitializePremiumManagerCommand.Execute
+<color=yellow>CloudScript</color> => GetPremiumStatusExpiredDate: {"RequestResult":null,"secretHash":-1453025398}
+TrySendPremiumStatusExpiredNotification
+Trying to send premium status expired notification; currentStatus is False, expired time is 0
+Premium status recieved from server. HasPremium : False, remainingtime : none
+ExecuteCloudScript PremiumExpiredNotification
+<color=yellow>CloudScript</color> => GetTrialUsedDate: {"RequestResult":null,"secretHash":942848759}
+<color=lime>Commands</color> => InitializePremiumManagerCommand.Complete
+<color=lime>Commands</color> => InitializeInvestorPassManagerCommand.Execute
+PurchasableItem with PRE action. Decorated:{ Id:BattlePass Price:{ Id:RM CurrencyCode:USD Value:499 } }
+PurchasableItem with POST action. Decorated:BusinessTour.PurchasableItemWithPreAction
+<color=yellow>CloudScript</color> => PremiumExpiredNotification: {"RequestResult":false}
+<color=yellow>CloudScript</color> => getCurrentBattlePassEvent: {"RequestResult":{"tiers":[{"requirements":10,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":20,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":30,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":40,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":50,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":60,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":70,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":80,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":90,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":100,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":110,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":120,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":130,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":140,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":150,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":160,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":170,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":180,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":190,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":200,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":210,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":220,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":230,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":240,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":250,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":260,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":270,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":280,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":290,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":300,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":310,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":320,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":330,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":340,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":350,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":360,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":370,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":380,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":390,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":400,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":410,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":420,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":430,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":440,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":450,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":460,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":470,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":480,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":490,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":500,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":510,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":520,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":530,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":540,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":550,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":560,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":570,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":580,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":590,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":600,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":610,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":620,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":630,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":640,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":650,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":660,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":670,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":680,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":690,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":700,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":710,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":720,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":730,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":740,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":750,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":760,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":770,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":780,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":790,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":800,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":810,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":820,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":830,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":840,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":850,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":860,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":870,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":880,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":890,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":900,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":910,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"431","value":1}]},{"requirements":920,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"479","value":1}]},{"requirements":930,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"480","value":1}]},{"requirements":940,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"504","value":1}]},{"requirements":950,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"457","value":1}]},{"requirements":960,"freeItems":[{"type":"557","value":1}],"investorItems":[{"type":"493","value":1}]},{"requirements":970,"freeItems":[{"type":"571","value":1}],"investorItems":[{"type":"452","value":1}]},{"requirements":980,"freeItems":[{"type":"517","value":1}],"investorItems":[{"type":"442","value":1}]},{"requirements":990,"freeItems":[{"type":"531","value":1}],"investorItems":[{"type":"447","value":1}]},{"requirements":1000,"freeItems":[{"type":"544","value":1}],"investorItems":[{"type":"281","value":1}]}],"startTimer":-178509.372,"endTimer":2499890.628,"progression":[[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]],"hasAccess":false}}
+<color=lime>Commands</color> => InitializeInvestorPassManagerCommand.Complete
+<color=lime>Commands</color> => InitializeStoreLootboxesScheduleCommand.Execute
+<color=lime>Commands</color> => InitializeStoreLootboxesScheduleCommand.Complete
+<color=lime>Commands</color> => RequestVIPStatusCommand.Execute
+<color=lime>Commands</color> => RequestVIPStatusCommand.Complete
+<color=lime>Commands</color> => CallMethodCommand[PlayMusic].Execute
+<color=lime>Commands</color> => CallMethodCommand[PlayMusic].Complete
+AfterLoad Check purchases
+<color=lime>Commands</color> => CallMethodCommand[CompletePurchases].Execute
+#offers requesting active offer
+#offers exchanging existing offers in inventory
+<color=lime>Commands</color> => CallMethodCommand[CompletePurchases].Complete
+<color=lime>Commands</color> => CallMethodCommand[ConnectToSettingsRegionCommand].Execute
+<color=lime>Commands</color> => ConnectToMultiplayerBackendCommand.Execute
+PlayerInventoryService.RequestUpdatedData (2). Begin
+Too many update inventory requests, ignoring
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+BusinessTour.PlayerInventoryService:RequestUpdatedData(Action, Action)
+BusinessTour.CompositeCommand:OnAllCommandsDone()
+BusinessTour.SequenceCommand:OnExecute(Object[])
+BusinessTour.Command:Complete()
+BusinessTour.CompositeCommand:OnAllCommandsDone()
+BusinessTour.SequenceCommand:OnExecute(Object[])
+BusinessTour.Command:Complete()
+BusinessTour.VipStatusService:OnOtherPlayerDataReceived(String, Dictionary`2)
+BusinessTour.<>c__DisplayClass59_0:<RequestUserDataInternal>b__1(GetUserDataResult)
+PlayFab.Internal.<>c__DisplayClass23_0`1:<_MakeApiCall>b__1()
+PlayFab.Internal.PlayFabUnityHttp:OnResponse(String, CallRequestContainer)
+PlayFab.Internal.<Post>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ConnectToMultiplayerBackendCommand::Initialize(). RegionCode: none. Multiplayer backend region: none
+ConnectToMultiplayerBackendCommand::Connect()
+RealtimeMultiplayerBackend::Connect() regionFlag:none
+#offers OnPlayerDataRecieved
+#offers OnOfferNotExchanged
+#offers from restored pruchases was exchanged
+PlayerInventoryService.RequestUpdatedData (2). Success
+PhotonNetwork.ConnectUsingSettings() settings=pvp_2.19.c, serverAdress=
+PhotonNetwork.ConnectUsingSettings() pre-ConnectToBestCloudServer
+<color=yellow>CloudScript</color> => ActivateBattlePass: {"RequestResult":false}
+Activate battle pass result:False
+<color=yellow>CloudScript</color> => GetActiveOfferJson: {"RequestResult":"{\"slots\":{\"Slot2\":{\"type\":\"293\",\"value\":1},\"Slot5\":{\"type\":\"gold\",\"value\":100,\"multiplier\":0},\"Slot6\":{\"type\":\"stardust\",\"value\":1000,\"multiplier\":0}},\"excludedScreens\":[],\"endsAt\":\"2024-05-03T21:00:00.000Z\",\"presetID\":\"preset_8\",\"productForDiscount\":\"OfferKeyRM1500\",\"productForPurchase\":\"OfferKeyRMTier1\"}"}
+#offers successfully getted active offer JSON: 
+{"slots":{"Slot2":{"type":"293","value":1},"Slot5":{"type":"gold","value":100,"multiplier":0},"Slot6":{"type":"stardust","value":1000,"multiplier":0}},"excludedScreens":[],"endsAt":"2024-05-03T21:00:00.000Z","presetID":"preset_8","productForDiscount":"OfferKeyRM1500","productForPurchase":"OfferKeyRMTier1"}
+#offers successfully parsed active offer JSON
+#offers next update in 19h 26m 29s 182ms
+PhotonNetwork.ConnectUsingSettings() settings=pvp_2.19.c, serverAdress=ns.exitgames.com:4533
+ConnectUsingSettings() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+PhotonNetwork:ConnectUsingSettings(String)
+BusinessTour.VersionNumberProvider:BusinessTour.IVersionNumberProvider.RequestMultiplayerVersion(Action`1)
+BusinessTour.<ConnectionRoutine>d__69:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+BestRegion checks region: 'us' 	121ms 	45.67.211.164:4530
+BestRegion checks region: 'eu' 	230ms 	216.120.180.109:4530
+BestRegion checks region: 'asia' 	364ms 	91.243.81.149:4530
+BestRegion checks region: 'ru' 	230ms 	5.189.220.193:4530
+Found best region: 'us' ping: 121. Calling ConnectToRegionMaster() is: True
+
+Pre-PhotonPeer::Connect() serverAddress: 45.67.211.164:4530; token: ;
+<color=cyan>Photon</color> => <color=yellow>PhotonListener</color>.OnJoinedLobby
+PhotonDisconnection handler => OnJoinedLobby
+<color=lime>Commands</color> => SetConnectedPvpRegionTagCommand.Execute
+<color=lime>Commands</color> => SetConnectedPvpRegionTagCommand.Complete
+<color=lime>Commands</color> => SetSelectedPvPRegionTagCommand.Execute
+<color=lime>Commands</color> => SetSelectedPvPRegionTagCommand.Complete
+<color=lime>Commands</color> => SavePvpRegionSettingCommand.Execute
+<color=lime>Commands</color> => SetPvpRegionInPlayfabCommand.Execute
+<color=lime>Commands</color> => SetPvpRegionInPlayfabCommand.Complete
+GameService.UpdatePlayerDataWithCallback(). data:
+[PvpRegionSettings[0], Us]
+///////
+callback: target: BusinessTour.PlayfabPvpRegionSettingProvider+<>c__DisplayClass14_0 method: Void <.ctor>b__1_0(Boolean)
+<color=lime>Commands</color> => ConnectToMultiplayerBackendCommand.Complete
+<color=lime>Commands</color> => CallMethodCommand[ConnectToSettingsRegionCommand].Complete
+<color=lime>Commands</color> => CallMethodCommand[ShowMainMenuWithoutReconnecting].Execute
+<color=lime>Commands</color> => CallMethodCommand[ScreenManager.Initialize].Execute
+ScreenManager.Initialize
+PostCreateView. BusinessTour.UITopPanel go:UITopPanel(Clone) (UnityEngine.GameObject) view: UITopPanel(Clone) (BusinessTour.UITopPanel)
+UpdateUserName: toybile
+UpdateUserData.ch: 5000
+UpdateUserData.gg: 20
+AvatarProvider BusinessTour.MyAvatarWithStatus pre-Refresh(). BackendUser:Creobit.Backend.User.SteamPlayFabUser 
+AvatarWithStatusFrame.Refresh() DecoratedObject:
+BusinessTour.UserInfoTrigger
+BusinessTour.UserInfoTrigger
+BusinessTour.AvatarWithSource
+OnOpenWindowEvent WndTopPanel
+Key: 
+Unloaded 33 bundles
+PostCreateView. BusinessTour.UIMainMenu go:UIMainMenu(Clone) (UnityEngine.GameObject) view: UIMainMenu(Clone) (BusinessTour.UIMainMenu)
+TOURNAMENT WORDS KEY: events_txt_special_tickets_progress
+#offers: MainMenu is excluded: False
+OnOpenWindowEvent WndMainMenu
+Key: mainmenu_txt_header
+_openedWindows.Contains(WndMainMenu): False
+Opened windows:
+Is lobby opened: False
+Is map editor opened: False
+<color=lime>Commands</color> => CallMethodCommand[ScreenManager.Initialize].Complete
+<color=lime>Commands</color> => CheckDLCCommand.Execute
+<color=lime>Commands</color> => CheckDLCCommand.Complete
+<color=lime>Commands</color> => InitializeDailyBonusCommand.Execute
+ExecuteCloudScript getDailyReward
+<color=lime>Commands</color> => CallMethodCommand[ShowMainMenuWithoutReconnecting].Complete
+<color=lime>Commands</color> => CloseWindowCommand`1.Execute
+CloseWindow WndConnecting res:Undefined
+Window Before Closed WndConnecting
+Window Closed WndConnecting
+<color=lime>Commands</color> => CloseWindowCommand`1.Complete
+<color=lime>Commands</color> => CallMethodCommand[start listening to invites].Execute
+<color=lime>Commands</color> => CallMethodCommand[start listening to invites].Complete
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+Success update player data. Data version = 4
+<color=lime>Commands</color> => ConnectToMultiplayerBackendCommand.Execute
+<color=lime>Commands</color> => SetPvpRegionInPlayfabCommand.Complete
+UpdateUserName: toybile
+UserInfoTrigger.OnUserInfoChanged(). Decorated:BusinessTour.AvatarWithSource
+ConnectToMultiplayerBackendCommand::Initialize(). RegionCode: us. Multiplayer backend region: us
+ConnectToMultiplayerBackendCommand::Connect()
+<color=cyan>Photon</color> => <color=yellow>PhotonListener</color>.OnJoinedLobby
+PhotonDisconnection handler => OnJoinedLobby
+<color=lime>Commands</color> => SetConnectedPvpRegionTagCommand.Execute
+<color=lime>Commands</color> => SetConnectedPvpRegionTagCommand.Complete
+<color=lime>Commands</color> => SetSelectedPvPRegionTagCommand.Execute
+<color=lime>Commands</color> => SetSelectedPvPRegionTagCommand.Complete
+<color=lime>Commands</color> => SavePvpRegionSettingCommand.Execute
+<color=lime>Commands</color> => SetPvpRegionInPlayfabCommand.Execute
+<color=lime>Commands</color> => SetPvpRegionInPlayfabCommand.Complete
+GameService.UpdatePlayerDataWithCallback(). data:
+[PvpRegionSettings[0], Us]
+///////
+callback: target: BusinessTour.PlayfabPvpRegionSettingProvider+<>c__DisplayClass14_0 method: Void <.ctor>b__1_0(Boolean)
+<color=lime>Commands</color> => ConnectToMultiplayerBackendCommand.Complete
+<color=lime>Commands</color> => SavePvpRegionSettingCommand.Complete
+<color=yellow>CloudScript</color> => getDailyReward: {"RequestResult":"{\"progression\":[[{\"type\":\"chips\",\"value\":100},{\"type\":\"stardust\",\"value\":10}],[{\"type\":\"chips\",\"value\":200},{\"type\":\"stardust\",\"value\":20}],[{\"type\":\"chips\",\"value\":300},{\"type\":\"stardust\",\"value\":30}],[{\"type\":\"chips\",\"value\":400},{\"type\":\"stardust\",\"value\":40}],[{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":50}]],\"rewards\":[{\"type\":\"chips\",\"value\":100},{\"type\":\"stardust\",\"value\":10}],\"daysCount\":\"1\",\"eventRewards\":{\"lootboxes\":[]}}"}
+Успешная инициализация ежедневных наград
+<color=lime>Commands</color> => InitializeDailyBonusCommand.Complete
+<color=lime>Commands</color> => ShowDailyBonusCommand.Execute
+PostCreateView. BusinessTour.UIDailyBonus go:UIDailyBonus(Clone) (UnityEngine.GameObject) view: UIDailyBonus(Clone) (BusinessTour.UIDailyBonus)
+OnOpenWindowEvent WndDailyBonus
+Key: 
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+Success update player data. Data version = 5
+<color=lime>Commands</color> => ConnectToMultiplayerBackendCommand.Execute
+<color=lime>Commands</color> => SetPvpRegionInPlayfabCommand.Complete
+ConnectToMultiplayerBackendCommand::Initialize(). RegionCode: us. Multiplayer backend region: us
+ConnectToMultiplayerBackendCommand::Connect()
+<color=lime>Commands</color> => ConnectToMultiplayerBackendCommand.Complete
+<color=lime>Commands</color> => SavePvpRegionSettingCommand.Complete
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=aqua>ICrashListener.StartCrashListening. </color>
+App goes to foreground. Local time: 2024-05-02 10:34:15 PM
+ExecuteCloudScript receiveDailyRewards
+Window Before Closed WndDailyBonus
+Window Closed WndDailyBonus
+PlayerInventoryService.RequestUpdatedData (3). Begin
+<color=lime>Commands</color> => ShowDailyBonusCommand.Complete
+<color=lime>Commands</color> => RateGameCommand.Execute
+Player open app at first time. Need to incrementing GamesCountToOfferRate from 0 to 1
+<color=lime>Commands</color> => RateGameCommand.Complete
+<color=yellow>CloudScript</color> => receiveDailyRewards: {"RequestResult":"{\"progression\":[[{\"type\":\"chips\",\"value\":100},{\"type\":\"stardust\",\"value\":10}],[{\"type\":\"chips\",\"value\":200},{\"type\":\"stardust\",\"value\":20}],[{\"type\":\"chips\",\"value\":300},{\"type\":\"stardust\",\"value\":30}],[{\"type\":\"chips\",\"value\":400},{\"type\":\"stardust\",\"value\":40}],[{\"type\":\"chips\",\"value\":500},{\"type\":\"stardust\",\"value\":50}]],\"rewards\":[{\"type\":\"chips\",\"value\":100},{\"type\":\"stardust\",\"value\":10}],\"daysCount\":\"1\",\"eventRewards\":{\"lootboxes\":[]}}"}
+Daily bonus rewards received with multiplier 1
+Too many update inventory requests, ignoring
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+BusinessTour.PlayerInventoryService:RequestUpdatedData(Action, Action)
+BusinessTour.<>c__DisplayClass22_0:<ReceiveRewards>g__HandleSuccess|0(String)
+BusinessTour.SessionAuthenticatedPackage:HandleAuthenticatedResult(String)
+BusinessTour.<>c__DisplayClass54_0:<ExecuteCloudScriptInternal>g__OnResult|1(ExecuteCloudScriptResult)
+PlayFab.Internal.<>c__DisplayClass23_0`1:<_MakeApiCall>b__1()
+PlayFab.Internal.PlayFabUnityHttp:OnResponse(String, CallRequestContainer)
+PlayFab.Internal.<Post>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Adjust. Tracking generic adjust event DailyRewardClaimedX1
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+PlayerInventoryService.RequestUpdatedData (3). Success
+UpdateUserData.ch: 5000
+UpdateUserData.gg: 20
+UpdateUserData.ch: 5100
+UpdateUserData.gg: 20
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=aqua>ICrashListener.StopCrashListening. </color>
+App goes to background. Local time: 2024-05-02 10:34:27 PM
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+FPS is low: 21 (30 minimal)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+FPSLogger:OnFPSChanged(Object, Int32)
+<CountCoroutine>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+FPS is low: 21 (30 minimal)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+FPSLogger:OnFPSChanged(Object, Int32)
+<CountCoroutine>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+FPS is low: 27 (30 minimal)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+FPSLogger:OnFPSChanged(Object, Int32)
+<CountCoroutine>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+FPS is low: 27 (30 minimal)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+FPSLogger:OnFPSChanged(Object, Int32)
+<CountCoroutine>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+FPS is low: 12 (30 minimal)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+FPSLogger:OnFPSChanged(Object, Int32)
+<CountCoroutine>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+FPS is low: 12 (30 minimal)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+FPSLogger:OnFPSChanged(Object, Int32)
+<CountCoroutine>d__12:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=aqua>ICrashListener.StartCrashListening. </color>
+App goes to foreground. Local time: 2024-05-02 10:43:11 PM
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+PostCreateView. BusinessTour.UIModalDialog go:UIModalDialog(Clone) (UnityEngine.GameObject) view: UIModalDialog(Clone) (BusinessTour.UIModalDialog)
+OnOpenWindowEvent WndModalDialog
+Key: 
+GameService.UpdatePlayerData(). data:
+[LastOnlineTimestamp, 2024-05-03T01:46:31.996Z]
+///////
+Success update player data. Data version = 6
+<color=cyan>Photon</color> => <color=yellow>RoomManagement</color>.OnReceivedRoomListUpdate
+<color=lime>Commands</color> => ButtonCommandApplicationQuit.Execute
+CloseWindow WndModalDialog res:Undefined
+Window Before Closed WndModalDialog
+<color=aqua>ICrashListener.StopCrashListening. </color>
+Setting up 2 worker threads for Enlighten.
+Curl error 23: Callback aborted
+Curl error 42: Callback aborted
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 1723 frames, [1.0 KB-2.0 KB]: 3 frames, [2.0 KB-4.0 KB]: 2 frames, [4.0 KB-8.0 KB]: 33248 frames, [8.0 KB-16.0 KB]: 96 frames, [16.0 KB-32.0 KB]: 43 frames, [32.0 KB-64.0 KB]: 3 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.4 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 96.0 KB
+      Peak Allocated Bytes 95.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.9 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 23.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_ReadCacheIndex]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 475 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 2
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 7.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 23.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 23.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_CloudJob.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 16.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 65 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 3345
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 2 Subsections = 2048 buckets. Failed count: 46355
+        32B: 14 Subsections = 7168 buckets. Failed count: 87426
+        48B: 21 Subsections = 7168 buckets. Failed count: 803736
+        64B: 149 Subsections = 38144 buckets. Failed count: 12675
+        80B: 33 Subsections = 6758 buckets. Failed count: 106611
+        96B: 29 Subsections = 4949 buckets. Failed count: 4111
+        112B: 6 Subsections = 877 buckets. Failed count: 17053
+        128B: 2 Subsections = 256 buckets. Failed count: 7277
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1594 frames, [32.0 MB-64.0 MB]: 8105 frames, [64.0 MB-128.0 MB]: 25425 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 120.3 MB
+      Peak Large allocation bytes 99.7 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 35124 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 6.0 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 5
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 12
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 2 Subsections = 2048 buckets. Failed count: 46355
+        32B: 14 Subsections = 7168 buckets. Failed count: 87426
+        48B: 21 Subsections = 7168 buckets. Failed count: 803736
+        64B: 149 Subsections = 38144 buckets. Failed count: 12675
+        80B: 33 Subsections = 6758 buckets. Failed count: 106611
+        96B: 29 Subsections = 4949 buckets. Failed count: 4111
+        112B: 6 Subsections = 877 buckets. Failed count: 17053
+        128B: 2 Subsections = 256 buckets. Failed count: 7277
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 1858 frames, [256.0 KB-0.5 MB]: 5 frames, [0.5 MB-1.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 33260 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 7.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 1864 frames, [256.0 KB-0.5 MB]: 33260 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 267.5 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 31
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 2 Subsections = 2048 buckets. Failed count: 46355
+        32B: 14 Subsections = 7168 buckets. Failed count: 87426
+        48B: 21 Subsections = 7168 buckets. Failed count: 803736
+        64B: 149 Subsections = 38144 buckets. Failed count: 12675
+        80B: 33 Subsections = 6758 buckets. Failed count: 106611
+        96B: 29 Subsections = 4949 buckets. Failed count: 4111
+        112B: 6 Subsections = 877 buckets. Failed count: 17053
+        128B: 2 Subsections = 256 buckets. Failed count: 7277
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 35024 frames, [64.0 MB-128.0 MB]: 100 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 15
+      Peak Allocated memory 64.7 MB
+      Peak Large allocation bytes 9.1 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1715 frames, [128.0 KB-256.0 KB]: 50 frames, [256.0 KB-0.5 MB]: 33358 frames, [0.5 MB-1.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.6 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 2 Subsections = 2048 buckets. Failed count: 46355
+        32B: 14 Subsections = 7168 buckets. Failed count: 87426
+        48B: 21 Subsections = 7168 buckets. Failed count: 803736
+        64B: 149 Subsections = 38144 buckets. Failed count: 12675
+        80B: 33 Subsections = 6758 buckets. Failed count: 106611
+        96B: 29 Subsections = 4949 buckets. Failed count: 4111
+        112B: 6 Subsections = 877 buckets. Failed count: 17053
+        128B: 2 Subsections = 256 buckets. Failed count: 7277
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [2.0 MB-4.0 MB]: 35124 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 2
+      Peak Allocated memory 3.9 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [0-1.0 KB]: 35124 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 0
+      Peak Allocated memory 0 B
+      Peak Large allocation bytes 0 B

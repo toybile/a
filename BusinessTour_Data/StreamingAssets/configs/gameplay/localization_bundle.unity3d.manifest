@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3205708353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f1260739a24f71d78da4ccefbba0db5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5f345103810ed79f5f1cf00b87b6e675
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: fc99582871188f648b8f586432db9c5c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: LocalizationConfigs/LocalesDictionary
+Assets:
+- Assets/Bundled/Configs/Gameplay/Localization/LocalizationConfigs_Fantasy.asset
+- Assets/Bundled/Configs/Gameplay/Localization/LocalizationConfigs_Classic.asset
+- Assets/Bundled/Configs/Gameplay/Localization/LocalizationConfigs_Wonderland.asset
+Dependencies: []

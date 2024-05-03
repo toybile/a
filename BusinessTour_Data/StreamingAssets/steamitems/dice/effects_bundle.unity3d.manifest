@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 862939716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 883bd25431a4fed747784a7bb5535029
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28c31804d4df4ab98ed9da13b4d6294c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a60a99b684834f41b407f68f5cfc4cb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.RandomizedObjectSelector/RandomGameobject
+Assets:
+- Assets/Bundled/SteamItems/Dice/Effects/cyberCube_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/mysticCircle_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/constalationTrail_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/ro_stars_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/star_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/colorFeather_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/ice_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/spades_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/boom_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/gradientBubble_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/confetti_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/mirana_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/legendary_end.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/frosted_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/tricolorBubble_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/diamond_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/rays_end.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/bulb_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/legendary1_end.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/pinkSwirl_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/skeleton_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/leaves_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/circle_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/feather_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/note_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/pumpkin_tail.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/cookingSteam_end.prefab
+- Assets/Bundled/SteamItems/Dice/Effects/bullet_tail.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/dice/effects/animation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/dice/effects/materials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/dice/effects/shapes_bundle.unity3d

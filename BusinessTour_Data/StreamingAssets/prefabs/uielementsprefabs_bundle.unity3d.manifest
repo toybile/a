@@ -1,0 +1,122 @@
+ManifestFileVersion: 0
+CRC: 2736772594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df731dc66c7204263074ab19b170493d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3eefc7dfe237f516afb2bc8833fed79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80eef5373e710774c881ffb33658ebec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 459d6932cc7cf3b47a20c25fd06df925, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70d6f79789089549b7e743ff6ac8a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8845b7fa5eea31043be33443c0c13e3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bba3be8b4f7280d45b87febb8bd79b94, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: FindByHierarchyIndices
+- AssemblyName: Assembly-CSharp
+  ClassName: GetHomeAction
+- AssemblyName: Assembly-CSharp
+  ClassName: GetPlayerProfileWindowAction
+- AssemblyName: Assembly-CSharp
+  ClassName: InputHelpHint/HelpHintObject
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ButtonClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ChangeSliderValueAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.CompositeButtonClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DebugAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DropdownSelectionAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FindAndPerformFirstValidLinkAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FindByNameAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FocusScrollViewToCurrentActiveElementOnGridAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FocusScrollViewToCurrentActiveOnOneDimensionLayoutGroupAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.GadgetButtonAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.MoveAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationLink
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationLinksList
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationStateActionList
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ScrollAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SelectionAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchCardButtonAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchChildDynamicallyAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchChildStaticallyAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchTabAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToNavigationGroup
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToNavmapAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToRootNavmapInDirection
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ToggleClickAction
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundled/prefabs/UIElementsPrefabs/SwipeAreaSelectPawn.prefab
+- Assets/Bundled/prefabs/UIElementsPrefabs/ButtonClose.prefab
+- Assets/Bundled/prefabs/UIElementsPrefabs/ButtonsSelectPawn.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/nintendo_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/playstation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/windows/base_bundle.unity3d

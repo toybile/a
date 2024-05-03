@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2915923898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9371bb341abff3fca4bb8beb4af16ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0002_2.png
+- Assets/Bundled/Sprites/Windows/Base/dropdown_background.png
+- Assets/Bundled/Sprites/Windows/Base/closeButton0003.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0001_3.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0004_2.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0001_0.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0004.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0004_0.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0001_2.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0004_3.png
+- Assets/Bundled/Sprites/Windows/Base/windowBackground.png
+- Assets/Bundled/Sprites/Windows/Base/closeButton0004.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0003_2.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0003_3.png
+- Assets/Bundled/Sprites/Windows/Base/dropdown_select.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0003.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0003_0.png
+- Assets/Bundled/Sprites/Windows/Base/backButton.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0002.png
+- Assets/Bundled/Sprites/Windows/Base/closeButton0002.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0002_0.png
+- Assets/Bundled/Sprites/Windows/Base/closeButton0001.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0002_3.png
+- Assets/Bundled/Sprites/Windows/Base/confirmBuyButton0001.png
+Dependencies: []

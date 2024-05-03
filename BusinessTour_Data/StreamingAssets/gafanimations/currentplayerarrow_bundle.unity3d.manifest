@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2153262332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfa4793f1127066811276d1417bb1fd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 96e585e34ca90e0eb0aaaa628289fb89
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: GAF
+  ClassName: GAFInternal.Data.GAFAssetExternalData
+Assets:
+- Assets/Bundled/GafAnimations/CurrentPlayerArrow/CurrentPlayerArrow.png
+- Assets/Bundled/GafAnimations/CurrentPlayerArrow/CurrentPlayerArrow.mat
+- Assets/Bundled/GafAnimations/CurrentPlayerArrow/CurrentPlayerArrow.asset
+Dependencies: []

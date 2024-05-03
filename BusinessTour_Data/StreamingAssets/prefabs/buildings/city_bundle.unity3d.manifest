@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1895260473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 532783aa769494ac6f0877f00b375b6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: beef4935fa32e431aba8d3eef1f09e16
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b794439294961341b05a68751a9ed57, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/prefabs/Buildings/City/CityBuilding.prefab
+- Assets/Bundled/prefabs/Buildings/City/CityLvl2.prefab
+- Assets/Bundled/prefabs/Buildings/City/Hotel8.prefab
+- Assets/Bundled/prefabs/Buildings/City/CityLvl0.prefab
+- Assets/Bundled/prefabs/Buildings/City/Hotel7.prefab
+- Assets/Bundled/prefabs/Buildings/City/CityLvl1.prefab
+- Assets/Bundled/prefabs/Buildings/City/Hotel1.prefab
+- Assets/Bundled/prefabs/Buildings/City/Hotel2.prefab
+- Assets/Bundled/prefabs/Buildings/City/CityLvl3.prefab
+- Assets/Bundled/prefabs/Buildings/City/Hotel6.prefab
+- Assets/Bundled/prefabs/Buildings/City/Hotel4.prefab
+- Assets/Bundled/prefabs/Buildings/City/Hotel3.prefab
+- Assets/Bundled/prefabs/Buildings/City/Hotel5.prefab
+Dependencies: []

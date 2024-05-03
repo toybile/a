@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 460296548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 996943ae123d1550bb7a5b7229988156
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 032a4a4830e417e35232193f8f7b4830
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house2_magic_places_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_4_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_5_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_hotel_magic_places_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_3_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_ground_magic_places_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_4_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house3_magic_places_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house1_magic_places_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_ground_magic_places_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_2_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house3_magic_places_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_hotel_magic_places_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_2_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_1_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house3_magic_places_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house1_magic_places_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house2_magic_places_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_hotel_magic_places_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house1_magic_places_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_5_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_3_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/MagicPlaces_1_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/MagicPlaces/V_house2_magic_places_anim2.png
+Dependencies: []

@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2327627530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 001d7ed3df36422d27b74477fc826277
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de2de81dbc9963cde606c75fb14d5a6b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/thunderstorm.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/smoke_04.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/Cloud_bottom.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/Cloud_bottom.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/Cloud_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/smoke_02.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/thunderstorm.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/cloud_target.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/smoke_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/Cloud_target.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/Preview.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/smoke_03.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/Cloud_02.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/thunderstorm.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/smoke_05.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/Cloud_thunderstotm.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/Cloud_bottom.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji02/cloud_target.controller
+Dependencies: []

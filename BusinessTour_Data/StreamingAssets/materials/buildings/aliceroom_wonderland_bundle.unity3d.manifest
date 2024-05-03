@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2066185564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 174927b56c8759ee272561ff93557a71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/AliceRoomMaterial_2_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/DarkAliceRoomMaterial_0_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/AliceRoomMaterial_4_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/DarkAliceRoomMaterial_4_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/DarkAliceRoomMaterial_5_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/DarkAliceRoomMaterial_1_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/AliceRoomMaterial_0_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/AliceRoomMaterial_1_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/DarkAliceRoomMaterial_3_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/AliceRoomMaterial_5_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/AliceRoomMaterial_3_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/AliceRoom_Wonderland/DarkAliceRoomMaterial_2_Wonderland.mat
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/buildingstextures_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/obelisks/masks_bundle.unity3d

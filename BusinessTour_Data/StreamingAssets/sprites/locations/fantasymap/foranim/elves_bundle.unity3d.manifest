@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3502994614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 660187127e50bb7d2386385cb20be648
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 032a4a4830e417e35232193f8f7b4830
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_5_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_house2_elves_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_4_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_house1_elves_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_ground_elves_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_house2_elves_anim4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_hotel_elves_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_ground_elves_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_3_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_hotel_elves_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_house2_elves_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_house2_elves_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_5_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_4_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_2_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_house1_elves_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_3_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_hotel_elves_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_1_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_house3_elves_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_1_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Elves_2_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/III_house3_elves_anim2.png
+Dependencies: []

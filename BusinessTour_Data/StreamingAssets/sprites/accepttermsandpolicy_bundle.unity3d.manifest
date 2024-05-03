@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3761426421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4c80b491c821a7d5c62219b6198a000
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/AcceptTermsAndPolicy/button_normal.png
+- Assets/Bundled/Sprites/AcceptTermsAndPolicy/button_green_over.png
+- Assets/Bundled/Sprites/AcceptTermsAndPolicy/back.png
+- Assets/Bundled/Sprites/AcceptTermsAndPolicy/button_over.png
+- Assets/Bundled/Sprites/AcceptTermsAndPolicy/button_clicked.png
+- Assets/Bundled/Sprites/AcceptTermsAndPolicy/button_green_clicked.png
+- Assets/Bundled/Sprites/AcceptTermsAndPolicy/button__green_normal.png
+Dependencies: []

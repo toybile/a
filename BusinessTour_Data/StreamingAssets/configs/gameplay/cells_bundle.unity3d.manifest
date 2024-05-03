@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1315893190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51980bdab58800e905f3a942a74ea7ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2687ed079f8ae2ba69c73ccabc522886
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 683248db018eb0f498343c74da1a3016, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c7be7a9ed041ad4c8bc224c8f87b27c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7799c17e2291d6649afc4af341ec5876, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1adb91e329d5b14b8256e4c25b46921, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e422e3c61167564d82e3461d37d5e4a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellSkinConfig/SkinBySuit
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellSkinConfig/SkinByType
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellsConfig/SpecialCell
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellsConfigsCatalog/CellsCompositeConfig
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellsConfigsCatalog/CellsConfigByMapDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SpecialCellsSkinsConfig/SpecialCellSkinData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.WindowViewConfigData
+Assets:
+- Assets/Bundled/Configs/Gameplay/Cells/CellsConfig_Fantasy.asset
+- Assets/Bundled/Configs/Gameplay/Cells/WindowViewsConfig_Classic.asset
+- Assets/Bundled/Configs/Gameplay/Cells/CellSkinConfig_Classic.asset
+- Assets/Bundled/Configs/Gameplay/Cells/CellsCatalog.asset
+- Assets/Bundled/Configs/Gameplay/Cells/CellsConfig_Classic.asset
+- Assets/Bundled/Configs/Gameplay/Cells/SpecialCellsSkinsConfig_Classic.asset
+- Assets/Bundled/Configs/Gameplay/Cells/SpecialCellsSkinsConfig_Wonderland.asset
+- Assets/Bundled/Configs/Gameplay/Cells/CellsConfig_Wonderland.asset
+- Assets/Bundled/Configs/Gameplay/Cells/SpecialCellsSkinsConfig_Fantasy.asset
+- Assets/Bundled/Configs/Gameplay/Cells/WindowViewsConfig_Wonderland.asset
+- Assets/Bundled/Configs/Gameplay/Cells/CellSkinConfig_Fantasy.asset
+- Assets/Bundled/Configs/Gameplay/Cells/CellSkinConfig.asset
+- Assets/Bundled/Configs/Gameplay/Cells/WindowViewsConfig_Fantasy.asset
+- Assets/Bundled/Configs/Gameplay/Cells/CellSkinConfig_Wonderland.asset
+Dependencies: []

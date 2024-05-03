@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 713327619
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6dcff23b162afed86324c76c448edc89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_4_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_9_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_15_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_12_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_10_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_3_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_13_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_18_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_apply_preview_4_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_apply_preview_3_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_5_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_6_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_16_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_7_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_apply_preview_17_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_19_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_2_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_0_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_8_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_17_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_11_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_14_wonderland.png
+- Assets/Bundled/Sprites/Cards/Wonderland/Icons/card_icon_1_wonderland.png
+Dependencies: []

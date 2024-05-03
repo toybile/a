@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 2734595504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00650dbc6f8f5c5e30622457abd7b95a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7791d1bb485c09017f1add5941f6dabe
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 82fc7ce02d1a1ca468574011c17c38bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af6d88287bcd9ab43a9dab3d144b2bf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc99582871188f648b8f586432db9c5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61469777df1d7e24481f37a45de9cff4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 843d4274d3b3acf4fab7f741afa12395, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c081f15d9b410e1478ac14aef88bb692, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64ce31d5708d17a4099123e0c434932f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dff658d50b6b0944d9b23ebaf56394f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe68340ab161c4a4ab7025d4b12fa803, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0212fec32f6330849a7c410fce0d3454, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c0ef554a8cec740834cf226c274778, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d90653ad03989a3488207c9f76a4ff11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0e503ef3d3d82c43948d84fef341df6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14eddf9e04ad24342adece2fee564e10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbd478f0618b0fc4588932751f806ac7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellControlBonus
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CellTypeRewardDictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.ImageOverrideConfig/ImageOverrideDictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.ObeliskData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PlatformIdsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.Rules.DefaultGameModeSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.Rules.RulesSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SerializedMapDefinition
+Assets:
+- Assets/Bundled/Configs/Gameplay/GameViewConfig_Classic.asset
+- Assets/Bundled/Configs/Gameplay/MapPresetCollection.asset
+- Assets/Bundled/Configs/Gameplay/GameViewConfig_Wonderland.asset
+- Assets/Bundled/Configs/Gameplay/ImageOverrideConfig_Wonderland.asset
+- Assets/Bundled/Configs/Gameplay/ObelisksConfig.asset
+- Assets/Bundled/Configs/Gameplay/GameViewConfig_Fantasy.asset
+- Assets/Bundled/Configs/Gameplay/ImageOverrideConfig_Fantasy.asset
+- Assets/Bundled/Configs/Gameplay/MapCollection.asset
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/boarddecorations_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/gameplay/carddecks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/gameplay/localization_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/gameplay/maps_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/gameplay/sound_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/playerview_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/windows/base_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/windows/windowislandescape_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/windows_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites_bundle.unity3d

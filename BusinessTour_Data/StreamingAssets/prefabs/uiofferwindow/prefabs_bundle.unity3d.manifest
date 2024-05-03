@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 374376270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fd6df23ab04ce84a825411d0ba28102
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6326f360d725e53ba8289a39346a7921
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8ee60af491978345bc197ed4e1316bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cd74ce36c0eb744e84e182501a33cf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e753fdb84a3c594fbe63ce2e102b27a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92e76c341fdd9d148b17143d8a5a59e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b96c15c28a75b004cabaf987a1fff983, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b19bd094b6045640ab95f20802af060, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda79bac9063dc14790f2c8da343e1f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 000f17e6e9a820745994e36de2734f67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c00f4392f27fcf84d9346617dda53755, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05f30600e13e7f448b0bbd86029b5ce5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80f820036fb9cf74ea5db56551446843, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee865abaf9d37484884c6b9b9a40bbc3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4989bdfecff2b84eb2ec32150cc0a4f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8863dd56bb62ca24eab6b68005491f11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b413a0799daf9894fa9df12cd6d5ca7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b82b5adc61da12d4f99c44f9cab471da, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.DiceTrajectory
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.Offers.OfferLargeDicePreview/DicesCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.Offers.OfferLargeItemView/PreviewsCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TMProFontInfo
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundled/prefabs/UIOfferWindow/Prefabs/price_with_discount.prefab
+- Assets/Bundled/prefabs/UIOfferWindow/Prefabs/small_item_view.prefab
+- Assets/Bundled/prefabs/UIOfferWindow/Prefabs/multiplier_view.prefab
+- Assets/Bundled/prefabs/UIOfferWindow/Prefabs/large_item_view.prefab
+- Assets/Bundled/prefabs/UIOfferWindow/Prefabs/avatar_view.prefab
+- Assets/Bundled/prefabs/UIOfferWindow/Prefabs/price_only.prefab
+- Assets/Bundled/prefabs/UIOfferWindow/Prefabs/discount_view.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/prefabs/uiofferwindow/animations_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/characters/skin10/character03/avatars_bundle.unity3d

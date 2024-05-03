@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3825571598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32b710ecbbc5f5a99d842450762cbfff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/04.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/05.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/02.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/07.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/03.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/12.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/11.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/09.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/06.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/13.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/10.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Drops/08.png
+Dependencies: []

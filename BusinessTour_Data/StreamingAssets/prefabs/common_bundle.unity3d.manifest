@@ -1,0 +1,108 @@
+ManifestFileVersion: 0
+CRC: 394873515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fb588f9c455cef0e5e78c2e013a7bbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abf15552c04ffafdae45c186fe860a2d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 783f62a68bba805469daa9329684fb7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70d6f79789089549b7e743ff6ac8a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8845b7fa5eea31043be33443c0c13e3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b66bf4ab5b9ff9c4289f7353cac37cdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bba3be8b4f7280d45b87febb8bd79b94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d617cb38632d5bb4caa44ca0fc5be8b2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: InputHelpHint/HelpHintObject
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundled/prefabs/Common/SpinnerAnimation.prefab
+- Assets/Bundled/prefabs/Common/ScrollbarLeftHint.prefab
+- Assets/Bundled/prefabs/Common/ScrollbarRightHint.prefab
+- Assets/Bundled/prefabs/Common/AchievementInProfile.prefab
+- Assets/Bundled/prefabs/Common/randomItems.prefab
+- Assets/Bundled/prefabs/Common/ButtonBack.prefab
+- Assets/Bundled/prefabs/Common/ShowAllButton.prefab
+- Assets/Bundled/prefabs/Common/ValueWithCurrency.prefab
+- Assets/Bundled/prefabs/Common/tournamentRandomItems.prefab
+- Assets/Bundled/prefabs/Common/Header.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/chips_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/nintendo_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites_bundle.unity3d

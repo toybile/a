@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3214950280
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1cf984bf4966c07aa64ef98e166b0dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Buttons/ButtonRed/ButtonRed0003.png
+- Assets/Bundled/Sprites/Buttons/ButtonRed/ButtonRed0004.png
+- Assets/Bundled/Sprites/Buttons/ButtonRed/ButtonRed0001.png
+- Assets/Bundled/Sprites/Buttons/ButtonRed/ButtonRed0002.png
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1738514728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80a83b57be45eacd6803b9ce0d3ff86f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/images/\u0421\u043B\u043E\u0439
+  1.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/images/\u0421\u043B\u043E\u0439
+  2 \u043A\u043E\u043F\u0438\u044F.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/images/\u0421\u043B\u043E\u0439
+  2.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/images/\u0421\u043B\u043E\u0439
+  3.png"
+Dependencies: []

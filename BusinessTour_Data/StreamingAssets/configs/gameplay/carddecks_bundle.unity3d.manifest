@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1130161856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 655bcbe74dbbed38f93809dd6cfddc7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cac7529548a5f5955b854809eda4b643
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: d90653ad03989a3488207c9f76a4ff11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e85f2045434fea5488fd98791140cc21, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CardInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CardViewData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CardsCatalog/CardDeckDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CardsCatalog/CardTypeDataDict
+Assets:
+- Assets/Bundled/Configs/Gameplay/CardDecks/deck_royalGift.asset
+- Assets/Bundled/Configs/Gameplay/CardDecks/CardsConfig_Fantasy.asset
+- Assets/Bundled/Configs/Gameplay/CardDecks/CardsConfig_Wonderland.asset
+- Assets/Bundled/Configs/Gameplay/CardDecks/deck_saboteur.asset
+- Assets/Bundled/Configs/Gameplay/CardDecks/CardsCatalog.asset
+- Assets/Bundled/Configs/Gameplay/CardDecks/CardsConfig.asset
+- Assets/Bundled/Configs/Gameplay/CardDecks/CardsConfig_Classic.asset
+Dependencies: []

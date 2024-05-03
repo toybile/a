@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3302831492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7807ad22e1e1b77fbe7abdf02d1eb4ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/Masks/VIII_house2_people_anim4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/Masks/VIII_house3_people_anim6_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/Masks/VIII_house1_people_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/Masks/VIII_house2_people_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/Masks/VIII_hotel_people_anim1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/Masks/VIII_hotel_people_anim3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/Masks/VIII_house3_people_anim4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/Masks/VIII_house3_people_anim2_mask.png
+Dependencies: []

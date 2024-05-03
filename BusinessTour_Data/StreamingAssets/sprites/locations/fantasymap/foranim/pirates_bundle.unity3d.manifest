@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2543903789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39a1f2cefc4a83704a3b749303ec7b96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 032a4a4830e417e35232193f8f7b4830
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_house2_pirates_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_5_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_house1_pirates_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_hotel_pirates_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_hotel_pirates_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_5_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_2_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_ground_pirates_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_4_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_house2_pirates_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_house3_pirates_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_ground_pirates_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_ground_pirates_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_2_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_3_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_1_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_1_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_house1_pirates_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_3_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/Pirates_4_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Pirates/IV_house3_pirates_anim2.png
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1417442088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e946257957a50f357f31bf0b938969d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea023f5bef04901cb25b9e355a0c12bd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/LuxuryTax/SpineData/\u041D\u0430\u043B\u043E\u0433
+  \u043D\u0430 \u0440\u043E\u0441\u043A\u043E\u0448\u044C.png"
+- Assets/Bundled/CardEffects/CardEffects_Wonderland/LuxuryTax/SpineData/skeleton_SkeletonData.asset
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/LuxuryTax/SpineData/\u041D\u0430\u043B\u043E\u0433
+  \u043D\u0430 \u0440\u043E\u0441\u043A\u043E\u0448\u044C_Material.mat"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/LuxuryTax/SpineData/\u041D\u0430\u043B\u043E\u0433
+  \u043D\u0430 \u0440\u043E\u0441\u043A\u043E\u0448\u044C_SkeletonData.asset"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/LuxuryTax/SpineData/\u041D\u0430\u043B\u043E\u0433
+  \u043D\u0430 \u0440\u043E\u0441\u043A\u043E\u0448\u044C_Atlas.asset"
+Dependencies: []

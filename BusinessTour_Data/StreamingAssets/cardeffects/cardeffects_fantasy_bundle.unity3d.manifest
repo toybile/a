@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 2298697880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea1591f9c5d478035083b3c511ae1f71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4faa5f9a3f96ebc0170a925167f45eab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef383722eae9dda418c640bd96f9082b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6de4facf41456e7499452f565a243a75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/Shield_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/ElectricityOutage_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/ThrowDiceAgain.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/RogueTrap.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/UpgradeRandomCity.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/GoToWorldTournament_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/BlackMark_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/Earthquake_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/Fine_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/StartOver_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/LostIsland_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/NiceBonus_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/SelectWorldTournament_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/DiscountCoupon_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/RoyalGift_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/HappyBirthday_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/RoadHome_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/Sabotage_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/Invitation_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/UpgradeSelectedCity.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/LuxuryTax_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/TouristTrip_Fantasy.prefab
+- Assets/Bundled/CardEffects/CardEffects_Fantasy/ForcedSale_Fantasy.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/materials/buildings/city_fantasy_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/masks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap_bundle.unity3d

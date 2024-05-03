@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2662753802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddcf130d201c373ec6edc91fe1cf5802
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e99aa84c8c93d3aada071ce5e6f911e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be71503a6b3b40b4980573392e86661a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c21a41f81f5c4bbc557ea3807916e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/Preview.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/skin_02_character_01_balloon_anim.controller
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/skin_02_character_01_basket.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/Character01Color3.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/Character01Color1.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/Character01Color0.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/skin_02_character_01_balloon_glow_05.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/skin_02_character_01_balloon_glow_022.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/Character01Color4.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/Character01Color2.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/Character01Color5.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/skin_02_character_01_balloon_glow.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/Character01.prefab
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/skin_02_character_01_balloon_glow.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character01/skin_02_character_01_balloon_anim.anim
+Dependencies: []

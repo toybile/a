@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 4072318507
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b45fd8a2222135d90c79dce3754086bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 032a4a4830e417e35232193f8f7b4830
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_2_simple_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_ground_simple_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_hotel_simple_people_anim4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_3_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_2_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_hotel_simple_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_3_simple_people_anim4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_4_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_2_simple_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_3_simple_people_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_3_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_2_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_hotel_simple_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_3_simple_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_5_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_3_simple_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_2_simple_people_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_5_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_3_simple_people_anim5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_2_simple_people_anim4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_ground_simple_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_3_simple_people_anim6.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_4_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_1_simple_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_1_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_house_1_simple_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/I_hotel_simple_people_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/PeopleSimple_1_Anim.anim
+Dependencies: []

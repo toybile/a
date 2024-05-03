@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2183405139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 017d040772cc56ed15d164789a08f57a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 366bb2e08290351b9c69b8e3c1c29abf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fd89cd0e31840340a2b089aa1e206d1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: StackableGameobjects
+Assets:
+- Assets/Bundled/prefabs/UIGameInventory/ObelisksInventory.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap_bundle.unity3d

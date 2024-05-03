@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1524483550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d00f6360032cb7b94a28ec92b21ba90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/PeopleNew_House_2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Pirates_House_4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Pirates_House_5_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Elves_House_5_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Elves_House_4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/MagicPlaces_House_1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/People_House_2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Elves_House_2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/SecretTower_House_5_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/MagicPlaces_House_4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Pirates_House_1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/PeopleNew_House_5_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Dwarfs_House_3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Dwarfs_House_1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Mountains_House_1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/MagicPlaces_House_2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/SecretTower_House_3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/PeopleNew_House_4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/People_House_1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Elves_House_3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Mountains_House_3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/PeopleNew_House_1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Pirates_House_3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/MagicPlaces_House_3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/SecretTower_House_2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Dwarfs_House_2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/SecretTower_House_1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/MagicPlaces_House_5_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Mountains_House_5_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Pirates_House_2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Mountains_House_2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Elves_House_1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Dwarfs_House_5_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/People_House_4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/People_House_3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/SecretTower_House_4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Mountains_House_4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/PeopleNew_House_3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/People_House_5_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Masks/Dwarfs_House_4_mask.png
+Dependencies: []

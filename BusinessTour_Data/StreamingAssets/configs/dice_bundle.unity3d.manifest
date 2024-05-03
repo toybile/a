@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 928248901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fb5585c0d1f9161126cb9025f0d8057
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abbb1f86819eee830b4167c3efac59bf
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: cd8ca6ce3026fa344aa9e80cbc161b3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eac8d48832b9204438a2de2f991c7f51, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PlatformIdsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SerializedDieDefinition
+Assets:
+- Assets/Bundled/Configs/dice/Skin01Standard.asset
+- Assets/Bundled/Configs/dice/Skin12Sport.asset
+- Assets/Bundled/Configs/dice/Skin14Football.asset
+- Assets/Bundled/Configs/dice/Skin23Pandas.asset
+- Assets/Bundled/Configs/dice/Skin05Summer2017.asset
+- Assets/Bundled/Configs/dice/Skin29Apocalyptic.asset
+- Assets/Bundled/Configs/dice/Skin25Cats.asset
+- Assets/Bundled/Configs/dice/Skin04Christmas2018.asset
+- Assets/Bundled/Configs/dice/DiceCollection.asset
+- Assets/Bundled/Configs/dice/Skin17Dino.asset
+- Assets/Bundled/Configs/dice/Skin13SciFi.asset
+- Assets/Bundled/Configs/dice/Skin21Pigs.asset
+- Assets/Bundled/Configs/dice/Skin18Monkeys.asset
+- Assets/Bundled/Configs/dice/Skin09Fantasy.asset
+- Assets/Bundled/Configs/dice/Skin24Wonderland.asset
+- Assets/Bundled/Configs/dice/Skin16Pets.asset
+- Assets/Bundled/Configs/dice/Skin28Mythology.asset
+- Assets/Bundled/Configs/dice/Skin27Gadgets.asset
+- Assets/Bundled/Configs/dice/Skin22StreetFood.asset
+- Assets/Bundled/Configs/dice/Skin26Sweets.asset
+- Assets/Bundled/Configs/dice/Skin33Western.asset
+- Assets/Bundled/Configs/dice/Skin11Party.asset
+- Assets/Bundled/Configs/dice/Skin34Western2.asset
+- Assets/Bundled/Configs/dice/Skin30Egypt.asset
+- Assets/Bundled/Configs/dice/Skin03Mystical.asset
+- Assets/Bundled/Configs/dice/Skin19Frogs.asset
+- Assets/Bundled/Configs/dice/Skin02Classic.asset
+- Assets/Bundled/Configs/dice/Skin31Mafia.asset
+- Assets/Bundled/Configs/dice/Skin07Military.asset
+- Assets/Bundled/Configs/dice/Skin08GreatLeaders.asset
+- Assets/Bundled/Configs/dice/Skin06Pirate.asset
+- Assets/Bundled/Configs/dice/Skin32Rome.asset
+- Assets/Bundled/Configs/dice/Skin20Knights.asset
+- Assets/Bundled/Configs/dice/Skin10Beach.asset
+- Assets/Bundled/Configs/dice/Skin15CrazyHeroes.asset
+Dependencies: []

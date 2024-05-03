@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 483142930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7da912ebb75160974a7b60c16ff9df5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Tournaments/EventSkin12.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin24.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin17.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin19.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin27.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin13.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin09.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin04.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin08.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin11.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin16.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin03.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin18.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin07.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin20.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin25.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin10.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin28.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin21.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin06.png
+- Assets/Bundled/Sprites/Tournaments/EventSkin23.png
+Dependencies: []

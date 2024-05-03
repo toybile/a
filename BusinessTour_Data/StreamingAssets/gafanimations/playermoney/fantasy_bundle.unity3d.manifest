@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3932667194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee2549ab72edace58830933a56644715
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b2545ab292370f8747d515f2b80b4d84
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35ee4e1a8d120f445820e3af68048d11, type: 3}
+- Class: 114
+  Script: {fileID: -765628799, guid: 86057e0c3e6f68343894579d83be909f, type: 3}
+- Class: 114
+  Script: {fileID: -736414528, guid: 86057e0c3e6f68343894579d83be909f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b503eb86db13f54cb46640b6e6c8f0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27ac50d8f5261aa41b9911180c478009, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1e7a18d8a495004b8341f79f186abe2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: GAF
+  ClassName: GAFInternal.Core.GAFAnimationPlayerSettings
+- AssemblyName: GAF
+  ClassName: GAFInternal.Data.GAFAssetExternalData
+- AssemblyName: GAF
+  ClassName: GAFInternal.Objects.GAFObjectData
+Assets:
+- Assets/Bundled/GafAnimations/PlayerMoney/Fantasy/PlayerMoney.mat
+- Assets/Bundled/GafAnimations/PlayerMoney/Fantasy/PlayerMoney.asset
+- Assets/Bundled/GafAnimations/PlayerMoney/Fantasy/PlayerMoney.prefab
+- Assets/Bundled/GafAnimations/PlayerMoney/Fantasy/PlayerMoney.png
+Dependencies: []

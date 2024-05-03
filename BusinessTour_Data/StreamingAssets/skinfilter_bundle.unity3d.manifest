@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 3194255679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 916865c969cc7013586afb6c4e093a7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SkinFilter/Skin04_02.png
+- Assets/Bundled/SkinFilter/Skin09_02.png
+- Assets/Bundled/SkinFilter/Skin06_01.png
+- Assets/Bundled/SkinFilter/Skin18_01.png
+- Assets/Bundled/SkinFilter/AllSkins02.png
+- Assets/Bundled/SkinFilter/Skin23_02.png
+- Assets/Bundled/SkinFilter/Skin15_01.png
+- Assets/Bundled/SkinFilter/Skin05_02.png
+- Assets/Bundled/SkinFilter/Skin31_02.png
+- Assets/Bundled/SkinFilter/Skin07_01.png
+- Assets/Bundled/SkinFilter/Skin33_01.png
+- Assets/Bundled/SkinFilter/Skin25_01.png
+- Assets/Bundled/SkinFilter/AllSkins01.png
+- Assets/Bundled/SkinFilter/Skin11_02.png
+- Assets/Bundled/SkinFilter/Skin31_01.png
+- Assets/Bundled/SkinFilter/Skin22_02.png
+- Assets/Bundled/SkinFilter/Skin14_01.png
+- Assets/Bundled/SkinFilter/Skin20_02.png
+- Assets/Bundled/SkinFilter/ButtonFilter_over.png
+- Assets/Bundled/SkinFilter/Skin06_02.png
+- Assets/Bundled/SkinFilter/Skin02_02.png
+- Assets/Bundled/SkinFilter/Skin05_01.png
+- Assets/Bundled/SkinFilter/Skin33_02.png
+- Assets/Bundled/SkinFilter/Skin34_01.png
+- Assets/Bundled/SkinFilter/Skin19_02.png
+- Assets/Bundled/SkinFilter/ButtonFilter_normal.png
+- Assets/Bundled/SkinFilter/Skin14_02.png
+- Assets/Bundled/SkinFilter/Skin22_01.png
+- Assets/Bundled/SkinFilter/Skin24_02.png
+- Assets/Bundled/SkinFilter/Skin28_01.png
+- Assets/Bundled/SkinFilter/Skin30_01.png
+- Assets/Bundled/SkinFilter/Skin04_01.png
+- Assets/Bundled/SkinFilter/Skin32_02.png
+- Assets/Bundled/SkinFilter/Skin26_02.png
+- Assets/Bundled/SkinFilter/Skin03_01.png
+- Assets/Bundled/SkinFilter/Skin19_01.png
+- Assets/Bundled/SkinFilter/ButtonFilter_disabled.png
+- Assets/Bundled/SkinFilter/Skin17_01.png
+- Assets/Bundled/SkinFilter/Skin21_02.png
+- Assets/Bundled/SkinFilter/Skin15_02.png
+- Assets/Bundled/SkinFilter/Skin28_02.png
+- Assets/Bundled/SkinFilter/Skin27_02.png
+- Assets/Bundled/SkinFilter/Skin11_01.png
+- Assets/Bundled/SkinFilter/Skin17_02.png
+- Assets/Bundled/SkinFilter/Skin30_02.png
+- Assets/Bundled/SkinFilter/Skin29_02.png
+- Assets/Bundled/SkinFilter/Skin34_02.png
+- Assets/Bundled/SkinFilter/Skin13_02.png
+- Assets/Bundled/SkinFilter/Skin21_01.png
+- Assets/Bundled/SkinFilter/Skin01_02.png
+- Assets/Bundled/SkinFilter/Skin08_02.png
+- Assets/Bundled/SkinFilter/Skin09_01.png
+- Assets/Bundled/SkinFilter/Skin24_01.png
+- Assets/Bundled/SkinFilter/Skin18_02.png
+- Assets/Bundled/SkinFilter/Skin29_01.png
+- Assets/Bundled/SkinFilter/Skin23_01.png
+- Assets/Bundled/SkinFilter/ButtonFilter_clicked.png
+- Assets/Bundled/SkinFilter/Skin16_02.png
+- Assets/Bundled/SkinFilter/Skin20_01.png
+- Assets/Bundled/SkinFilter/Skin13_01.png
+- Assets/Bundled/SkinFilter/Skin08_01.png
+- Assets/Bundled/SkinFilter/Skin07_02.png
+- Assets/Bundled/SkinFilter/Skin32_01.png
+- Assets/Bundled/SkinFilter/Skin10_01.png
+- Assets/Bundled/SkinFilter/Skin12_01.png
+- Assets/Bundled/SkinFilter/Skin01_01.png
+- Assets/Bundled/SkinFilter/Skin16_01.png
+- Assets/Bundled/SkinFilter/Skin26_01.png
+- Assets/Bundled/SkinFilter/Skin12_02.png
+- Assets/Bundled/SkinFilter/Skin02_01.png
+- Assets/Bundled/SkinFilter/Skin10_02.png
+- Assets/Bundled/SkinFilter/Skin25_02.png
+- Assets/Bundled/SkinFilter/Skin27_01.png
+- Assets/Bundled/SkinFilter/Skin03_02.png
+Dependencies: []

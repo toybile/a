@@ -1,0 +1,172 @@
+ManifestFileVersion: 0
+CRC: 374817477
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73611390044c90202973e26cdf88dd09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 691b080424d962e11146bb51b1226fb8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 893c7b5b5f90a9e4eb221131c8a67097, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6935fb14c8d24b49908806fcbec17f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b9f54bb9c5675d4599ea13664e0c906, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a3b3b590d6c9b04a906d996add5d6ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2705fb683e31aee42a81dd5edce63e0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da90857078ba4564793b058859d1bfeb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 315a79052cf7fdc4bb0f258a9a1fb72b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 843d4274d3b3acf4fab7f741afa12395, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14837a0b802cf5043b2c9619d4796001, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f18f37823c08bce448a47c601c417286, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a073c23119eaea74e94fda82020918cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40f147900999a6d4dbd7d9eed425bbfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a4e5f9c640a3fb40beff3942701d9de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a51da47b2b4722740a357ebfcd2a309b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 116aa740ef765ca4daddc35544f3f4d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b646ccf8b1378534eb6d286bf6ad1b56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6d9f35a8da29f64392a9b84aa8bf454, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f2a50afe3251048ad7ade56676f71f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5be7dc95c33a697449f985677b835227, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: feee1fad40953ea418b117490e65735a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ff8c52eaa2438f42935a21c96bfd68a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd83fca196433974b8fd5af15fccd1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11f99a29aa3233a4eaea757c9eb6494a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c24919a5d252615438631c4fe3d43f33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0e503ef3d3d82c43948d84fef341df6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14eddf9e04ad24342adece2fee564e10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70ddb989fec32174ebd5b164870fcab0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 993572532e424d5479d6b47701b16b88, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.AchievementSetting
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.BetModeData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.ColorItem
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.ColorsConfig/ColorSet
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.ColorsConfig/SpriteColor
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.ConnectionQualityImageData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.CreditsEntry
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.EmojiConfig/EmojiSet
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.HeaderLockit
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.HotelTextures
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.LeagueRequirementConfig/LeagueSetting
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.MusicConfig/CompositionData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PlatformIdsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PublicProfileAchievementsConfig/PublicProfileAchievementsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PublicProfileAchievementsConfig/PublicProfileAnalyticsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.RoomPlayerInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SerializedSkinItemWithAvailableProperty
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TextOverrideConfig/TextOverrideDictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TournamentBetImageData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TournamentCustomizationConfig/IdMapDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TutorialStepData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TutorialWindowConfig
+- AssemblyName: Assembly-CSharp
+  ClassName: CodeStage.AntiCheat.ObscuredTypes.ObscuredBool
+- AssemblyName: Assembly-CSharp
+  ClassName: CodeStage.AntiCheat.ObscuredTypes.ObscuredInt
+- AssemblyName: Assembly-CSharp
+  ClassName: InputLocaleConfigData
+- AssemblyName: Assembly-CSharp
+  ClassName: InputReplacementsDictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: SplashItem
+- AssemblyName: Assembly-CSharp
+  ClassName: StartCellEffectDict
+- AssemblyName: Assembly-CSharp
+  ClassName: Substututions
+- AssemblyName: Assembly-CSharp
+  ClassName: TaskDescription
+Assets:
+- Assets/Bundled/Configs/StartCellEffectsConfig.asset
+- Assets/Bundled/Configs/TextOverrideConfig.asset
+- Assets/Bundled/Configs/TasksDescriptions.asset
+- Assets/Bundled/Configs/Smile3DCollection.asset
+- Assets/Bundled/Configs/TournamentCustomizationConfig.asset
+- Assets/Bundled/Configs/PurchaseableCellRowsColorsConfig.asset
+- Assets/Bundled/Configs/TutorialConfig.asset
+- Assets/Bundled/Configs/AchievementsXbox.asset
+- Assets/Bundled/Configs/ColorsConfig.asset
+- Assets/Bundled/Configs/PublicProfileAchievementsConfig.asset
+- Assets/Bundled/Configs/GameConfig.asset
+- Assets/Bundled/Configs/SplashConfig.asset
+- Assets/Bundled/Configs/TournamentBetImage.asset
+- Assets/Bundled/Configs/EmojiConfig.asset
+- Assets/Bundled/Configs/BetValuesConfig.asset
+- Assets/Bundled/Configs/PricesConfig.asset
+- Assets/Bundled/Configs/MusicConfig.asset
+- Assets/Bundled/Configs/LocalizerImageAssetLoader.asset
+- Assets/Bundled/Configs/LeagueRequirementConfig.asset
+- Assets/Bundled/Configs/StoreLinksConfig.asset
+- Assets/Bundled/Configs/InputLocaleConfig.asset
+- Assets/Bundled/Configs/AchievementsSteam.asset
+- Assets/Bundled/Configs/ConnectionQualitiesConfig.asset
+- Assets/Bundled/Configs/GAFConfig.asset
+- Assets/Bundled/Configs/LeaderboardConfig.asset
+- Assets/Bundled/Configs/ProbabilityColor.asset
+- Assets/Bundled/Configs/CreditsConfig.asset
+- Assets/Bundled/Configs/UIScreensConfig.asset
+- Assets/Bundled/Configs/AchievementsPSN.asset
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/startcelleffectsconfigs_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d

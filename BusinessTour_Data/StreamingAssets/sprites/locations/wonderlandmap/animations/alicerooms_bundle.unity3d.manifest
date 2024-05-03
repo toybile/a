@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1298763993
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 253d8e35f93e61bb88b1a05ea57c95ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31a8e35008e8aab720d0136425be6fad
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/kitchen_01.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bedroom_02.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/kitchen_03.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/kitchen_02.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bathroom_02_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bathroom_03.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bedroom_03.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bathroom_02.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/living_room_01.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/living_room_03_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bathroom_03_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bedroom_03_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bedroom_01_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/living_room_02.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/living_room_03.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/kitchen_01_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bedroom_01.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/living_room_01_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/living_room_02_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bathroom_01.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bathroom_01_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/kitchen_02_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/kitchen_03_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/AliceRooms/bedroom_02_Animation.anim
+Dependencies: []

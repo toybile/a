@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2669172329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 849f9767a1bbc1e195ceb7f9ad8e0817
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 545b98ac1739953b5152a32c8e23b0c8
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: a58d49010d02fed429d97dca87988f4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c1e222d85c2bc24ead00a23051d1a5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.BuildingConfig.BuildingsDataDictionary
+Assets:
+- Assets/Bundled/Configs/Buildings/BuildingsConfig_Fantasy.asset
+- Assets/Bundled/Configs/Buildings/BuildingsConfig_Custom.asset
+- Assets/Bundled/Configs/Buildings/BuildingsConfig_Classic.asset
+- Assets/Bundled/Configs/Buildings/BuildingsConfig_Wonderland.asset
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/buildings/classic_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/buildings/fantasy_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/buildings/testcustom_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/buildings/wonderland_bundle.unity3d

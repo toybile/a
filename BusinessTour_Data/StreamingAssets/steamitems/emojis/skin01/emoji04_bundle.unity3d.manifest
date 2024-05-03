@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 3607620554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60ff92b55d72f6cf491b57cea546f75f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9646e8beba6cedab8c35bbcbcfeae456
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec8da9418a6bf493e93ef4c7b7575847, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.U2D.SpriteBone
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/fire.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Dragon.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Dragon.psb
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/dragon_smoke_5.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Smoke.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/New Animation Fireball.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/dragon_smoke_4.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Preview.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/dragon_smoke.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/New Animation Dragon.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Fire-ball_01.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Fire-ball_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Fire-ball_01.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/explosion.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Fireball.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/explosion.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Dragon.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/New Animation Smoke.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/smoke_04.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/dragon_smoke_2.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Explosion.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Dragon 2.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Dragon 1.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/dragon_smoke_3.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji04/Dragon.prefab
+Dependencies: []

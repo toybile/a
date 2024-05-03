@@ -1,0 +1,182 @@
+ManifestFileVersion: 0
+CRC: 3119035963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 959c61d049eeae7118cf820fa081928e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a98821d8dd5b7d513ca56644fc4d79a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a98125502f715b4b83cfb77b434e436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8dc44ea125da8f847899b79f3be3621e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6935fb14c8d24b49908806fcbec17f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8d1dbb04b1990a4eb640876565d3f94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c8909e9f495f9a489ccf6193f75be48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48805c38cbf8fe94c8bdb924bd921e9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee09eb1f86970ea468c4301818856560, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2142ef415044a7145afe2adbe271a38d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cc46447403cd488418161570bf7c0330, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 459d6932cc7cf3b47a20c25fd06df925, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70d6f79789089549b7e743ff6ac8a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8845b7fa5eea31043be33443c0c13e3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b66bf4ab5b9ff9c4289f7353cac37cdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bba3be8b4f7280d45b87febb8bd79b94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55ef5d7dfd00dfe4eb4497e60c2b9c7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34d0c0222ce1784409bebf4b558d2708, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.FontInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: FindByHierarchyIndices
+- AssemblyName: Assembly-CSharp
+  ClassName: GetHomeAction
+- AssemblyName: Assembly-CSharp
+  ClassName: GetPlayerProfileWindowAction
+- AssemblyName: Assembly-CSharp
+  ClassName: InputHelpHint/HelpHintObject
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ButtonClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ChangeSliderValueAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.CompositeButtonClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DebugAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DropdownSelectionAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FindAndPerformFirstValidLinkAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FindByNameAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FocusScrollViewToCurrentActiveElementOnGridAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FocusScrollViewToCurrentActiveOnOneDimensionLayoutGroupAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.GadgetButtonAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.MoveAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationLink
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationLinksList
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationStateActionList
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ScrollAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SelectionAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchCardButtonAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchChildDynamicallyAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchChildStaticallyAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchTabAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToNavigationGroup
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToNavmapAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToRootNavmapInDirection
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ToggleClickAction
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Bundled/prefabs/SelectServer/PingView.prefab
+- Assets/Bundled/prefabs/SelectServer/SelectServerRegionView.prefab
+- Assets/Bundled/prefabs/SelectServer/UISelectServer.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/inputprovider_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/nintendo_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/playstation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/unityanimation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/windows/base_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites_bundle.unity3d

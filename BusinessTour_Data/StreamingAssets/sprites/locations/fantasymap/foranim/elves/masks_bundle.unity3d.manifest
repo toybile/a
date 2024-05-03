@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1510923555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27a5e18c2ca8c43a54f240208bd464ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Masks/III_house1_elves_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Masks/III_house2_elves_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Masks/III_house3_elves_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Masks/III_hotel_elves_anim3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Masks/III_house2_elves_anim4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/Elves/Masks/III_hotel_elves_anim2_mask.png
+Dependencies: []

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1696705602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 447b4dadf7020cd10cb694aeee3882df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 032a4a4830e417e35232193f8f7b4830
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_2_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house2_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_5_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_hotel_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house3_people_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_1_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_ground_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house3_people_anim5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_5_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_hotel_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_1_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_4_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house3_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house2_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house1_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house2_people_anim4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_3_AnimController.controller
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_hotel_people_anim3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house3_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_ground_people_anim1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_3_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house3_people_anim4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_4_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house3_people_anim6.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/PeopleNew_2_Anim.anim
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house1_people_anim2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/PeopleNew/VIII_house2_people_anim3.png
+Dependencies: []

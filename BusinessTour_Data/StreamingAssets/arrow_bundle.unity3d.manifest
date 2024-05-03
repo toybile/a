@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 4190547689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56fb0049794895465a0ae65f9758b994
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7957d341c1214b7215f4208618fbdcd0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c55ebc9973f4144b8d9b4e51faf0309, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35ee4e1a8d120f445820e3af68048d11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1b8e8de05921f1428b5b91ff2acfa6f, type: 3}
+- Class: 114
+  Script: {fileID: -765628799, guid: 86057e0c3e6f68343894579d83be909f, type: 3}
+- Class: 114
+  Script: {fileID: -736414528, guid: 86057e0c3e6f68343894579d83be909f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b503eb86db13f54cb46640b6e6c8f0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1e7a18d8a495004b8341f79f186abe2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: GAF
+  ClassName: GAFInternal.Core.GAFAnimationPlayerSettings
+- AssemblyName: GAF
+  ClassName: GAFInternal.Objects.GAFObjectData
+Assets:
+- Assets/Bundled/Arrow/CurrentPlayerArrowPrefab.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/gafanimations/currentplayerarrow_bundle.unity3d

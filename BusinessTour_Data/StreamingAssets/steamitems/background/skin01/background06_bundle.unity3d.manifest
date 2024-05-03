@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1763237214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05d04c735aa07d3429174135f0c6ec3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Background/Skin01/Background06/BG_summer_03.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background06/BG_summer_02.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background06/BG_summer_icon.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background06/Preview.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background06/Background.png
+Dependencies: []

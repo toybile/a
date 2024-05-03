@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 707361859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39fd5058ea0f2c197d6777198dca79b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_r1.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_abutton.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_r2.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_button.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_bbutton.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_l3.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_ybutton.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_r3.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_play.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_xbutton.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_l2.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_select.png
+- Assets/Bundled/Sprites/HintSprites/Playstation/icon_l1.png
+Dependencies: []

@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 2172512450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6c2d103fbcbbe9b9a97f8db82b01cd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e99aa84c8c93d3aada071ce5e6f911e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be71503a6b3b40b4980573392e86661a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 298c21a41f81f5c4bbc557ea3807916e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_glow.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_glow.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_wheels_left5.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/Character02.prefab
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_body4.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_wheels_left0.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_body3.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_glare_01.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_body5.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_wheels_left3.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_glow_05.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_wheels_left2.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_car_blink.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_bott.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_body0.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_glow_022.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_body1.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_wheels_right.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_body2.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_anim.anim
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_wheels_left1.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_light.mat
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/Preview.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_wheels_left4.png
+- Assets/Bundled/SteamItems/Characters/Skin02/Character02/skin_02_character_02_truck_anim.controller
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/characters/skin02/character05_bundle.unity3d

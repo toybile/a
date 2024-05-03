@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3695374075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fcdaa6b0e2cb22ff82161f015083d9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Dice/Effects/Animation/legeng_end.controller
+- Assets/Bundled/SteamItems/Dice/Effects/Animation/rays_end.controller
+- Assets/Bundled/SteamItems/Dice/Effects/Animation/mystic_circle_tail.anim
+- Assets/Bundled/SteamItems/Dice/Effects/Animation/cooking_steam.anim
+- Assets/Bundled/SteamItems/Dice/Effects/Animation/legend_end.anim
+- Assets/Bundled/SteamItems/Dice/Effects/Animation/cooking_steam.controller
+- Assets/Bundled/SteamItems/Dice/Effects/Animation/rays_end.anim
+- Assets/Bundled/SteamItems/Dice/Effects/Animation/mystic_circle_tail.controller
+Dependencies: []

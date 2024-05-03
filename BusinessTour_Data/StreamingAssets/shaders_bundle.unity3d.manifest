@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 114021362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01487749ef225b4dc7dffa25ecb77a19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87b0bba9d18ffc75f60c50b410bd4a4e
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Shaders/Sprites-Default-ColorMask.shader
+- Assets/Bundled/Shaders/ToonOpaque.shader
+- Assets/Bundled/Shaders/UI-DefaultForOutline.shader
+- Assets/Bundled/Shaders/ZoomShader.shader
+- Assets/Bundled/Shaders/MaskedTexture.shader
+- Assets/Bundled/Shaders/UI-DefaultOverlayed.shader
+- Assets/Bundled/Shaders/UI-DefaultTestAnim.shader
+- Assets/Bundled/Shaders/UIColorMask.shader
+- Assets/Bundled/Shaders/Sprites-Default-ColorUnderlay.shader
+- Assets/Bundled/Shaders/UIUnderlay.shader
+- Assets/Bundled/Shaders/Unlit-Alpha_Distorted.shader
+Dependencies: []

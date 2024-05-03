@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4157946627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e4b880f7bf6173fe2189fa63cc297cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Map/Skin00/LastPlayedMap/Screenshot.png
+- Assets/Bundled/SteamItems/Map/Skin00/LastPlayedMap/Preview.png
+Dependencies: []

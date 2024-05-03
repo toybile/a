@@ -1,0 +1,3733 @@
+ManifestFileVersion: 0
+CRC: 2142812738
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: steamitems/dice/skin03/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: steamitems/dice/skin09/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: steamitems/dice/skin18/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: steamitems/dice/skin27/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: steamitems/dice/skin33/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: steamitems/emojis/skin01/emoji09_bundle.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: configs/gameplay/maps_bundle.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: fontsandmaterials_bundle.unity3d
+      Dependencies:
+        Dependency_0: fonts_bundle.unity3d
+    Info_8:
+      Name: prefabs/buildings/city_fantasy/peoplenew_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/foranim/peoplenew/masks_bundle.unity3d
+        Dependency_2: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/peoplenew_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+    Info_9:
+      Name: prefabs/internal_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: fonts_bundle.unity3d
+    Info_10:
+      Name: prefabs_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: skinfilter_bundle.unity3d
+        Dependency_2: sprites_bundle.unity3d
+        Dependency_3: sprites/tournaments_bundle.unity3d
+        Dependency_4: steamitems/emojis/skin01/emoji04_bundle.unity3d
+        Dependency_5: sprites/playerview_bundle.unity3d
+        Dependency_6: sprites/headers_bundle.unity3d
+        Dependency_7: sprites/uidailytasklist_bundle.unity3d
+        Dependency_8: configs_bundle.unity3d
+        Dependency_9: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_10: sprites/uiitempreview_bundle.unity3d
+        Dependency_11: shaders_bundle.unity3d
+        Dependency_12: sprites/smiles_bundle.unity3d
+        Dependency_13: sprites/windows/windowbuyresort_bundle.unity3d
+        Dependency_14: sprites/unityanimation_bundle.unity3d
+        Dependency_15: fonts_bundle.unity3d
+        Dependency_16: sprites/control_bundle.unity3d
+        Dependency_17: sprites/throwdiceview/throwbutton_bundle.unity3d
+        Dependency_18: sprites/windows/headers_bundle.unity3d
+        Dependency_19: sprites/gold_bundle.unity3d
+        Dependency_20: sprites/tutorial_bundle.unity3d
+        Dependency_21: materials/ui_bundle.unity3d
+        Dependency_22: sprites/hintsprites_bundle.unity3d
+        Dependency_23: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_24: sprites/throwdiceview/oddbutton_bundle.unity3d
+        Dependency_25: sprites/locations_bundle.unity3d
+        Dependency_26: sprites/windows/base_bundle.unity3d
+        Dependency_27: steamitems/characters/skin01/character02_bundle.unity3d
+        Dependency_28: prefabs/uifortuneroulette/animations_bundle.unity3d
+        Dependency_29: sprites/locations/fantasymap/obelisks_bundle.unity3d
+        Dependency_30: steamitems/map/skin01/map01_bundle.unity3d
+        Dependency_31: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_32: steamitems/buildingsskin/skin01/buildingsskin01_bundle.unity3d
+        Dependency_33: steamitems/lootboxes/skin01/lootbox01_bundle.unity3d
+        Dependency_34: sprites/chips_bundle.unity3d
+        Dependency_35: sprites/throwdiceview/pairbutton_bundle.unity3d
+        Dependency_36: sprites/buttons/buttonshadowblue_bundle.unity3d
+        Dependency_37: steamitems/dice/skin02/dice08_bundle.unity3d
+        Dependency_38: sprites/buttons/buttonyellow_bundle.unity3d
+        Dependency_39: steamitems/characters/skin15/character01/avatars_bundle.unity3d
+        Dependency_40: sprites/firstplayerselectui_bundle.unity3d
+        Dependency_41: sprites/winwindow_bundle.unity3d
+        Dependency_42: sprites/unityanimation/splashscreen_bundle.unity3d
+        Dependency_43: sprites/throwdiceview/throwagainbutton_bundle.unity3d
+        Dependency_44: steamitems/dice/skin01/dice02_bundle.unity3d
+        Dependency_45: sprites/throwdiceview/evenbutton_bundle.unity3d
+        Dependency_46: steamitems/background/skin01/background01_bundle.unity3d
+        Dependency_47: sprites/fieldsprites_bundle.unity3d
+        Dependency_48: sprites/uibackgroundsprite_bundle.unity3d
+        Dependency_49: steamitems/background/skin01/background02_bundle.unity3d
+        Dependency_50: sprites/localized_bundle.unity3d
+        Dependency_51: steamitems/lootboxes/skin03/lootbox01_bundle.unity3d
+        Dependency_52: inputprovider_bundle.unity3d
+    Info_11:
+      Name: skinfilter_bundle.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: sprites_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+    Info_13:
+      Name: sprites/locations/fantasymap/foranim/mountains_bundle.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: sprites/locations/fantasymap_bundle.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: sprites/locations/wonderlandmap/animations/suit7_bundle.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: sprites/locations/wonderlandmap/buildingspreviews_bundle.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: sprites/tournaments_bundle.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: steamitems/characters/skin02/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: steamitems/characters/skin04/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: steamitems/characters/skin08/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: steamitems/characters/skin10/character04_bundle.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: steamitems/characters/skin13/character02_bundle.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: steamitems/characters/skin16/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: steamitems/characters/skin18/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: steamitems/characters/skin21/character03_bundle.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: steamitems/characters/skin28/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: steamitems/characters/skin30/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: steamitems/characters/skin33/character02_bundle.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: steamitems/dice/effects/shapes_bundle.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: steamitems/dice/skin06/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: steamitems/dice/skin14/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: steamitems/dice/skin23/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: steamitems/dice/skin31/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: steamitems/emojis/skin01/emoji04_bundle.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: cardeffects_bundle.unity3d
+      Dependencies: {}
+    Info_36:
+      Name: configs/characters_bundle.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: materials/buildings/resort_fantasy_bundle.unity3d
+      Dependencies:
+        Dependency_0: shaders_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/obelisks/masks_bundle.unity3d
+        Dependency_2: sprites/buildingstextures_bundle.unity3d
+    Info_38:
+      Name: prefabs/gameplay/interactivewindows_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_3: sprites/playerview_bundle.unity3d
+        Dependency_4: sprites/headers_bundle.unity3d
+        Dependency_5: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_6: shaders_bundle.unity3d
+        Dependency_7: sprites/windows/windowbuyresort_bundle.unity3d
+        Dependency_8: sprites/unityanimation_bundle.unity3d
+        Dependency_9: fonts_bundle.unity3d
+        Dependency_10: sprites/windows/windowsinfo_bundle.unity3d
+        Dependency_11: sprites/windows/headers_bundle.unity3d
+        Dependency_12: sprites/gold_bundle.unity3d
+        Dependency_13: materials/ui_bundle.unity3d
+        Dependency_14: sprites/hintsprites_bundle.unity3d
+        Dependency_15: sprites/windows/windowbuyout_bundle.unity3d
+        Dependency_16: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_17: sprites/windows/base_bundle.unity3d
+        Dependency_18: sprites/locations/fantasymap/obelisks_bundle.unity3d
+        Dependency_19: sprites/windows/windowbuyhotel_bundle.unity3d
+        Dependency_20: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_21: sprites/windows_bundle.unity3d
+        Dependency_22: sprites/windows/windowislandescape_bundle.unity3d
+        Dependency_23: sprites/buttons/buttonhuge_bundle.unity3d
+        Dependency_24: sprites/locations/wonderlandmap_bundle.unity3d
+        Dependency_25: inputprovider_bundle.unity3d
+    Info_39:
+      Name: sprites/cards/classic/icons_bundle.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: sprites/locations/fantasymap/foranim/secrettower_bundle.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: sprites/locations/wonderlandmap/aliceroompreviews_bundle.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: sprites/playerview_bundle.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: sprites/windows/windowbuy_bundle.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: steamitems/characters/skin01/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: steamitems/characters/skin03/character03_bundle.unity3d
+      Dependencies: {}
+    Info_46:
+      Name: steamitems/characters/skin07/character02_bundle.unity3d
+      Dependencies: {}
+    Info_47:
+      Name: steamitems/characters/skin09/character05_bundle.unity3d
+      Dependencies: {}
+    Info_48:
+      Name: steamitems/characters/skin12/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_49:
+      Name: steamitems/characters/skin14/character04_bundle.unity3d
+      Dependencies: {}
+    Info_50:
+      Name: steamitems/characters/skin17/character03/animations_bundle.unity3d
+      Dependencies: {}
+    Info_51:
+      Name: steamitems/characters/skin20/character01_bundle.unity3d
+      Dependencies: {}
+    Info_52:
+      Name: steamitems/characters/skin24/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_53:
+      Name: steamitems/characters/skin26/character06_bundle.unity3d
+      Dependencies: {}
+    Info_54:
+      Name: steamitems/characters/skin29/character05_bundle.unity3d
+      Dependencies: {}
+    Info_55:
+      Name: steamitems/characters/skin32/character01_bundle.unity3d
+      Dependencies: {}
+    Info_56:
+      Name: steamitems/dice/skin04/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_57:
+      Name: steamitems/dice/skin10/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_58:
+      Name: steamitems/dice/skin19/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_59:
+      Name: steamitems/dice/skin28/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_60:
+      Name: steamitems/emojis/skin01/emoji10/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji10_bundle.unity3d
+    Info_61:
+      Name: cardeffects/cardeffects_wonderland/queenswhim/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_62:
+      Name: configs/lootboxes_bundle.unity3d
+      Dependencies: {}
+    Info_63:
+      Name: prefabs/buildings/city_wonderland/suit3_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/buildings/suit3_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_2: sprites/locations/wonderlandmap/animations/suit3_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_64:
+      Name: sprites/headers_bundle.unity3d
+      Dependencies: {}
+    Info_65:
+      Name: sprites/locations/fantasymap/foranim/people_bundle.unity3d
+      Dependencies: {}
+    Info_66:
+      Name: sprites/locations/wonderlandmap/buildings/suit3_bundle.unity3d
+      Dependencies: {}
+    Info_67:
+      Name: sprites/uidailytasklist_bundle.unity3d
+      Dependencies: {}
+    Info_68:
+      Name: steamitems/background/skin01/background07_bundle.unity3d
+      Dependencies: {}
+    Info_69:
+      Name: steamitems/characters/skin02/character05_bundle.unity3d
+      Dependencies: {}
+    Info_70:
+      Name: steamitems/characters/skin06/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_71:
+      Name: steamitems/characters/skin08/character04_bundle.unity3d
+      Dependencies: {}
+    Info_72:
+      Name: steamitems/characters/skin10/character06_bundle.unity3d
+      Dependencies: {}
+    Info_73:
+      Name: steamitems/characters/skin13/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_74:
+      Name: steamitems/characters/skin16/character03_bundle.unity3d
+      Dependencies: {}
+    Info_75:
+      Name: steamitems/characters/skin18/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_76:
+      Name: steamitems/characters/skin22/character01_bundle.unity3d
+      Dependencies: {}
+    Info_77:
+      Name: steamitems/characters/skin25/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_78:
+      Name: steamitems/characters/skin28/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_79:
+      Name: steamitems/characters/skin31/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_80:
+      Name: steamitems/characters/skin33/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_81:
+      Name: steamitems/dice/effects_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/dice/effects/shapes_bundle.unity3d
+        Dependency_1: steamitems/dice/effects/materials_bundle.unity3d
+        Dependency_2: steamitems/dice/effects/animation_bundle.unity3d
+    Info_82:
+      Name: steamitems/dice/skin16/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_83:
+      Name: steamitems/dice/skin24/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_84:
+      Name: steamitems/dice/skin32/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_85:
+      Name: steamitems/emojis/skin01/emoji06_bundle.unity3d
+      Dependencies: {}
+    Info_86:
+      Name: steamitems/map/skin00/mapfreeslot_bundle.unity3d
+      Dependencies: {}
+    Info_87:
+      Name: cardeffects/cardeffects_wonderland/luxurytax/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_88:
+      Name: cellview/cellstart_fantasy/animation_bundle.unity3d
+      Dependencies: {}
+    Info_89:
+      Name: prefabs/uibackground/wonderlandbg/extra_bundle.unity3d
+      Dependencies: {}
+    Info_90:
+      Name: sprites/cards/fantasy/icons_bundle.unity3d
+      Dependencies: {}
+    Info_91:
+      Name: sprites/locations/fantasymap/foranim/dwarfs/masks_bundle.unity3d
+      Dependencies: {}
+    Info_92:
+      Name: sprites/locations/fantasymap/grey_bundle.unity3d
+      Dependencies: {}
+    Info_93:
+      Name: sprites/locations/wonderlandmap/animations/alicerooms_bundle.unity3d
+      Dependencies: {}
+    Info_94:
+      Name: steamitems/characters/skin02/character01_bundle.unity3d
+      Dependencies: {}
+    Info_95:
+      Name: steamitems/characters/skin04/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_96:
+      Name: steamitems/characters/skin07/character04_bundle.unity3d
+      Dependencies: {}
+    Info_97:
+      Name: steamitems/characters/skin12/character02_bundle.unity3d
+      Dependencies: {}
+    Info_98:
+      Name: steamitems/characters/skin15/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_99:
+      Name: steamitems/characters/skin20/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_100:
+      Name: steamitems/characters/skin24/character03_bundle.unity3d
+      Dependencies: {}
+    Info_101:
+      Name: steamitems/characters/skin27/character01_bundle.unity3d
+      Dependencies: {}
+    Info_102:
+      Name: steamitems/characters/skin29/character06_bundle.unity3d
+      Dependencies: {}
+    Info_103:
+      Name: steamitems/characters/skin32/character03_bundle.unity3d
+      Dependencies: {}
+    Info_104:
+      Name: steamitems/dice/skin04/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_105:
+      Name: steamitems/dice/skin11/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_106:
+      Name: steamitems/dice/skin20/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_107:
+      Name: steamitems/dice/skin29/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_108:
+      Name: steamitems/emojis/skin01/emoji01/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji01_bundle.unity3d
+    Info_109:
+      Name: cardeffects/cardeffects_fantasy_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_1: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap/masks_bundle.unity3d
+    Info_110:
+      Name: cardeffects/cardeffects_wonderland/royalrevenge/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_111:
+      Name: configs_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: fonts_bundle.unity3d
+        Dependency_2: configs/startcelleffectsconfigs_bundle.unity3d
+    Info_112:
+      Name: prefabs/buildings/city_wonderland/suit8_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/animations/suit8_bundle.unity3d
+        Dependency_2: sprites/locations/wonderlandmap/buildings/suit8_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_113:
+      Name: prefabs/mapeditor/uielements_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: fonts_bundle.unity3d
+        Dependency_4: sprites/hintsprites_bundle.unity3d
+        Dependency_5: sprites/hintsprites/playstation_bundle.unity3d
+    Info_114:
+      Name: prefabs/uilinkaccount_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: sprites/unityanimation_bundle.unity3d
+        Dependency_4: fonts_bundle.unity3d
+        Dependency_5: sprites/windows/headers_bundle.unity3d
+        Dependency_6: sprites/gold_bundle.unity3d
+        Dependency_7: sprites/hintsprites_bundle.unity3d
+        Dependency_8: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_9: sprites/windows/base_bundle.unity3d
+        Dependency_10: inputprovider_bundle.unity3d
+    Info_115:
+      Name: sprites/hintsprites/nintendo_bundle.unity3d
+      Dependencies: {}
+    Info_116:
+      Name: sprites/locations/fantasymap/foranim/peoplenew/masks_bundle.unity3d
+      Dependencies: {}
+    Info_117:
+      Name: sprites/uiitempreview_bundle.unity3d
+      Dependencies: {}
+    Info_118:
+      Name: steamitems/characters/skin02/character06_bundle.unity3d
+      Dependencies: {}
+    Info_119:
+      Name: steamitems/characters/skin06/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_120:
+      Name: steamitems/characters/skin09/character01_bundle.unity3d
+      Dependencies: {}
+    Info_121:
+      Name: steamitems/characters/skin11/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_122:
+      Name: steamitems/characters/skin13/character05_bundle.unity3d
+      Dependencies: {}
+    Info_123:
+      Name: steamitems/characters/skin18/character05_bundle.unity3d
+      Dependencies: {}
+    Info_124:
+      Name: steamitems/characters/skin22/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_125:
+      Name: steamitems/characters/skin26/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_126:
+      Name: steamitems/characters/skin28/character06_bundle.unity3d
+      Dependencies: {}
+    Info_127:
+      Name: steamitems/characters/skin31/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_128:
+      Name: steamitems/characters/skin33/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_129:
+      Name: steamitems/dice/skin02/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_130:
+      Name: steamitems/dice/skin17/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_131:
+      Name: steamitems/dice/skin26/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_132:
+      Name: steamitems/dice/skin32/dice07_bundle.unity3d
+      Dependencies: {}
+    Info_133:
+      Name: steamitems/emojis/skin01/emoji07/drops_bundle.unity3d
+      Dependencies: {}
+    Info_134:
+      Name: steamitems/moneyskin/skin01/moneyskin01_bundle.unity3d
+      Dependencies: {}
+    Info_135:
+      Name: configs/dice_bundle.unity3d
+      Dependencies: {}
+    Info_136:
+      Name: prefabs/buildings/city_fantasy_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap/foranim/mountains_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap/foranim/secrettower_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/people_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/dwarfs/masks_bundle.unity3d
+        Dependency_5: sprites/locations/fantasymap/foranim/peoplenew/masks_bundle.unity3d
+        Dependency_6: sprites/locations/fantasymap/foranim/elves/masks_bundle.unity3d
+        Dependency_7: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_8: sprites/locations/fantasymap/foranim/magicplaces_bundle.unity3d
+        Dependency_9: sprites/locations/fantasymap/foranim/secrettower/masks_bundle.unity3d
+        Dependency_10: sprites/locations/fantasymap/foranim/dwarfs_bundle.unity3d
+        Dependency_11: sprites/locations/fantasymap/foranim/elves_bundle.unity3d
+        Dependency_12: sprites/locations/fantasymap/foranim/peoplenew_bundle.unity3d
+        Dependency_13: sprites/locations/fantasymap/foranim/magicplaces/masks_bundle.unity3d
+        Dependency_14: sprites/locations/fantasymap/foranim/pirates_bundle.unity3d
+        Dependency_15: sprites/locations/fantasymap/foranim/mountains/masks_bundle.unity3d
+        Dependency_16: sprites/locations/fantasymap/foranim/people/masks_bundle.unity3d
+        Dependency_17: sprites/locations/fantasymap/foranim/pirates/masks_bundle.unity3d
+    Info_137:
+      Name: prefabs/helpinputhintsprefabs/helphints/buttonsimages/compositebuttons_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_1: sprites/hintsprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/playstation_bundle.unity3d
+    Info_138:
+      Name: prefabs/uicontentpreview_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/dice/skin03/dice01_bundle.unity3d
+        Dependency_1: fontsandmaterials_bundle.unity3d
+        Dependency_2: sprites/uidailytasklist_bundle.unity3d
+        Dependency_3: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_4: sprites/uiitempreview_bundle.unity3d
+        Dependency_5: sprites/unityanimation_bundle.unity3d
+        Dependency_6: fonts_bundle.unity3d
+        Dependency_7: sprites/gold_bundle.unity3d
+        Dependency_8: sprites/hintsprites_bundle.unity3d
+        Dependency_9: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_10: sprites/windows/base_bundle.unity3d
+        Dependency_11: steamitems/lootboxes/skin03/lootbox01_bundle.unity3d
+        Dependency_12: inputprovider_bundle.unity3d
+    Info_139:
+      Name: shaders_bundle.unity3d
+      Dependencies: {}
+    Info_140:
+      Name: sprites/cards/wonderland/icons_bundle.unity3d
+      Dependencies: {}
+    Info_141:
+      Name: sprites/locations/fantasymap/foranim/elves/masks_bundle.unity3d
+      Dependencies: {}
+    Info_142:
+      Name: sprites/locations/wonderlandmap/animations/suit2_bundle.unity3d
+      Dependencies: {}
+    Info_143:
+      Name: sprites/smiles_bundle.unity3d
+      Dependencies: {}
+    Info_144:
+      Name: sprites/windows/windowbuyresort_bundle.unity3d
+      Dependencies: {}
+    Info_145:
+      Name: steamitems/characters/skin02/character02_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin02/character05_bundle.unity3d
+    Info_146:
+      Name: steamitems/characters/skin04/character02_bundle.unity3d
+      Dependencies: {}
+    Info_147:
+      Name: steamitems/characters/skin10/character02_bundle.unity3d
+      Dependencies: {}
+    Info_148:
+      Name: steamitems/characters/skin12/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_149:
+      Name: steamitems/characters/skin17/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_150:
+      Name: steamitems/characters/skin20/character04_bundle.unity3d
+      Dependencies: {}
+    Info_151:
+      Name: steamitems/characters/skin24/character05_bundle.unity3d
+      Dependencies: {}
+    Info_152:
+      Name: steamitems/characters/skin27/character04_bundle.unity3d
+      Dependencies: {}
+    Info_153:
+      Name: steamitems/characters/skin30/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_154:
+      Name: steamitems/characters/skin32/character05_bundle.unity3d
+      Dependencies: {}
+    Info_155:
+      Name: steamitems/dice/effects/materials_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/dice/effects/shapes_bundle.unity3d
+    Info_156:
+      Name: steamitems/dice/skin05/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_157:
+      Name: steamitems/dice/skin22/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_158:
+      Name: steamitems/dice/skin30/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_159:
+      Name: steamitems/emojis/skin01/emoji02_bundle.unity3d
+      Dependencies: {}
+    Info_160:
+      Name: cardeffects/cardeffects_wonderland/seaoftears_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/seaoftears/spinedata_bundle.unity3d
+    Info_161:
+      Name: configs/buildings_bundle.unity3d
+      Dependencies:
+        Dependency_0: configs/buildings/wonderland_bundle.unity3d
+        Dependency_1: configs/buildings/fantasy_bundle.unity3d
+        Dependency_2: configs/buildings/classic_bundle.unity3d
+        Dependency_3: configs/buildings/testcustom_bundle.unity3d
+    Info_162:
+      Name: materials/buildings/city_fantasy_bundle.unity3d
+      Dependencies:
+        Dependency_0: shaders_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/masks_bundle.unity3d
+        Dependency_2: sprites/buildingstextures_bundle.unity3d
+    Info_163:
+      Name: prefabs/choosecharacter_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/buttons/buttonblue_bundle.unity3d
+    Info_164:
+      Name: prefabs/promocodes_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/unityanimation_bundle.unity3d
+        Dependency_5: fonts_bundle.unity3d
+        Dependency_6: sprites/hintsprites_bundle.unity3d
+        Dependency_7: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_8: sprites/windows/base_bundle.unity3d
+        Dependency_9: inputprovider_bundle.unity3d
+    Info_165:
+      Name: sprites/buttons/buttonred_bundle.unity3d
+      Dependencies: {}
+    Info_166:
+      Name: sprites/unityanimation_bundle.unity3d
+      Dependencies: {}
+    Info_167:
+      Name: steamitems/characters/skin01/character01_bundle.unity3d
+      Dependencies: {}
+    Info_168:
+      Name: steamitems/characters/skin03/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_169:
+      Name: steamitems/characters/skin06/extra_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin06/character01_bundle.unity3d
+    Info_170:
+      Name: steamitems/characters/skin09/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_171:
+      Name: steamitems/characters/skin11/character03_bundle.unity3d
+      Dependencies: {}
+    Info_172:
+      Name: steamitems/characters/skin14/character02_bundle.unity3d
+      Dependencies: {}
+    Info_173:
+      Name: steamitems/characters/skin17/character01/animations_bundle.unity3d
+      Dependencies: {}
+    Info_174:
+      Name: steamitems/characters/skin19/character02_bundle.unity3d
+      Dependencies: {}
+    Info_175:
+      Name: steamitems/characters/skin23/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_176:
+      Name: steamitems/characters/skin26/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_177:
+      Name: steamitems/characters/skin29/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_178:
+      Name: steamitems/characters/skin31/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_179:
+      Name: steamitems/characters/skin34/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_180:
+      Name: steamitems/dice/skin02/dice07_bundle.unity3d
+      Dependencies: {}
+    Info_181:
+      Name: steamitems/dice/skin09/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_182:
+      Name: steamitems/dice/skin17/dice08_bundle.unity3d
+      Dependencies: {}
+    Info_183:
+      Name: steamitems/dice/skin27/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_184:
+      Name: steamitems/dice/skin33/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_185:
+      Name: steamitems/emojis/skin01/emoji08_bundle.unity3d
+      Dependencies: {}
+    Info_186:
+      Name: cardeffects/cardeffects_wonderland/pardon/images_bundle.unity3d
+      Dependencies: {}
+    Info_187:
+      Name: configs/gameplay/cells_bundle.unity3d
+      Dependencies: {}
+    Info_188:
+      Name: fonts_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+    Info_189:
+      Name: prefabs/buildings/city_fantasy/mountains_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap/foranim/mountains_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_2: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/mountains/masks_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+    Info_190:
+      Name: prefabs/helpinputhintsprefabs/helphints_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: sprites/hintsprites_bundle.unity3d
+        Dependency_3: sprites/hintsprites/playstation_bundle.unity3d
+    Info_191:
+      Name: prefabs/uiexchangecard_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/unityanimation_bundle.unity3d
+        Dependency_5: sprites/hintsprites_bundle.unity3d
+        Dependency_6: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_7: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_8: sprites/cardview_bundle.unity3d
+        Dependency_9: inputprovider_bundle.unity3d
+    Info_192:
+      Name: sprites/control_bundle.unity3d
+      Dependencies: {}
+    Info_193:
+      Name: sprites/locations/fantasymap/foranim/magicplaces_bundle.unity3d
+      Dependencies: {}
+    Info_194:
+      Name: sprites/locations/fantasymap/masks_bundle.unity3d
+      Dependencies: {}
+    Info_195:
+      Name: sprites/locations/wonderlandmap/animations/suit5_bundle.unity3d
+      Dependencies: {}
+    Info_196:
+      Name: sprites/throwdiceview/throwbutton_bundle.unity3d
+      Dependencies: {}
+    Info_197:
+      Name: sprites/windows/windowsinfo_bundle.unity3d
+      Dependencies: {}
+    Info_198:
+      Name: steamitems/characters/skin02/character03_bundle.unity3d
+      Dependencies: {}
+    Info_199:
+      Name: steamitems/characters/skin08/character02_bundle.unity3d
+      Dependencies: {}
+    Info_200:
+      Name: steamitems/characters/skin10/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_201:
+      Name: steamitems/characters/skin13/character01_bundle.unity3d
+      Dependencies: {}
+    Info_202:
+      Name: steamitems/characters/skin16/character01_bundle.unity3d
+      Dependencies: {}
+    Info_203:
+      Name: steamitems/characters/skin17/character08/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_204:
+      Name: steamitems/characters/skin21/character02_bundle.unity3d
+      Dependencies: {}
+    Info_205:
+      Name: steamitems/characters/skin28/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_206:
+      Name: steamitems/characters/skin33/character01_bundle.unity3d
+      Dependencies: {}
+    Info_207:
+      Name: steamitems/dice/skin05/dice09_bundle.unity3d
+      Dependencies: {}
+    Info_208:
+      Name: steamitems/dice/skin23/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_209:
+      Name: steamitems/dice/skin31/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_210:
+      Name: cardeffects/cardeffects_wonderland/gameofcroquet/images_bundle.unity3d
+      Dependencies: {}
+    Info_211:
+      Name: cardeffects/cardeffects_wonderland/wonderlandportal/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_212:
+      Name: configs/buildings/wonderland_bundle.unity3d
+      Dependencies: {}
+    Info_213:
+      Name: materials/buildings/resort_bundle.unity3d
+      Dependencies:
+        Dependency_0: shaders_bundle.unity3d
+        Dependency_1: sprites/buildingstextures_bundle.unity3d
+    Info_214:
+      Name: prefabs/socialpanel_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: prefabs_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: fonts_bundle.unity3d
+        Dependency_5: sprites/hintsprites_bundle.unity3d
+        Dependency_6: sprites/hintsprites/playstation_bundle.unity3d
+    Info_215:
+      Name: sprites/locations/fantasymap/foranim/secrettower/masks_bundle.unity3d
+      Dependencies: {}
+    Info_216:
+      Name: sprites/windows/headers_bundle.unity3d
+      Dependencies: {}
+    Info_217:
+      Name: steamitems/characters/skin01/character03_bundle.unity3d
+      Dependencies: {}
+    Info_218:
+      Name: steamitems/characters/skin07/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_219:
+      Name: steamitems/characters/skin09/character04_bundle.unity3d
+      Dependencies: {}
+    Info_220:
+      Name: steamitems/characters/skin11/character05_bundle.unity3d
+      Dependencies: {}
+    Info_221:
+      Name: steamitems/characters/skin17/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_222:
+      Name: steamitems/characters/skin23/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_223:
+      Name: steamitems/characters/skin26/character05_bundle.unity3d
+      Dependencies: {}
+    Info_224:
+      Name: steamitems/characters/skin29/character04_bundle.unity3d
+      Dependencies: {}
+    Info_225:
+      Name: steamitems/characters/skin34/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_226:
+      Name: steamitems/dice/skin03/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_227:
+      Name: steamitems/dice/skin19/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_228:
+      Name: steamitems/dice/skin28/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_229:
+      Name: steamitems/dice/skin34/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_230:
+      Name: steamitems/emojis/skin01/emoji10_bundle.unity3d
+      Dependencies: {}
+    Info_231:
+      Name: prefabs/lobby_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: fonts_bundle.unity3d
+        Dependency_4: sprites/hintsprites_bundle.unity3d
+        Dependency_5: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_6: inputprovider_bundle.unity3d
+    Info_232:
+      Name: prefabs/uifortuneroulette/materials_bundle.unity3d
+      Dependencies: {}
+    Info_233:
+      Name: sprites/gold_bundle.unity3d
+      Dependencies: {}
+    Info_234:
+      Name: sprites/locations/fantasymap/obelisks/masks_bundle.unity3d
+      Dependencies: {}
+    Info_235:
+      Name: sprites/tutorial_bundle.unity3d
+      Dependencies: {}
+    Info_236:
+      Name: steamitems/background/skin01/background05_bundle.unity3d
+      Dependencies: {}
+    Info_237:
+      Name: steamitems/characters/skin02/character04_bundle.unity3d
+      Dependencies: {}
+    Info_238:
+      Name: steamitems/characters/skin06/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_239:
+      Name: steamitems/characters/skin08/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_240:
+      Name: steamitems/characters/skin10/character05_bundle.unity3d
+      Dependencies: {}
+    Info_241:
+      Name: steamitems/characters/skin16/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_242:
+      Name: steamitems/characters/skin18/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_243:
+      Name: steamitems/characters/skin25/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_244:
+      Name: steamitems/characters/skin28/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_245:
+      Name: steamitems/characters/skin30/character06_bundle.unity3d
+      Dependencies: {}
+    Info_246:
+      Name: steamitems/dice/skin06/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_247:
+      Name: steamitems/dice/skin24/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_248:
+      Name: steamitems/dice/skin31/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_249:
+      Name: steamitems/emojis/skin01/emoji05_bundle.unity3d
+      Dependencies: {}
+    Info_250:
+      Name: steamitems/lootboxes/skin33/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_251:
+      Name: cardeffects/cardeffects_wonderland/happybirthdayathatters/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_252:
+      Name: materials/ui_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/background/skin01/background07_bundle.unity3d
+        Dependency_1: shaders_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap/obelisks/masks_bundle.unity3d
+        Dependency_3: steamitems/background/skin01/background08_bundle.unity3d
+        Dependency_4: steamitems/background/skin01/background06_bundle.unity3d
+        Dependency_5: steamitems/background/skin01/background09_bundle.unity3d
+    Info_253:
+      Name: prefabs/uibackground_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: steamitems/background/skin01/background07_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: materials/ui_bundle.unity3d
+        Dependency_4: steamitems/background/skin01/background06_bundle.unity3d
+        Dependency_5: sprites/uibackgroundsprite_bundle.unity3d
+    Info_254:
+      Name: prefabs/uiwindowinfocity_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_4: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_5: sprites/windows/windowbuyresort_bundle.unity3d
+        Dependency_6: sprites/unityanimation_bundle.unity3d
+        Dependency_7: fonts_bundle.unity3d
+        Dependency_8: sprites/windows/headers_bundle.unity3d
+        Dependency_9: materials/ui_bundle.unity3d
+        Dependency_10: sprites/hintsprites_bundle.unity3d
+        Dependency_11: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_12: sprites/windows/base_bundle.unity3d
+        Dependency_13: sprites/windows/windowbuyhotel_bundle.unity3d
+        Dependency_14: inputprovider_bundle.unity3d
+    Info_255:
+      Name: sprites/cards/fantasy/backgrounds_bundle.unity3d
+      Dependencies: {}
+    Info_256:
+      Name: sprites/locations/fantasymap/foranim/dwarfs_bundle.unity3d
+      Dependencies: {}
+    Info_257:
+      Name: sprites/locations/wonderlandmap/aliceroooms_bundle.unity3d
+      Dependencies: {}
+    Info_258:
+      Name: sprites/playerview/playergameplaypanel/additionalelementsholder_bundle.unity3d
+      Dependencies: {}
+    Info_259:
+      Name: steamitems/characters/skin03/character04_bundle.unity3d
+      Dependencies: {}
+    Info_260:
+      Name: steamitems/characters/skin07/character03_bundle.unity3d
+      Dependencies: {}
+    Info_261:
+      Name: steamitems/characters/skin09/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_262:
+      Name: steamitems/characters/skin15/character01_bundle.unity3d
+      Dependencies: {}
+    Info_263:
+      Name: steamitems/characters/skin17/character04/animations_bundle.unity3d
+      Dependencies: {}
+    Info_264:
+      Name: steamitems/characters/skin20/character02_bundle.unity3d
+      Dependencies: {}
+    Info_265:
+      Name: steamitems/characters/skin24/character02_bundle.unity3d
+      Dependencies: {}
+    Info_266:
+      Name: steamitems/characters/skin32/character02_bundle.unity3d
+      Dependencies: {}
+    Info_267:
+      Name: steamitems/characters/skin34/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_268:
+      Name: steamitems/dice/skin04/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_269:
+      Name: steamitems/dice/skin20/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_270:
+      Name: steamitems/dice/skin29/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_271:
+      Name: steamitems/dice/skin34/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_272:
+      Name: cardeffects/cardeffects_wonderland/reporttoqueen/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_273:
+      Name: gafanimations/playermoney/wonderland/sprites_bundle.unity3d
+      Dependencies: {}
+    Info_274:
+      Name: prefabs/buildings/city_wonderland/suit6_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/buildings/suit6_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_2: sprites/locations/wonderlandmap/animations/suit6_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_275:
+      Name: prefabs/mapeditor/uielements/cellicons_bundle.unity3d
+      Dependencies:
+        Dependency_0: fonts_bundle.unity3d
+    Info_276:
+      Name: prefabs/uiitemsstore_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/uidailytasklist_bundle.unity3d
+        Dependency_3: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_4: shaders_bundle.unity3d
+        Dependency_5: sprites/unityanimation_bundle.unity3d
+        Dependency_6: fonts_bundle.unity3d
+        Dependency_7: sprites/gold_bundle.unity3d
+        Dependency_8: sprites/hintsprites_bundle.unity3d
+        Dependency_9: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_10: sprites/windows/base_bundle.unity3d
+        Dependency_11: boosters_bundle.unity3d
+        Dependency_12: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_13: sprites/chips_bundle.unity3d
+        Dependency_14: sprites/uidailytasklist/uirailyrewardsschedule_bundle.unity3d
+        Dependency_15: inputprovider_bundle.unity3d
+    Info_277:
+      Name: sprites/buildingstextures_bundle.unity3d
+      Dependencies: {}
+    Info_278:
+      Name: sprites/hintsprites_bundle.unity3d
+      Dependencies: {}
+    Info_279:
+      Name: sprites/locations/wonderlandmap/buildings/suit6_bundle.unity3d
+      Dependencies: {}
+    Info_280:
+      Name: steamitems/background/skin01/background10_bundle.unity3d
+      Dependencies:
+        Dependency_0: fonts_bundle.unity3d
+        Dependency_1: sprites/locations_bundle.unity3d
+        Dependency_2: sprites/fieldsprites_bundle.unity3d
+        Dependency_3: inputprovider_bundle.unity3d
+    Info_281:
+      Name: steamitems/characters/skin06/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_282:
+      Name: steamitems/characters/skin08/character05_bundle.unity3d
+      Dependencies: {}
+    Info_283:
+      Name: steamitems/characters/skin11/character01_bundle.unity3d
+      Dependencies: {}
+    Info_284:
+      Name: steamitems/characters/skin13/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_285:
+      Name: steamitems/characters/skin16/character04_bundle.unity3d
+      Dependencies: {}
+    Info_286:
+      Name: steamitems/characters/skin18/character04_bundle.unity3d
+      Dependencies: {}
+    Info_287:
+      Name: steamitems/characters/skin22/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_288:
+      Name: steamitems/characters/skin25/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_289:
+      Name: steamitems/characters/skin28/character05_bundle.unity3d
+      Dependencies: {}
+    Info_290:
+      Name: steamitems/characters/skin31/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_291:
+      Name: steamitems/characters/skin33/character05_bundle.unity3d
+      Dependencies: {}
+    Info_292:
+      Name: steamitems/dice/skin01/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_293:
+      Name: steamitems/dice/skin07/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_294:
+      Name: steamitems/dice/skin25/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_295:
+      Name: cellview/moneycellanimation/moneyfantasycellanimation_bundle.unity3d
+      Dependencies: {}
+    Info_296:
+      Name: prefabs/buildings/city_bundle.unity3d
+      Dependencies: {}
+    Info_297:
+      Name: prefabs/uibetgroup_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: fonts_bundle.unity3d
+        Dependency_4: sprites/hintsprites_bundle.unity3d
+        Dependency_5: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_6: sprites/chips_bundle.unity3d
+    Info_298:
+      Name: prefabs/windowbuycity/wonderland_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_4: sprites/headers_bundle.unity3d
+        Dependency_5: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_6: shaders_bundle.unity3d
+        Dependency_7: sprites/unityanimation_bundle.unity3d
+        Dependency_8: fonts_bundle.unity3d
+        Dependency_9: materials/ui_bundle.unity3d
+        Dependency_10: sprites/hintsprites_bundle.unity3d
+        Dependency_11: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_12: sprites/windows/base_bundle.unity3d
+        Dependency_13: inputprovider_bundle.unity3d
+    Info_299:
+      Name: sprites/cards/wonderland/backgrounds_bundle.unity3d
+      Dependencies: {}
+    Info_300:
+      Name: sprites/locations/fantasymap/foranim/elves_bundle.unity3d
+      Dependencies: {}
+    Info_301:
+      Name: sprites/windows/windowbuyout_bundle.unity3d
+      Dependencies: {}
+    Info_302:
+      Name: steamitems/characters/skin02/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_303:
+      Name: steamitems/characters/skin04/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_304:
+      Name: steamitems/characters/skin07/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_305:
+      Name: steamitems/characters/skin10/character01_bundle.unity3d
+      Dependencies: {}
+    Info_306:
+      Name: steamitems/characters/skin12/character03_bundle.unity3d
+      Dependencies: {}
+    Info_307:
+      Name: steamitems/characters/skin15/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_308:
+      Name: steamitems/characters/skin17/character05_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin17/character05/animations_bundle.unity3d
+    Info_309:
+      Name: steamitems/characters/skin20/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_310:
+      Name: steamitems/characters/skin24/character04_bundle.unity3d
+      Dependencies: {}
+    Info_311:
+      Name: steamitems/characters/skin27/character03_bundle.unity3d
+      Dependencies: {}
+    Info_312:
+      Name: steamitems/characters/skin30/character01_bundle.unity3d
+      Dependencies: {}
+    Info_313:
+      Name: steamitems/characters/skin32/character04_bundle.unity3d
+      Dependencies: {}
+    Info_314:
+      Name: steamitems/dice/skin05/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_315:
+      Name: steamitems/dice/skin12/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_316:
+      Name: steamitems/dice/skin21/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_317:
+      Name: steamitems/dice/skin30/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_318:
+      Name: cardeffects/cardeffects_wonderland/alicesfortune/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_319:
+      Name: cardeffects/cardeffects_wonderland/sabotage/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_320:
+      Name: configs/backgrounds_bundle.unity3d
+      Dependencies: {}
+    Info_321:
+      Name: materials/buildings/city_bundle.unity3d
+      Dependencies:
+        Dependency_0: shaders_bundle.unity3d
+        Dependency_1: sprites/buildingstextures_bundle.unity3d
+    Info_322:
+      Name: prefabs/buildings/resort_fantasy_bundle.unity3d
+      Dependencies:
+        Dependency_0: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/obelisks/masks_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap/obelisks_bundle.unity3d
+    Info_323:
+      Name: prefabs/notifications_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: sprites/unityanimation_bundle.unity3d
+        Dependency_4: fonts_bundle.unity3d
+        Dependency_5: sprites/windows/headers_bundle.unity3d
+        Dependency_6: sprites/hintsprites_bundle.unity3d
+        Dependency_7: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_8: sprites/windows/base_bundle.unity3d
+        Dependency_9: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_10: prefabs/publicplayerprofile_bundle.unity3d
+        Dependency_11: inputprovider_bundle.unity3d
+    Info_324:
+      Name: sprites/buttons/buttonbluehuge2_bundle.unity3d
+      Dependencies: {}
+    Info_325:
+      Name: sprites/hintsprites/playstation_bundle.unity3d
+      Dependencies: {}
+    Info_326:
+      Name: sprites/locations/fantasymap/foranim/peoplenew_bundle.unity3d
+      Dependencies: {}
+    Info_327:
+      Name: steamitems/characters/skin01/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_328:
+      Name: steamitems/characters/skin06/character05_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin06/extra_bundle.unity3d
+    Info_329:
+      Name: steamitems/characters/skin09/character02_bundle.unity3d
+      Dependencies: {}
+    Info_330:
+      Name: steamitems/characters/skin14/character01_bundle.unity3d
+      Dependencies: {}
+    Info_331:
+      Name: steamitems/characters/skin16/character06_bundle.unity3d
+      Dependencies: {}
+    Info_332:
+      Name: steamitems/characters/skin19/character01_bundle.unity3d
+      Dependencies: {}
+    Info_333:
+      Name: steamitems/characters/skin23/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_334:
+      Name: steamitems/characters/skin26/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_335:
+      Name: steamitems/characters/skin29/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_336:
+      Name: steamitems/characters/skin31/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_337:
+      Name: steamitems/characters/skin34/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_338:
+      Name: steamitems/dice/skin02/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_339:
+      Name: steamitems/dice/skin08/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_340:
+      Name: steamitems/dice/skin26/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_341:
+      Name: steamitems/dice/skin33/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_342:
+      Name: steamitems/emojis/skin01/emoji07_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji07/drops_bundle.unity3d
+    Info_343:
+      Name: prefabs/helpinputhintsprefabs/helphints/buttonsimages_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_1: sprites/hintsprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/playstation_bundle.unity3d
+    Info_344:
+      Name: prefabs/uideleteaccount_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: sprites/unityanimation_bundle.unity3d
+        Dependency_4: fonts_bundle.unity3d
+        Dependency_5: sprites/hintsprites_bundle.unity3d
+        Dependency_6: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_7: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_8: inputprovider_bundle.unity3d
+    Info_345:
+      Name: sprites/locations/fantasymap/foranim/magicplaces/masks_bundle.unity3d
+      Dependencies: {}
+    Info_346:
+      Name: sprites/throwdiceview/oddbutton_bundle.unity3d
+      Dependencies: {}
+    Info_347:
+      Name: sprites/windows/windowscityinfo_bundle.unity3d
+      Dependencies: {}
+    Info_348:
+      Name: steamitems/characters/skin02/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_349:
+      Name: steamitems/characters/skin04/character03_bundle.unity3d
+      Dependencies: {}
+    Info_350:
+      Name: steamitems/characters/skin08/character01_bundle.unity3d
+      Dependencies: {}
+    Info_351:
+      Name: steamitems/characters/skin10/character03_bundle.unity3d
+      Dependencies: {}
+    Info_352:
+      Name: steamitems/characters/skin13/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_353:
+      Name: steamitems/characters/skin15/character04_bundle.unity3d
+      Dependencies: {}
+    Info_354:
+      Name: steamitems/characters/skin17/character07/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_355:
+      Name: steamitems/characters/skin21/character01_bundle.unity3d
+      Dependencies: {}
+    Info_356:
+      Name: steamitems/characters/skin27/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_357:
+      Name: steamitems/characters/skin30/character03_bundle.unity3d
+      Dependencies: {}
+    Info_358:
+      Name: steamitems/characters/skin32/character06_bundle.unity3d
+      Dependencies: {}
+    Info_359:
+      Name: steamitems/dice/skin05/dice07_bundle.unity3d
+      Dependencies: {}
+    Info_360:
+      Name: steamitems/dice/skin13/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_361:
+      Name: steamitems/dice/skin22/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_362:
+      Name: steamitems/dice/skin30/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_363:
+      Name: steamitems/emojis/skin01/emoji03_bundle.unity3d
+      Dependencies: {}
+    Info_364:
+      Name: steamitems/lootboxes/skin18/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_365:
+      Name: cardeffects/cardeffects_wonderland/courtsverdict/images_bundle.unity3d
+      Dependencies: {}
+    Info_366:
+      Name: cardeffects/cardeffects_wonderland/wonderlandportal/images_bundle.unity3d
+      Dependencies: {}
+    Info_367:
+      Name: configs/buildings/fantasy_bundle.unity3d
+      Dependencies: {}
+    Info_368:
+      Name: materials/buildings/city_wonderland_bundle.unity3d
+      Dependencies:
+        Dependency_0: shaders_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/masks_bundle.unity3d
+        Dependency_2: sprites/buildingstextures_bundle.unity3d
+    Info_369:
+      Name: prefabs/quickgame_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+    Info_370:
+      Name: prefabs/uipurchaseclubsubscription_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/unityanimation_bundle.unity3d
+        Dependency_5: fonts_bundle.unity3d
+        Dependency_6: sprites/hintsprites_bundle.unity3d
+        Dependency_7: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_8: sprites/windows/base_bundle.unity3d
+        Dependency_9: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_10: inputprovider_bundle.unity3d
+    Info_371:
+      Name: sprites/buttons/buttonwin_bundle.unity3d
+      Dependencies: {}
+    Info_372:
+      Name: sprites/locations_bundle.unity3d
+      Dependencies: {}
+    Info_373:
+      Name: sprites/locations/fantasymap/foranim/pirates_bundle.unity3d
+      Dependencies: {}
+    Info_374:
+      Name: sprites/locations/wonderlandmap/cellsbase_bundle.unity3d
+      Dependencies: {}
+    Info_375:
+      Name: sprites/windows/base_bundle.unity3d
+      Dependencies: {}
+    Info_376:
+      Name: steamitems/characters/skin01/character02_bundle.unity3d
+      Dependencies: {}
+    Info_377:
+      Name: steamitems/characters/skin03/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_378:
+      Name: steamitems/characters/skin07/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_379:
+      Name: steamitems/characters/skin11/character04_bundle.unity3d
+      Dependencies: {}
+    Info_380:
+      Name: steamitems/characters/skin14/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_381:
+      Name: steamitems/characters/skin19/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_382:
+      Name: steamitems/characters/skin23/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_383:
+      Name: steamitems/characters/skin26/character04_bundle.unity3d
+      Dependencies: {}
+    Info_384:
+      Name: steamitems/characters/skin29/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_385:
+      Name: steamitems/characters/skin31/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_386:
+      Name: steamitems/characters/skin34/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_387:
+      Name: steamitems/dice/skin03/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_388:
+      Name: steamitems/dice/skin28/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_389:
+      Name: cardeffects/cardeffects_wonderland/pardonapply/images_bundle.unity3d
+      Dependencies: {}
+    Info_390:
+      Name: prefabs/buildings/city_fantasy/pirates_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_1: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap/foranim/pirates_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/pirates/masks_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+    Info_391:
+      Name: prefabs/leaderboard_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_4: shaders_bundle.unity3d
+        Dependency_5: fonts_bundle.unity3d
+        Dependency_6: sprites/gold_bundle.unity3d
+        Dependency_7: materials/ui_bundle.unity3d
+        Dependency_8: sprites/hintsprites_bundle.unity3d
+        Dependency_9: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_10: sprites/leagues_bundle.unity3d
+        Dependency_11: sprites/chips_bundle.unity3d
+        Dependency_12: sprites/playerrating_bundle.unity3d
+        Dependency_13: steamitems/characters/skin15/character01/avatars_bundle.unity3d
+    Info_392:
+      Name: prefabs/uifortuneroulette/animations_bundle.unity3d
+      Dependencies: {}
+    Info_393:
+      Name: sprites/locations/fantasymap/obelisks_bundle.unity3d
+      Dependencies: {}
+    Info_394:
+      Name: steamitems/characters/skin04/character05_bundle.unity3d
+      Dependencies: {}
+    Info_395:
+      Name: steamitems/characters/skin08/character03_bundle.unity3d
+      Dependencies: {}
+    Info_396:
+      Name: steamitems/characters/skin10/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_397:
+      Name: steamitems/characters/skin16/character02_bundle.unity3d
+      Dependencies: {}
+    Info_398:
+      Name: steamitems/characters/skin21/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_399:
+      Name: steamitems/characters/skin25/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_400:
+      Name: steamitems/dice/skin06/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_401:
+      Name: cardeffects/cardeffects_wonderland/happybirthdayathatters/images_bundle.unity3d
+      Dependencies: {}
+    Info_402:
+      Name: prefabs/uiwindowbuyaliceroom_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_4: sprites/headers_bundle.unity3d
+        Dependency_5: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_6: shaders_bundle.unity3d
+        Dependency_7: sprites/unityanimation_bundle.unity3d
+        Dependency_8: fonts_bundle.unity3d
+        Dependency_9: materials/ui_bundle.unity3d
+        Dependency_10: sprites/hintsprites_bundle.unity3d
+        Dependency_11: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_12: sprites/windows/base_bundle.unity3d
+        Dependency_13: inputprovider_bundle.unity3d
+    Info_403:
+      Name: steamitems/characters/skin17/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_404:
+      Name: steamitems/characters/skin24/character01_bundle.unity3d
+      Dependencies: {}
+    Info_405:
+      Name: steamitems/characters/skin34/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_406:
+      Name: steamitems/dice/skin04/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_407:
+      Name: steamitems/dice/skin29/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_408:
+      Name: steamitems/dice/skin34/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_409:
+      Name: steamitems/emojis/skin01/emoji11_bundle.unity3d
+      Dependencies: {}
+    Info_410:
+      Name: boosters_bundle.unity3d
+      Dependencies: {}
+    Info_411:
+      Name: gafanimations/playermoney/fantasy_bundle.unity3d
+      Dependencies: {}
+    Info_412:
+      Name: prefabs/mapeditor_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_4: shaders_bundle.unity3d
+        Dependency_5: sprites/cards/wonderland/icons_bundle.unity3d
+        Dependency_6: sprites/unityanimation_bundle.unity3d
+        Dependency_7: fonts_bundle.unity3d
+        Dependency_8: sprites/cards/fantasy/backgrounds_bundle.unity3d
+        Dependency_9: sprites/hintsprites_bundle.unity3d
+        Dependency_10: sprites/cards/wonderland/backgrounds_bundle.unity3d
+        Dependency_11: sprites/buttons/buttonbluehuge2_bundle.unity3d
+        Dependency_12: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_13: sprites/windows/base_bundle.unity3d
+        Dependency_14: sprites/buttons/buttonyellow_bundle.unity3d
+        Dependency_15: sprites/buttons/pinkbutton_bundle.unity3d
+        Dependency_16: steamitems/mappreset/skin00/mappreset00_bundle.unity3d
+        Dependency_17: sprites/cardview_bundle.unity3d
+        Dependency_18: steamitems/background/skin01/background02_bundle.unity3d
+        Dependency_19: inputprovider_bundle.unity3d
+    Info_413:
+      Name: steamitems/background/skin01/background08_bundle.unity3d
+      Dependencies: {}
+    Info_414:
+      Name: steamitems/characters/skin08/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_415:
+      Name: steamitems/characters/skin13/character04_bundle.unity3d
+      Dependencies: {}
+    Info_416:
+      Name: steamitems/characters/skin18/character03_bundle.unity3d
+      Dependencies: {}
+    Info_417:
+      Name: steamitems/characters/skin22/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_418:
+      Name: steamitems/characters/skin28/character04_bundle.unity3d
+      Dependencies: {}
+    Info_419:
+      Name: steamitems/characters/skin33/character04_bundle.unity3d
+      Dependencies: {}
+    Info_420:
+      Name: steamitems/dice/skin07/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_421:
+      Name: steamitems/map/skin01/map01_bundle.unity3d
+      Dependencies: {}
+    Info_422:
+      Name: cellview_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_2: fonts_bundle.unity3d
+        Dependency_3: cellview/animation/startanimation_bundle.unity3d
+    Info_423:
+      Name: prefabs/buildings/alicerooms_wonderland_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/animations/alicerooms_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/aliceroooms_bundle.unity3d
+    Info_424:
+      Name: prefabs/halloffame_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: sprites/hintsprites_bundle.unity3d
+        Dependency_4: sprites/hintsprites/playstation_bundle.unity3d
+    Info_425:
+      Name: prefabs/windowbuycity/fantasy_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_3: sprites/playerview_bundle.unity3d
+        Dependency_4: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_5: sprites/headers_bundle.unity3d
+        Dependency_6: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_7: shaders_bundle.unity3d
+        Dependency_8: sprites/unityanimation_bundle.unity3d
+        Dependency_9: fonts_bundle.unity3d
+        Dependency_10: materials/ui_bundle.unity3d
+        Dependency_11: sprites/hintsprites_bundle.unity3d
+        Dependency_12: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_13: sprites/windows/base_bundle.unity3d
+        Dependency_14: inputprovider_bundle.unity3d
+    Info_426:
+      Name: sprites/windows/windowbuyhotel_bundle.unity3d
+      Dependencies: {}
+    Info_427:
+      Name: steamitems/characters/skin04/character01_bundle.unity3d
+      Dependencies: {}
+    Info_428:
+      Name: steamitems/characters/skin10/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_429:
+      Name: steamitems/characters/skin17/character05/animations_bundle.unity3d
+      Dependencies: {}
+    Info_430:
+      Name: steamitems/characters/skin20/character03_bundle.unity3d
+      Dependencies: {}
+    Info_431:
+      Name: steamitems/characters/skin27/character02_bundle.unity3d
+      Dependencies: {}
+    Info_432:
+      Name: steamitems/dice/skin04/dice07_bundle.unity3d
+      Dependencies: {}
+    Info_433:
+      Name: steamitems/dice/skin30/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_434:
+      Name: steamitems/emojis/skin01/emoji01_bundle.unity3d
+      Dependencies: {}
+    Info_435:
+      Name: configs/startcelleffectsconfigs_bundle.unity3d
+      Dependencies: {}
+    Info_436:
+      Name: materials/buildings/aliceroom_wonderland_bundle.unity3d
+      Dependencies:
+        Dependency_0: shaders_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/obelisks/masks_bundle.unity3d
+        Dependency_2: sprites/buildingstextures_bundle.unity3d
+    Info_437:
+      Name: sprites/buttons/buttonblue_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+    Info_438:
+      Name: steamitems/buildingsskin/skin01/buildingsskin01_bundle.unity3d
+      Dependencies: {}
+    Info_439:
+      Name: steamitems/characters/skin06/character04_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin06/extra_bundle.unity3d
+    Info_440:
+      Name: steamitems/characters/skin16/character05_bundle.unity3d
+      Dependencies: {}
+    Info_441:
+      Name: steamitems/dice/skin08/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_442:
+      Name: steamitems/moneyskin/skin01/moneyskin02_bundle.unity3d
+      Dependencies: {}
+    Info_443:
+      Name: prefabs/buildings/city_fantasy/dwarfs_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/foranim/dwarfs/masks_bundle.unity3d
+        Dependency_2: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/dwarfs_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+    Info_444:
+      Name: steamitems/characters/skin08/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_445:
+      Name: steamitems/characters/skin15/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_446:
+      Name: steamitems/characters/skin17/character06_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin17/character06/animations_bundle.unity3d
+    Info_447:
+      Name: steamitems/characters/skin27/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_448:
+      Name: steamitems/characters/skin30/character02_bundle.unity3d
+      Dependencies: {}
+    Info_449:
+      Name: steamitems/dice/skin05/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_450:
+      Name: steamitems/dice/skin13/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_451:
+      Name: cardeffects/cardeffects_wonderland/courtsession/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_452:
+      Name: cardeffects/cardeffects_wonderland/seaoftears/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_453:
+      Name: configs/buildings/classic_bundle.unity3d
+      Dependencies: {}
+    Info_454:
+      Name: prefabs/common_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/hintsprites_bundle.unity3d
+        Dependency_5: sprites/chips_bundle.unity3d
+    Info_455:
+      Name: prefabs/publicplayerprofile_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: sprites/unityanimation_bundle.unity3d
+        Dependency_4: fonts_bundle.unity3d
+        Dependency_5: sprites/windows/headers_bundle.unity3d
+        Dependency_6: sprites/hintsprites_bundle.unity3d
+        Dependency_7: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_8: sprites/windows/base_bundle.unity3d
+        Dependency_9: steamitems/background/skin01/background02_bundle.unity3d
+        Dependency_10: inputprovider_bundle.unity3d
+    Info_456:
+      Name: prefabs/uioptionswindow_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/unityanimation_bundle.unity3d
+        Dependency_5: fonts_bundle.unity3d
+        Dependency_6: sprites/hintsprites_bundle.unity3d
+        Dependency_7: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_8: sprites/windows/base_bundle.unity3d
+        Dependency_9: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_10: inputprovider_bundle.unity3d
+    Info_457:
+      Name: sprites/leagues_bundle.unity3d
+      Dependencies: {}
+    Info_458:
+      Name: steamitems/characters/skin19/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_459:
+      Name: steamitems/characters/skin26/character03_bundle.unity3d
+      Dependencies: {}
+    Info_460:
+      Name: steamitems/dice/skin09/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_461:
+      Name: configs/gameplay_bundle.unity3d
+      Dependencies:
+        Dependency_0: configs/gameplay/maps_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: configs_bundle.unity3d
+        Dependency_4: sprites/windows/base_bundle.unity3d
+        Dependency_5: sprites/windows_bundle.unity3d
+        Dependency_6: configs/boarddecorations_bundle.unity3d
+        Dependency_7: configs/gameplay/sound_bundle.unity3d
+        Dependency_8: sprites/windows/windowislandescape_bundle.unity3d
+        Dependency_9: configs/gameplay/localization_bundle.unity3d
+        Dependency_10: configs/gameplay/carddecks_bundle.unity3d
+    Info_462:
+      Name: steamitems/characters/skin04/character04_bundle.unity3d
+      Dependencies: {}
+    Info_463:
+      Name: steamitems/characters/skin13/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_464:
+      Name: steamitems/characters/skin21/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_465:
+      Name: steamitems/characters/skin25/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_466:
+      Name: steamitems/characters/skin30/character04_bundle.unity3d
+      Dependencies: {}
+    Info_467:
+      Name: steamitems/dice/skin05/dice10_bundle.unity3d
+      Dependencies: {}
+    Info_468:
+      Name: steamitems/dice/skin14/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_469:
+      Name: sprites/cards/backgrounds_bundle.unity3d
+      Dependencies: {}
+    Info_470:
+      Name: sprites/windows_bundle.unity3d
+      Dependencies: {}
+    Info_471:
+      Name: steamitems/characters/skin03/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_472:
+      Name: steamitems/characters/skin14/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_473:
+      Name: steamitems/characters/skin20/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_474:
+      Name: steamitems/characters/skin23/character04_bundle.unity3d
+      Dependencies: {}
+    Info_475:
+      Name: steamitems/characters/skin29/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_476:
+      Name: steamitems/characters/skin32/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_477:
+      Name: steamitems/dice/skin10/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_478:
+      Name: cardeffects/cardeffects_wonderland/queenswhim/images_bundle.unity3d
+      Dependencies: {}
+    Info_479:
+      Name: gafanimations/currentplayerarrow_bundle.unity3d
+      Dependencies: {}
+    Info_480:
+      Name: prefabs/buildings/city_wonderland/suit1_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/buildings/suit1_bundle.unity3d
+        Dependency_2: sprites/locations/wonderlandmap/animations/suit1_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_481:
+      Name: prefabs/uifortuneroulette_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/uidailytasklist_bundle.unity3d
+        Dependency_4: steamitems/characters/skin22/character01_bundle.unity3d
+        Dependency_5: configs_bundle.unity3d
+        Dependency_6: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_7: shaders_bundle.unity3d
+        Dependency_8: sprites/unityanimation_bundle.unity3d
+        Dependency_9: fonts_bundle.unity3d
+        Dependency_10: prefabs/uiexchangecard_bundle.unity3d
+        Dependency_11: prefabs/uifortuneroulette/materials_bundle.unity3d
+        Dependency_12: sprites/hintsprites_bundle.unity3d
+        Dependency_13: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_14: sprites/windows/base_bundle.unity3d
+        Dependency_15: prefabs/uifortuneroulette/animations_bundle.unity3d
+        Dependency_16: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_17: sprites/uidailytasklist/uirailyrewardsschedule_bundle.unity3d
+        Dependency_18: sprites/cardview_bundle.unity3d
+        Dependency_19: inputprovider_bundle.unity3d
+    Info_482:
+      Name: steamitems/background/skin01/background06_bundle.unity3d
+      Dependencies: {}
+    Info_483:
+      Name: steamitems/characters/skin13/character03_bundle.unity3d
+      Dependencies: {}
+    Info_484:
+      Name: steamitems/characters/skin18/character02_bundle.unity3d
+      Dependencies: {}
+    Info_485:
+      Name: steamitems/characters/skin22/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_486:
+      Name: steamitems/characters/skin28/character03_bundle.unity3d
+      Dependencies: {}
+    Info_487:
+      Name: steamitems/characters/skin33/character03_bundle.unity3d
+      Dependencies: {}
+    Info_488:
+      Name: steamitems/dice/skin06/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_489:
+      Name: steamitems/dice/skin15/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_490:
+      Name: steamitems/lootboxes/skin34/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_491:
+      Name: cellview/animation/startanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: fonts_bundle.unity3d
+    Info_492:
+      Name: prefabs/gameplay_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_3: sprites/playerview_bundle.unity3d
+        Dependency_4: sprites/headers_bundle.unity3d
+        Dependency_5: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_6: shaders_bundle.unity3d
+        Dependency_7: sprites/unityanimation_bundle.unity3d
+        Dependency_8: fonts_bundle.unity3d
+        Dependency_9: sprites/throwdiceview/throwbutton_bundle.unity3d
+        Dependency_10: sprites/windows/headers_bundle.unity3d
+        Dependency_11: sprites/gold_bundle.unity3d
+        Dependency_12: sprites/playerview/playergameplaypanel/additionalelementsholder_bundle.unity3d
+        Dependency_13: sprites/hintsprites_bundle.unity3d
+        Dependency_14: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_15: sprites/throwdiceview/oddbutton_bundle.unity3d
+        Dependency_16: sprites/buttons/buttonwin_bundle.unity3d
+        Dependency_17: sprites/windows/base_bundle.unity3d
+        Dependency_18: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_19: sprites/throwdiceview/pairbutton_bundle.unity3d
+        Dependency_20: sprites/playerview/playergameplaypanel_bundle.unity3d
+        Dependency_21: sprites/throwdiceview/throwagainbutton_bundle.unity3d
+        Dependency_22: gafanimations/cardinventory_bundle.unity3d
+        Dependency_23: sprites/throwdiceview/evenbutton_bundle.unity3d
+        Dependency_24: sprites/buttons_bundle.unity3d
+        Dependency_25: inputprovider_bundle.unity3d
+    Info_493:
+      Name: prefabs/uiwindowinfocity/wonderland_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_4: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_5: sprites/windows/windowbuyresort_bundle.unity3d
+        Dependency_6: sprites/unityanimation_bundle.unity3d
+        Dependency_7: fonts_bundle.unity3d
+        Dependency_8: sprites/windows/headers_bundle.unity3d
+        Dependency_9: materials/ui_bundle.unity3d
+        Dependency_10: sprites/hintsprites_bundle.unity3d
+        Dependency_11: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_12: sprites/windows/base_bundle.unity3d
+        Dependency_13: sprites/windows/windowbuyhotel_bundle.unity3d
+        Dependency_14: inputprovider_bundle.unity3d
+    Info_494:
+      Name: steamitems/characters/skin02/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_495:
+      Name: steamitems/characters/skin09/character06_bundle.unity3d
+      Dependencies: {}
+    Info_496:
+      Name: steamitems/characters/skin12/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_497:
+      Name: steamitems/characters/skin17/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_498:
+      Name: steamitems/characters/skin32/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_499:
+      Name: steamitems/dice/skin11/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_500:
+      Name: steamitems/lootboxes/skin01/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_501:
+      Name: configs/moneyskins_bundle.unity3d
+      Dependencies: {}
+    Info_502:
+      Name: sprites/locations/wonderlandmap/buildings/suit7_bundle.unity3d
+      Dependencies: {}
+    Info_503:
+      Name: steamitems/characters/skin02/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_504:
+      Name: steamitems/characters/skin06/character03_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin06/extra_bundle.unity3d
+    Info_505:
+      Name: steamitems/characters/skin25/character06_bundle.unity3d
+      Dependencies: {}
+    Info_506:
+      Name: steamitems/characters/skin31/character02_bundle.unity3d
+      Dependencies: {}
+    Info_507:
+      Name: steamitems/dice/skin07/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_508:
+      Name: steamitems/dice/skin17/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_509:
+      Name: steamitems/dice/skin32/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_510:
+      Name: steamitems/mappreset/skin01/mappreset01_bundle.unity3d
+      Dependencies: {}
+    Info_511:
+      Name: cardeffects/cardeffects_wonderland/meettherabbit/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_512:
+      Name: cellview/wonderland_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_2: fonts_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/cellsbase_bundle.unity3d
+        Dependency_4: cellview/animation/startanimation_bundle.unity3d
+        Dependency_5: sprites/locations/wonderlandmap/special_bundle.unity3d
+    Info_513:
+      Name: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+      Dependencies: {}
+    Info_514:
+      Name: steamitems/characters/skin10/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_515:
+      Name: steamitems/characters/skin15/character03_bundle.unity3d
+      Dependencies: {}
+    Info_516:
+      Name: steamitems/characters/skin27/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_517:
+      Name: steamitems/dice/skin12/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_518:
+      Name: steamitems/dice/skin30/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_519:
+      Name: configs/boarddecorations_bundle.unity3d
+      Dependencies:
+        Dependency_0: configs/buildings_bundle.unity3d
+        Dependency_1: gafanimations/playermoney/wonderland/sprites_bundle.unity3d
+        Dependency_2: cellview/moneycellanimation/moneyfantasycellanimation_bundle.unity3d
+        Dependency_3: gafanimations/playermoney/fantasy_bundle.unity3d
+        Dependency_4: gafanimations/playermoney/wonderland_bundle.unity3d
+        Dependency_5: cellview/moneycellanimation/moneyclassiccellanimation_bundle.unity3d
+        Dependency_6: gafanimations/playermoney/classic_bundle.unity3d
+    Info_520:
+      Name: prefabs/uiofferwindow/animations_bundle.unity3d
+      Dependencies: {}
+    Info_521:
+      Name: steamitems/characters/skin11/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_522:
+      Name: steamitems/characters/skin19/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_523:
+      Name: steamitems/characters/skin26/character02_bundle.unity3d
+      Dependencies: {}
+    Info_524:
+      Name: steamitems/characters/skin29/character01_bundle.unity3d
+      Dependencies: {}
+    Info_525:
+      Name: steamitems/characters/skin34/character01_bundle.unity3d
+      Dependencies: {}
+    Info_526:
+      Name: steamitems/dice/skin08/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_527:
+      Name: steamitems/dice/skin17/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_528:
+      Name: sprites/chips_bundle.unity3d
+      Dependencies: {}
+    Info_529:
+      Name: sprites/locations/wonderlandmap/animations/suit4_bundle.unity3d
+      Dependencies: {}
+    Info_530:
+      Name: sprites/throwdiceview/pairbutton_bundle.unity3d
+      Dependencies: {}
+    Info_531:
+      Name: sprites/windows/windowselectotherplayer_bundle.unity3d
+      Dependencies: {}
+    Info_532:
+      Name: steamitems/characters/skin21/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_533:
+      Name: steamitems/characters/skin25/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_534:
+      Name: steamitems/dice/skin13/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_535:
+      Name: steamitems/emojis/skin01/emoji03/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji03_bundle.unity3d
+    Info_536:
+      Name: steamitems/lootboxes/skin19/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_537:
+      Name: cardeffects/cardeffects_wonderland/courtsverdict/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_538:
+      Name: configs/buildings/testcustom_bundle.unity3d
+      Dependencies: {}
+    Info_539:
+      Name: steamitems/characters/skin03/character02_bundle.unity3d
+      Dependencies: {}
+    Info_540:
+      Name: steamitems/characters/skin09/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_541:
+      Name: steamitems/characters/skin17/character02/animations_bundle.unity3d
+      Dependencies: {}
+    Info_542:
+      Name: steamitems/characters/skin23/character03_bundle.unity3d
+      Dependencies: {}
+    Info_543:
+      Name: steamitems/characters/skin34/character03_bundle.unity3d
+      Dependencies: {}
+    Info_544:
+      Name: steamitems/dice/skin09/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_545:
+      Name: steamitems/dice/skin18/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_546:
+      Name: configs/gameplay/sound_bundle.unity3d
+      Dependencies: {}
+    Info_547:
+      Name: sprites/gameplaytextnotificationsandminiwindows_bundle.unity3d
+      Dependencies: {}
+    Info_548:
+      Name: steamitems/characters/skin18/character01_bundle.unity3d
+      Dependencies: {}
+    Info_549:
+      Name: steamitems/characters/skin28/character02_bundle.unity3d
+      Dependencies: {}
+    Info_550:
+      Name: steamitems/characters/skin30/character05_bundle.unity3d
+      Dependencies: {}
+    Info_551:
+      Name: steamitems/dice/skin15/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_552:
+      Name: steamitems/dice/skin24/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_553:
+      Name: prefabs/tutorial_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/unityanimation_bundle.unity3d
+        Dependency_5: fonts_bundle.unity3d
+        Dependency_6: sprites/throwdiceview/throwbutton_bundle.unity3d
+        Dependency_7: sprites/gold_bundle.unity3d
+        Dependency_8: sprites/tutorial_bundle.unity3d
+        Dependency_9: sprites/hintsprites_bundle.unity3d
+        Dependency_10: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_11: sprites/throwdiceview/oddbutton_bundle.unity3d
+        Dependency_12: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_13: sprites/throwdiceview/pairbutton_bundle.unity3d
+        Dependency_14: sprites/buttons/buttonblueskip_bundle.unity3d
+        Dependency_15: sprites/buttons/buttonyellow_bundle.unity3d
+        Dependency_16: sprites/throwdiceview/throwagainbutton_bundle.unity3d
+        Dependency_17: sprites/throwdiceview/evenbutton_bundle.unity3d
+        Dependency_18: sprites/cardview_bundle.unity3d
+        Dependency_19: inputprovider_bundle.unity3d
+    Info_554:
+      Name: steamitems/characters/skin01/character04_bundle.unity3d
+      Dependencies: {}
+    Info_555:
+      Name: steamitems/characters/skin07/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_556:
+      Name: steamitems/characters/skin12/character01_bundle.unity3d
+      Dependencies: {}
+    Info_557:
+      Name: steamitems/characters/skin26/character07_bundle.unity3d
+      Dependencies: {}
+    Info_558:
+      Name: steamitems/characters/skin29/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_559:
+      Name: steamitems/characters/skin32/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_560:
+      Name: steamitems/dice/skin10/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_561:
+      Name: steamitems/dice/skin19/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_562:
+      Name: cardeffects/cardeffects_wonderland/reporttoqueen/images_bundle.unity3d
+      Dependencies: {}
+    Info_563:
+      Name: prefabs/buildings/city_wonderland/suit4_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/animations/suit4_bundle.unity3d
+        Dependency_2: sprites/locations/wonderlandmap/buildings/suit4_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_564:
+      Name: prefabs/uiinvestorpass_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_4: shaders_bundle.unity3d
+        Dependency_5: sprites/unityanimation_bundle.unity3d
+        Dependency_6: fonts_bundle.unity3d
+        Dependency_7: sprites/hintsprites_bundle.unity3d
+        Dependency_8: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_9: sprites/windows/base_bundle.unity3d
+        Dependency_10: sprites/winwindow_bundle.unity3d
+        Dependency_11: steamitems/background/skin01/background04_bundle.unity3d
+        Dependency_12: inputprovider_bundle.unity3d
+    Info_565:
+      Name: sprites/accepttermsandpolicy_bundle.unity3d
+      Dependencies: {}
+    Info_566:
+      Name: sprites/locations/wonderlandmap/buildings/suit4_bundle.unity3d
+      Dependencies: {}
+    Info_567:
+      Name: steamitems/background/skin01/background09_bundle.unity3d
+      Dependencies: {}
+    Info_568:
+      Name: steamitems/characters/skin06/character02_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin06/extra_bundle.unity3d
+    Info_569:
+      Name: steamitems/characters/skin16/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_570:
+      Name: steamitems/characters/skin25/character05_bundle.unity3d
+      Dependencies: {}
+    Info_571:
+      Name: steamitems/characters/skin31/character01_bundle.unity3d
+      Dependencies: {}
+    Info_572:
+      Name: steamitems/dice/skin01/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_573:
+      Name: steamitems/dice/skin16/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_574:
+      Name: steamitems/dice/skin25/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_575:
+      Name: steamitems/dice/skin32/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_576:
+      Name: steamitems/characters/skin15/character02_bundle.unity3d
+      Dependencies: {}
+    Info_577:
+      Name: steamitems/characters/skin27/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_578:
+      Name: steamitems/characters/skin32/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_579:
+      Name: steamitems/dice/effects/animation_bundle.unity3d
+      Dependencies: {}
+    Info_580:
+      Name: steamitems/dice/skin11/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_581:
+      Name: steamitems/dice/skin21/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_582:
+      Name: prefabs/buildings/resort_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/buildingstextures_bundle.unity3d
+    Info_583:
+      Name: steamitems/buildingsskin/skin01/buildingsskin02_bundle.unity3d
+      Dependencies: {}
+    Info_584:
+      Name: steamitems/characters/skin11/character02_bundle.unity3d
+      Dependencies: {}
+    Info_585:
+      Name: steamitems/characters/skin14/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_586:
+      Name: steamitems/characters/skin19/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_587:
+      Name: steamitems/characters/skin22/character04_bundle.unity3d
+      Dependencies: {}
+    Info_588:
+      Name: steamitems/characters/skin26/character01_bundle.unity3d
+      Dependencies: {}
+    Info_589:
+      Name: steamitems/characters/skin33/character06_bundle.unity3d
+      Dependencies: {}
+    Info_590:
+      Name: steamitems/dice/skin02/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_591:
+      Name: steamitems/dice/skin17/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_592:
+      Name: steamitems/dice/skin26/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_593:
+      Name: steamitems/dice/skin33/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_594:
+      Name: steamitems/emojis/skin01/emoji07/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji07/drops_bundle.unity3d
+        Dependency_1: steamitems/emojis/skin01/emoji07_bundle.unity3d
+    Info_595:
+      Name: steamitems/moneyskin/skin01/moneyskin03_bundle.unity3d
+      Dependencies: {}
+    Info_596:
+      Name: steamitems/characters/skin04/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_597:
+      Name: steamitems/characters/skin12/character04_bundle.unity3d
+      Dependencies: {}
+    Info_598:
+      Name: steamitems/characters/skin21/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_599:
+      Name: steamitems/characters/skin24/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_600:
+      Name: steamitems/characters/skin32/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_601:
+      Name: steamitems/dice/skin22/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_602:
+      Name: steamitems/dice/skin30/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_603:
+      Name: sprites/buttons/buttonshadowblue_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+    Info_604:
+      Name: steamitems/characters/skin01/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_605:
+      Name: steamitems/characters/skin03/character01_bundle.unity3d
+      Dependencies: {}
+    Info_606:
+      Name: steamitems/characters/skin09/character03_bundle.unity3d
+      Dependencies: {}
+    Info_607:
+      Name: steamitems/characters/skin11/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_608:
+      Name: steamitems/characters/skin17/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_609:
+      Name: steamitems/characters/skin23/character02_bundle.unity3d
+      Dependencies: {}
+    Info_610:
+      Name: steamitems/characters/skin29/character02_bundle.unity3d
+      Dependencies: {}
+    Info_611:
+      Name: steamitems/characters/skin31/character05_bundle.unity3d
+      Dependencies: {}
+    Info_612:
+      Name: steamitems/characters/skin34/character02_bundle.unity3d
+      Dependencies: {}
+    Info_613:
+      Name: steamitems/dice/skin02/dice08_bundle.unity3d
+      Dependencies: {}
+    Info_614:
+      Name: steamitems/dice/skin18/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_615:
+      Name: steamitems/dice/skin27/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_616:
+      Name: steamitems/dice/skin33/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_617:
+      Name: prefabs/buildings/city_fantasy/people_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/foranim/people_bundle.unity3d
+        Dependency_2: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/people/masks_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+    Info_618:
+      Name: sprites/locations/fantasymap/foranim/mountains/masks_bundle.unity3d
+      Dependencies: {}
+    Info_619:
+      Name: sprites/locations/wonderlandmap/animations/suit6_bundle.unity3d
+      Dependencies: {}
+    Info_620:
+      Name: steamitems/characters/skin17/character08_bundle.unity3d
+      Dependencies: {}
+    Info_621:
+      Name: steamitems/characters/skin28/character01_bundle.unity3d
+      Dependencies: {}
+    Info_622:
+      Name: steamitems/dice/skin23/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_623:
+      Name: steamitems/dice/skin31/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_624:
+      Name: sprites/cards/classic/backgrounds_bundle.unity3d
+      Dependencies: {}
+    Info_625:
+      Name: sprites/playerrating_bundle.unity3d
+      Dependencies: {}
+    Info_626:
+      Name: steamitems/characters/skin09/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_627:
+      Name: steamitems/characters/skin17/character02_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin17/character02/animations_bundle.unity3d
+    Info_628:
+      Name: steamitems/dice/skin03/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_629:
+      Name: steamitems/dice/skin19/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_630:
+      Name: steamitems/dice/skin28/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_631:
+      Name: gafanimations/gafdata_bundle.unity3d
+      Dependencies: {}
+    Info_632:
+      Name: sprites/locations/wonderlandmap/buildings/suit1_bundle.unity3d
+      Dependencies: {}
+    Info_633:
+      Name: steamitems/characters/skin06/character01_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin06/extra_bundle.unity3d
+    Info_634:
+      Name: steamitems/characters/skin10/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_635:
+      Name: steamitems/characters/skin25/character04_bundle.unity3d
+      Dependencies: {}
+    Info_636:
+      Name: steamitems/dice/skin24/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_637:
+      Name: steamitems/emojis/skin01/emoji05/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji05_bundle.unity3d
+    Info_638:
+      Name: sprites/playerview/playergameplaypanel_bundle.unity3d
+      Dependencies: {}
+    Info_639:
+      Name: steamitems/characters/skin27/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_640:
+      Name: steamitems/characters/skin29/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_641:
+      Name: steamitems/characters/skin34/character06_bundle.unity3d
+      Dependencies: {}
+    Info_642:
+      Name: steamitems/dice/skin04/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_643:
+      Name: steamitems/dice/skin20/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_644:
+      Name: steamitems/dice/skin29/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_645:
+      Name: cardeffects/cardeffects_wonderland/royalrevenge_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/royalrevenge/spinedata_bundle.unity3d
+    Info_646:
+      Name: configs/otheritems_bundle.unity3d
+      Dependencies: {}
+    Info_647:
+      Name: prefabs/buildings/city_wonderland/suit7_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/animations/suit7_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/buildings/suit7_bundle.unity3d
+        Dependency_2: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_648:
+      Name: sprites/locations/special_bundle.unity3d
+      Dependencies: {}
+    Info_649:
+      Name: steamitems/background/skin01/background11_bundle.unity3d
+      Dependencies:
+        Dependency_0: fonts_bundle.unity3d
+        Dependency_1: steamitems/background/skin01/background10_bundle.unity3d
+        Dependency_2: sprites/locations_bundle.unity3d
+        Dependency_3: sprites/fieldsprites_bundle.unity3d
+        Dependency_4: inputprovider_bundle.unity3d
+    Info_650:
+      Name: steamitems/characters/skin09/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_651:
+      Name: steamitems/characters/skin16/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_652:
+      Name: steamitems/characters/skin18/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_653:
+      Name: steamitems/characters/skin22/character03_bundle.unity3d
+      Dependencies: {}
+    Info_654:
+      Name: steamitems/characters/skin28/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_655:
+      Name: steamitems/dice/skin25/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_656:
+      Name: steamitems/mappreset/skin01/mappreset02_bundle.unity3d
+      Dependencies: {}
+    Info_657:
+      Name: prefabs/windowbuyresort_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/headers_bundle.unity3d
+        Dependency_4: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_5: shaders_bundle.unity3d
+        Dependency_6: sprites/windows/windowbuyresort_bundle.unity3d
+        Dependency_7: sprites/unityanimation_bundle.unity3d
+        Dependency_8: fonts_bundle.unity3d
+        Dependency_9: materials/ui_bundle.unity3d
+        Dependency_10: sprites/hintsprites_bundle.unity3d
+        Dependency_11: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_12: sprites/windows/base_bundle.unity3d
+        Dependency_13: sprites/locations/fantasymap/obelisks_bundle.unity3d
+        Dependency_14: sprites/windows_bundle.unity3d
+        Dependency_15: inputprovider_bundle.unity3d
+    Info_658:
+      Name: sprites/locations/wonderlandmap/animations/suit1_bundle.unity3d
+      Dependencies: {}
+    Info_659:
+      Name: steamitems/characters/skin07/character05_bundle.unity3d
+      Dependencies: {}
+    Info_660:
+      Name: steamitems/characters/skin17/character06/animations_bundle.unity3d
+      Dependencies: {}
+    Info_661:
+      Name: steamitems/characters/skin24/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_662:
+      Name: steamitems/characters/skin32/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_663:
+      Name: steamitems/dice/skin05/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_664:
+      Name: steamitems/dice/skin21/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_665:
+      Name: prefabs/uiofferwindow/prefabs_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: fonts_bundle.unity3d
+        Dependency_2: prefabs/uiofferwindow/animations_bundle.unity3d
+        Dependency_3: steamitems/characters/skin10/character03/avatars_bundle.unity3d
+    Info_666:
+      Name: sprites/buttons/buttonblueskip_bundle.unity3d
+      Dependencies: {}
+    Info_667:
+      Name: steamitems/characters/skin23/character01_bundle.unity3d
+      Dependencies: {}
+    Info_668:
+      Name: steamitems/dice/skin02/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_669:
+      Name: steamitems/dice/skin27/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_670:
+      Name: steamitems/dice/skin33/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_671:
+      Name: cardeffects/cardeffects_wonderland/ninthlife/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_672:
+      Name: steamitems/characters/skin04/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_673:
+      Name: steamitems/characters/skin08/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_674:
+      Name: steamitems/characters/skin16/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_675:
+      Name: steamitems/characters/skin17/character07_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin17/character07/animations_bundle.unity3d
+    Info_676:
+      Name: steamitems/characters/skin27/character05_bundle.unity3d
+      Dependencies: {}
+    Info_677:
+      Name: steamitems/characters/skin33/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_678:
+      Name: steamitems/dice/skin05/dice08_bundle.unity3d
+      Dependencies: {}
+    Info_679:
+      Name: steamitems/dice/skin31/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_680:
+      Name: steamitems/lootboxes/skin20/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_681:
+      Name: prefabs/selectserver_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: configs_bundle.unity3d
+        Dependency_3: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_4: shaders_bundle.unity3d
+        Dependency_5: sprites/unityanimation_bundle.unity3d
+        Dependency_6: fonts_bundle.unity3d
+        Dependency_7: sprites/hintsprites_bundle.unity3d
+        Dependency_8: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_9: sprites/windows/base_bundle.unity3d
+        Dependency_10: inputprovider_bundle.unity3d
+    Info_682:
+      Name: sprites/buttons/buttonyellow_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+    Info_683:
+      Name: steamitems/characters/skin07/character01_bundle.unity3d
+      Dependencies: {}
+    Info_684:
+      Name: steamitems/characters/skin14/character03_bundle.unity3d
+      Dependencies: {}
+    Info_685:
+      Name: steamitems/characters/skin19/character04_bundle.unity3d
+      Dependencies: {}
+    Info_686:
+      Name: steamitems/characters/skin29/character03_bundle.unity3d
+      Dependencies: {}
+    Info_687:
+      Name: steamitems/dice/skin03/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_688:
+      Name: steamitems/dice/skin28/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_689:
+      Name: steamitems/dice/skin34/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_690:
+      Name: prefabs/buildings/city_fantasy/secrettower_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/foranim/secrettower_bundle.unity3d
+        Dependency_2: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/secrettower/masks_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/peoplenew_bundle.unity3d
+        Dependency_5: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+    Info_691:
+      Name: sprites/locations/wonderlandmap/animations/suit8_bundle.unity3d
+      Dependencies: {}
+    Info_692:
+      Name: steamitems/characters/skin13/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_693:
+      Name: steamitems/characters/skin21/character04_bundle.unity3d
+      Dependencies: {}
+    Info_694:
+      Name: steamitems/characters/skin25/character03_bundle.unity3d
+      Dependencies: {}
+    Info_695:
+      Name: steamitems/dice/skin06/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_696:
+      Name: steamitems/dice/skin31/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_697:
+      Name: prefabs/gameplay/selectorsellcellwindows_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: fonts_bundle.unity3d
+        Dependency_5: sprites/hintsprites_bundle.unity3d
+        Dependency_6: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_7: sprites/windows_bundle.unity3d
+        Dependency_8: sprites/gameplaytextnotificationsandminiwindows_bundle.unity3d
+        Dependency_9: sprites/buttons/buttonshadowblue_bundle.unity3d
+        Dependency_10: inputprovider_bundle.unity3d
+    Info_698:
+      Name: prefabs/uiwindowinfocity/fantasy_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_3: sprites/playerview_bundle.unity3d
+        Dependency_4: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_5: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_6: sprites/windows/windowbuyresort_bundle.unity3d
+        Dependency_7: sprites/unityanimation_bundle.unity3d
+        Dependency_8: fonts_bundle.unity3d
+        Dependency_9: sprites/windows/headers_bundle.unity3d
+        Dependency_10: materials/ui_bundle.unity3d
+        Dependency_11: sprites/hintsprites_bundle.unity3d
+        Dependency_12: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_13: sprites/windows/base_bundle.unity3d
+        Dependency_14: sprites/windows/windowbuyhotel_bundle.unity3d
+        Dependency_15: inputprovider_bundle.unity3d
+    Info_699:
+      Name: steamitems/characters/skin03/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_700:
+      Name: steamitems/characters/skin15/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_701:
+      Name: steamitems/characters/skin17/character03_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin17/character03/animations_bundle.unity3d
+    Info_702:
+      Name: steamitems/characters/skin20/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_703:
+      Name: steamitems/characters/skin26/character07/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_704:
+      Name: steamitems/dice/skin04/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_705:
+      Name: steamitems/dice/skin29/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_706:
+      Name: steamitems/dice/skin34/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_707:
+      Name: gafanimations/playermoney/wonderland_bundle.unity3d
+      Dependencies:
+        Dependency_0: gafanimations/playermoney/wonderland/sprites_bundle.unity3d
+    Info_708:
+      Name: sprites/locations/fantasymap/foranim/people/masks_bundle.unity3d
+      Dependencies: {}
+    Info_709:
+      Name: sprites/uidailytasklist/uirailyrewardsschedule_bundle.unity3d
+      Dependencies: {}
+    Info_710:
+      Name: steamitems/characters/skin18/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_711:
+      Name: steamitems/characters/skin22/character02_bundle.unity3d
+      Dependencies: {}
+    Info_712:
+      Name: steamitems/characters/skin28/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_713:
+      Name: steamitems/dice/skin07/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_714:
+      Name: cardeffects/cardeffects_wonderland/meettherabbit/images_bundle.unity3d
+      Dependencies: {}
+    Info_715:
+      Name: cellview/moneycellanimation/moneyclassiccellanimation_bundle.unity3d
+      Dependencies: {}
+    Info_716:
+      Name: prefabs/windowbuycity_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_4: sprites/headers_bundle.unity3d
+        Dependency_5: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_6: shaders_bundle.unity3d
+        Dependency_7: sprites/unityanimation_bundle.unity3d
+        Dependency_8: fonts_bundle.unity3d
+        Dependency_9: materials/ui_bundle.unity3d
+        Dependency_10: sprites/hintsprites_bundle.unity3d
+        Dependency_11: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_12: sprites/windows/base_bundle.unity3d
+        Dependency_13: inputprovider_bundle.unity3d
+    Info_717:
+      Name: steamitems/characters/skin12/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_718:
+      Name: steamitems/characters/skin24/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_719:
+      Name: steamitems/dice/skin05/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_720:
+      Name: steamitems/lootboxes/skin05/lootbox03_bundle.unity3d
+      Dependencies: {}
+    Info_721:
+      Name: cardeffects/cardeffects_wonderland/alicesfortune/images_bundle.unity3d
+      Dependencies: {}
+    Info_722:
+      Name: cardeffects/cardeffects_wonderland/sabotage/images_bundle.unity3d
+      Dependencies: {}
+    Info_723:
+      Name: steamitems/buildingsskin/skin01/buildingsskin03_bundle.unity3d
+      Dependencies: {}
+    Info_724:
+      Name: steamitems/characters/skin31/character03_bundle.unity3d
+      Dependencies: {}
+    Info_725:
+      Name: steamitems/dice/skin08/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_726:
+      Name: cardeffects/cardeffects_wonderland/mirrorreflection/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_727:
+      Name: prefabs/buildings/city_fantasy/elves_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap/foranim/elves/masks_bundle.unity3d
+        Dependency_2: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/elves_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+    Info_728:
+      Name: prefabs/uidailytask_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/uidailytasklist_bundle.unity3d
+        Dependency_3: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_4: shaders_bundle.unity3d
+        Dependency_5: sprites/unityanimation_bundle.unity3d
+        Dependency_6: fonts_bundle.unity3d
+        Dependency_7: sprites/hintsprites_bundle.unity3d
+        Dependency_8: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_9: sprites/windows/base_bundle.unity3d
+        Dependency_10: sprites/uidailytasklist/uirailyrewardsschedule_bundle.unity3d
+        Dependency_11: inputprovider_bundle.unity3d
+    Info_729:
+      Name: sprites/locations/wonderlandmap/animations/suit3_bundle.unity3d
+      Dependencies: {}
+    Info_730:
+      Name: sprites/windows/windowislandescape_bundle.unity3d
+      Dependencies: {}
+    Info_731:
+      Name: steamitems/characters/skin10/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_732:
+      Name: steamitems/characters/skin17/character07/animations_bundle.unity3d
+      Dependencies: {}
+    Info_733:
+      Name: steamitems/characters/skin30/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_734:
+      Name: steamitems/dice/skin05/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_735:
+      Name: steamitems/dice/skin13/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_736:
+      Name: steamitems/characters/skin19/character03_bundle.unity3d
+      Dependencies: {}
+    Info_737:
+      Name: steamitems/dice/skin09/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_738:
+      Name: cardeffects/cardeffects_wonderland/pardon/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_739:
+      Name: configs/gameplay/localization_bundle.unity3d
+      Dependencies: {}
+    Info_740:
+      Name: prefabs/uiexchangelootboxforclub_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/unityanimation_bundle.unity3d
+        Dependency_5: fonts_bundle.unity3d
+        Dependency_6: sprites/hintsprites_bundle.unity3d
+        Dependency_7: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_8: sprites/windows/base_bundle.unity3d
+        Dependency_9: steamitems/lootboxes/skin02/lootbox01_bundle.unity3d
+        Dependency_10: inputprovider_bundle.unity3d
+    Info_741:
+      Name: sprites/firstplayerselectui_bundle.unity3d
+      Dependencies: {}
+    Info_742:
+      Name: sprites/winwindow_bundle.unity3d
+      Dependencies: {}
+    Info_743:
+      Name: steamitems/characters/skin25/character02_bundle.unity3d
+      Dependencies: {}
+    Info_744:
+      Name: steamitems/characters/skin33/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_745:
+      Name: steamitems/dice/skin14/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_746:
+      Name: cardeffects/cardeffects_wonderland/gameofcroquet/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_747:
+      Name: cardeffects/cardeffects_wonderland/wonderlandportal_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/wonderlandportal/spinedata_bundle.unity3d
+    Info_748:
+      Name: steamitems/characters/skin26/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_749:
+      Name: steamitems/characters/skin34/character04_bundle.unity3d
+      Dependencies: {}
+    Info_750:
+      Name: steamitems/dice/skin10/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_751:
+      Name: steamitems/dice/skin34/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_752:
+      Name: gafanimations/playermoney/classic_bundle.unity3d
+      Dependencies: {}
+    Info_753:
+      Name: prefabs/buildings/city_wonderland/suit2_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/animations/suit2_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_2: sprites/locations/wonderlandmap/buildings/suit2_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_754:
+      Name: sprites/locations/wonderlandmap/buildings/suit2_bundle.unity3d
+      Dependencies: {}
+    Info_755:
+      Name: steamitems/characters/skin02/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_756:
+      Name: steamitems/dice/skin06/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_757:
+      Name: steamitems/dice/skin16/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_758:
+      Name: steamitems/dice/skin32/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_759:
+      Name: cardeffects/cardeffects_wonderland/luxurytax/images_bundle.unity3d
+      Dependencies: {}
+    Info_760:
+      Name: mixer_bundle.unity3d
+      Dependencies: {}
+    Info_761:
+      Name: prefabs/gameplay/uistartcellrolleffect_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/cards/wonderland/icons_bundle.unity3d
+        Dependency_5: sprites/unityanimation_bundle.unity3d
+        Dependency_6: sprites/cards/fantasy/backgrounds_bundle.unity3d
+        Dependency_7: sprites/hintsprites_bundle.unity3d
+        Dependency_8: sprites/cards/wonderland/backgrounds_bundle.unity3d
+        Dependency_9: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_10: sprites/windows/base_bundle.unity3d
+        Dependency_11: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_12: inputprovider_bundle.unity3d
+    Info_762:
+      Name: steamitems/characters/skin07/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_763:
+      Name: steamitems/characters/skin17/character04_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin17/character04/animations_bundle.unity3d
+    Info_764:
+      Name: steamitems/characters/skin24/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_765:
+      Name: steamitems/dice/skin11/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_766:
+      Name: gafanimations/textpairanimation_bundle.unity3d
+      Dependencies: {}
+    Info_767:
+      Name: sprites/locations/wonderlandmap/buildings/suit8_bundle.unity3d
+      Dependencies: {}
+    Info_768:
+      Name: steamitems/dice/skin02/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_769:
+      Name: steamitems/dice/skin07/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_770:
+      Name: steamitems/dice/skin17/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_771:
+      Name: steamitems/dice/skin32/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_772:
+      Name: steamitems/mappreset/skin01/mappreset03_bundle.unity3d
+      Dependencies: {}
+    Info_773:
+      Name: prefabs/uicardview_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/cards/wonderland/icons_bundle.unity3d
+        Dependency_5: sprites/unityanimation_bundle.unity3d
+        Dependency_6: fonts_bundle.unity3d
+        Dependency_7: sprites/gold_bundle.unity3d
+        Dependency_8: sprites/cards/fantasy/backgrounds_bundle.unity3d
+        Dependency_9: sprites/hintsprites_bundle.unity3d
+        Dependency_10: sprites/cards/wonderland/backgrounds_bundle.unity3d
+        Dependency_11: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_12: sprites/windows/base_bundle.unity3d
+        Dependency_13: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_14: sprites/buttons/buttonyellow_bundle.unity3d
+        Dependency_15: sprites/cardview_bundle.unity3d
+        Dependency_16: inputprovider_bundle.unity3d
+    Info_774:
+      Name: steamitems/dice/skin12/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_775:
+      Name: cardeffects/cardeffects_wonderland/courtsession/images_bundle.unity3d
+      Dependencies: {}
+    Info_776:
+      Name: cardeffects/cardeffects_wonderland/seaoftears/images_bundle.unity3d
+      Dependencies: {}
+    Info_777:
+      Name: prefabs/playeinfo_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: fonts_bundle.unity3d
+        Dependency_2: sprites/windows/base_bundle.unity3d
+    Info_778:
+      Name: sprites/buttons/buttonhuge_bundle.unity3d
+      Dependencies: {}
+    Info_779:
+      Name: sprites/unityanimation/splashscreen_bundle.unity3d
+      Dependencies: {}
+    Info_780:
+      Name: steamitems/characters/skin14/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_781:
+      Name: steamitems/characters/skin31/character04_bundle.unity3d
+      Dependencies: {}
+    Info_782:
+      Name: steamitems/dice/skin17/dice07_bundle.unity3d
+      Dependencies: {}
+    Info_783:
+      Name: prefabs/buildings/city_fantasy/magicplaces_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_1: materials/buildings/city_fantasy_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap/foranim/magicplaces_bundle.unity3d
+        Dependency_3: sprites/locations/fantasymap/foranim/magicplaces/masks_bundle.unity3d
+        Dependency_4: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+    Info_784:
+      Name: prefabs/uielementsprefabs_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_1: shaders_bundle.unity3d
+        Dependency_2: sprites/hintsprites_bundle.unity3d
+        Dependency_3: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_4: sprites/windows/base_bundle.unity3d
+    Info_785:
+      Name: sprites/throwdiceview/throwagainbutton_bundle.unity3d
+      Dependencies: {}
+    Info_786:
+      Name: steamitems/characters/skin25/character01_bundle.unity3d
+      Dependencies: {}
+    Info_787:
+      Name: steamitems/characters/skin30/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_788:
+      Name: steamitems/dice/skin14/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_789:
+      Name: steamitems/dice/skin23/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_790:
+      Name: steamitems/lootboxes/skin21/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_791:
+      Name: prefabs/gameplay/gameplayplayerpanel_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/playerview_bundle.unity3d
+        Dependency_2: sprites/playerview/playergameplaypanel/additionalelementsholder_bundle.unity3d
+        Dependency_3: sprites/playerview/playergameplaypanel_bundle.unity3d
+    Info_792:
+      Name: sprites/locations/wonderlandmap/special_bundle.unity3d
+      Dependencies: {}
+    Info_793:
+      Name: steamitems/characters/skin01/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_794:
+      Name: steamitems/characters/skin11/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_795:
+      Name: steamitems/characters/skin26/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_796:
+      Name: steamitems/characters/skin31/character06_bundle.unity3d
+      Dependencies: {}
+    Info_797:
+      Name: steamitems/dice/skin09/dice06_bundle.unity3d
+      Dependencies: {}
+    Info_798:
+      Name: steamitems/dice/skin18/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_799:
+      Name: gafanimations/cardinventory_bundle.unity3d
+      Dependencies: {}
+    Info_800:
+      Name: steamitems/characters/skin30/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_801:
+      Name: steamitems/characters/skin33/character03/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_802:
+      Name: steamitems/dice/skin15/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_803:
+      Name: steamitems/dice/skin24/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_804:
+      Name: prefabs/uibackground/ancientgreecebg_bundle.unity3d
+      Dependencies: {}
+    Info_805:
+      Name: steamitems/characters/skin24/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_806:
+      Name: steamitems/characters/skin34/character05_bundle.unity3d
+      Dependencies: {}
+    Info_807:
+      Name: steamitems/dice/skin10/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_808:
+      Name: steamitems/dice/skin20/dice01_bundle.unity3d
+      Dependencies: {}
+    Info_809:
+      Name: prefabs/buildings/city_wonderland/suit5_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/animations/suit5_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_2: sprites/locations/wonderlandmap/buildings/suit5_bundle.unity3d
+        Dependency_3: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_810:
+      Name: sprites/locations/wonderlandmap/buildings/suit5_bundle.unity3d
+      Dependencies: {}
+    Info_811:
+      Name: steamitems/characters/skin11/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_812:
+      Name: steamitems/characters/skin33/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_813:
+      Name: steamitems/dice/skin01/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_814:
+      Name: steamitems/dice/skin16/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_815:
+      Name: steamitems/dice/skin25/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_816:
+      Name: steamitems/dice/skin32/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_817:
+      Name: prefabs/uibalancehistory_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: fonts_bundle.unity3d
+        Dependency_3: sprites/hintsprites_bundle.unity3d
+        Dependency_4: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_5: inputprovider_bundle.unity3d
+    Info_818:
+      Name: steamitems/characters/skin17/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_819:
+      Name: steamitems/characters/skin30/character01/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_820:
+      Name: steamitems/dice/skin21/dice02_bundle.unity3d
+      Dependencies: {}
+    Info_821:
+      Name: steamitems/lootboxes/skin06/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_822:
+      Name: prefabs/mapquicksettings_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/unityanimation_bundle.unity3d
+        Dependency_5: fonts_bundle.unity3d
+        Dependency_6: sprites/hintsprites_bundle.unity3d
+        Dependency_7: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_8: sprites/windows/base_bundle.unity3d
+        Dependency_9: inputprovider_bundle.unity3d
+    Info_823:
+      Name: steamitems/characters/skin06/character05/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_824:
+      Name: steamitems/characters/skin09/character02/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_825:
+      Name: steamitems/characters/skin16/character06/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_826:
+      Name: steamitems/dice/skin02/dice04_bundle.unity3d
+      Dependencies: {}
+    Info_827:
+      Name: steamitems/dice/skin17/dice05_bundle.unity3d
+      Dependencies: {}
+    Info_828:
+      Name: steamitems/dice/skin26/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_829:
+      Name: cardeffects/cardeffects_wonderland/ninthlife/images_bundle.unity3d
+      Dependencies: {}
+    Info_830:
+      Name: configs/gameplay/carddecks_bundle.unity3d
+      Dependencies: {}
+    Info_831:
+      Name: sprites/throwdiceview/evenbutton_bundle.unity3d
+      Dependencies: {}
+    Info_832:
+      Name: steamitems/characters/skin24/character06_bundle.unity3d
+      Dependencies: {}
+    Info_833:
+      Name: steamitems/dice/skin22/dice03_bundle.unity3d
+      Dependencies: {}
+    Info_834:
+      Name: sprites/buttons/buttonshadowred_bundle.unity3d
+      Dependencies: {}
+    Info_835:
+      Name: steamitems/characters/skin26/character04/avatars_bundle.unity3d
+      Dependencies: {}
+    Info_836:
+      Name: steamitems/emojis/skin01/emoji08/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji08_bundle.unity3d
+    Info_837:
+      Name: cardeffects/cardeffects_wonderland/mirrorreflection_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/mirrorreflection/spinedata_bundle.unity3d
+    Info_838:
+      Name: steamitems/emojis/skin01/emoji02/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji02_bundle.unity3d
+    Info_839:
+      Name: prefabs/helpinputhintsprefabs/helphints/text_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+    Info_840:
+      Name: steamitems/lootboxes/skin22/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_841:
+      Name: sprites/buttons/pinkbutton_bundle.unity3d
+      Dependencies: {}
+    Info_842:
+      Name: steamitems/emojis/skin01/emoji09/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji09_bundle.unity3d
+    Info_843:
+      Name: cardeffects/cardeffects_wonderland/pardonapply/spinedata_bundle.unity3d
+      Dependencies: {}
+    Info_844:
+      Name: prefabs/buildings/city_wonderland_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/wonderlandmap/animations/flags_bundle.unity3d
+        Dependency_1: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+    Info_845:
+      Name: steamitems/emojis/skin01/emoji11/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji11_bundle.unity3d
+    Info_846:
+      Name: steamitems/emojis/skin01/emoji06/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji06_bundle.unity3d
+    Info_847:
+      Name: steamitems/mappreset/skin00/mappreset00_bundle.unity3d
+      Dependencies: {}
+    Info_848:
+      Name: steamitems/lootboxes/skin07/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_849:
+      Name: prefabs/uimodaldialog_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: sprites/unityanimation_bundle.unity3d
+        Dependency_4: fonts_bundle.unity3d
+        Dependency_5: sprites/tutorial_bundle.unity3d
+        Dependency_6: sprites/hintsprites_bundle.unity3d
+        Dependency_7: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_8: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_9: inputprovider_bundle.unity3d
+    Info_850:
+      Name: sprites/cardview_bundle.unity3d
+      Dependencies: {}
+    Info_851:
+      Name: sprites/locations/fantasymap/foranim/pirates/masks_bundle.unity3d
+      Dependencies: {}
+    Info_852:
+      Name: steamitems/characters/skin17/character01_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/characters/skin17/character01/animations_bundle.unity3d
+    Info_853:
+      Name: cardeffects/cardeffects_wonderland/happybirthdayathatters_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/happybirthdayathatters/spinedata_bundle.unity3d
+    Info_854:
+      Name: arrow_bundle.unity3d
+      Dependencies:
+        Dependency_0: gafanimations/currentplayerarrow_bundle.unity3d
+    Info_855:
+      Name: prefabs/globalnavmaps_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: sprites/hintsprites_bundle.unity3d
+        Dependency_3: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_4: inputprovider_bundle.unity3d
+    Info_856:
+      Name: steamitems/dice_bundle.unity3d
+      Dependencies: {}
+    Info_857:
+      Name: sprites/buttons_bundle.unity3d
+      Dependencies: {}
+    Info_858:
+      Name: steamitems/lootboxes/skin23/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_859:
+      Name: prefabs/gameplay/uigamepause_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/playerview_bundle.unity3d
+        Dependency_3: configs_bundle.unity3d
+        Dependency_4: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_5: shaders_bundle.unity3d
+        Dependency_6: sprites/buttons/buttonred_bundle.unity3d
+        Dependency_7: sprites/unityanimation_bundle.unity3d
+        Dependency_8: sprites/gold_bundle.unity3d
+        Dependency_9: sprites/playerview/playergameplaypanel/additionalelementsholder_bundle.unity3d
+        Dependency_10: sprites/hintsprites_bundle.unity3d
+        Dependency_11: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_12: sprites/buttons/buttonwin_bundle.unity3d
+        Dependency_13: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_14: sprites/playerview/playergameplaypanel_bundle.unity3d
+        Dependency_15: sprites/buttons_bundle.unity3d
+        Dependency_16: sprites/gamepause_bundle.unity3d
+        Dependency_17: sprites/localized_bundle.unity3d
+        Dependency_18: inputprovider_bundle.unity3d
+    Info_860:
+      Name: steamitems/lootboxes/skin08/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_861:
+      Name: cardeffects/cardeffects_wonderland/pardonapply_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/pardonapply/spinedata_bundle.unity3d
+    Info_862:
+      Name: sprites/gamepause_bundle.unity3d
+      Dependencies: {}
+    Info_863:
+      Name: steamitems/background/skin01/background01_bundle.unity3d
+      Dependencies: {}
+    Info_864:
+      Name: prefabs/ingameui_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/tutorial_bundle.unity3d
+    Info_865:
+      Name: sprites/fieldsprites_bundle.unity3d
+      Dependencies: {}
+    Info_866:
+      Name: steamitems/lootboxes/skin24/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_867:
+      Name: configs/buildingsskins_bundle.unity3d
+      Dependencies: {}
+    Info_868:
+      Name: sprites/uibackgroundsprite_bundle.unity3d
+      Dependencies: {}
+    Info_869:
+      Name: steamitems/lootboxes/skin09/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_870:
+      Name: prefabs/uiofferwindow_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: sprites/unityanimation_bundle.unity3d
+        Dependency_4: fonts_bundle.unity3d
+        Dependency_5: sprites/hintsprites_bundle.unity3d
+        Dependency_6: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_7: sprites/windows/base_bundle.unity3d
+        Dependency_8: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_9: prefabs/uiofferwindow/animations_bundle.unity3d
+        Dependency_10: steamitems/characters/skin10/character03/avatars_bundle.unity3d
+        Dependency_11: inputprovider_bundle.unity3d
+    Info_871:
+      Name: prefabs/uielements_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: shaders_bundle.unity3d
+    Info_872:
+      Name: steamitems/background/skin01/background02_bundle.unity3d
+      Dependencies: {}
+    Info_873:
+      Name: steamitems/emojis/skin01/emoji04/previewanimation_bundle.unity3d
+      Dependencies:
+        Dependency_0: steamitems/emojis/skin01/emoji04_bundle.unity3d
+    Info_874:
+      Name: steamitems/map/skin01/map02_bundle.unity3d
+      Dependencies: {}
+    Info_875:
+      Name: steamitems/lootboxes/skin05/lootbox02_bundle.unity3d
+      Dependencies: {}
+    Info_876:
+      Name: prefabs/ingameui/windows_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/headers_bundle.unity3d
+        Dependency_3: sprites/unityanimation_bundle.unity3d
+        Dependency_4: sprites/windows/base_bundle.unity3d
+    Info_877:
+      Name: sprites/windows/windowtax_bundle.unity3d
+      Dependencies: {}
+    Info_878:
+      Name: steamitems/lootboxes/skin25/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_879:
+      Name: steamitems/map/skin00/lastplayedmap_bundle.unity3d
+      Dependencies: {}
+    Info_880:
+      Name: steamitems/lootboxes/skin01/lootbox03_bundle.unity3d
+      Dependencies: {}
+    Info_881:
+      Name: steamitems/lootboxes/skin10/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_882:
+      Name: cardeffects/cardeffects_wonderland/courtsession_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/courtsession/spinedata_bundle.unity3d
+    Info_883:
+      Name: prefabs/uireport_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_3: shaders_bundle.unity3d
+        Dependency_4: sprites/unityanimation_bundle.unity3d
+        Dependency_5: sprites/hintsprites_bundle.unity3d
+        Dependency_6: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_7: sprites/windows/base_bundle.unity3d
+        Dependency_8: sprites/buttons/buttonblue_bundle.unity3d
+        Dependency_9: inputprovider_bundle.unity3d
+    Info_884:
+      Name: steamitems/background/skin01/background03_bundle.unity3d
+      Dependencies: {}
+    Info_885:
+      Name: steamitems/map/skin01/map03_bundle.unity3d
+      Dependencies: {}
+    Info_886:
+      Name: cardeffects/cardeffects_wonderland/sabotage_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/sabotage/spinedata_bundle.unity3d
+    Info_887:
+      Name: prefabs/uiplayerinventory_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_2: shaders_bundle.unity3d
+        Dependency_3: sprites/hintsprites_bundle.unity3d
+        Dependency_4: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_5: inputprovider_bundle.unity3d
+    Info_888:
+      Name: sprites/localized_bundle.unity3d
+      Dependencies: {}
+    Info_889:
+      Name: prefabs/ingameui/windows/buyresort_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/windows_bundle.unity3d
+    Info_890:
+      Name: steamitems/lootboxes/skin26/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_891:
+      Name: steamitems/map/skin00/map00_bundle.unity3d
+      Dependencies: {}
+    Info_892:
+      Name: steamitems/lootboxes/skin02/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_893:
+      Name: cardeffects/cardeffects_wonderland/mirrorreflection/images_bundle.unity3d
+      Dependencies: {}
+    Info_894:
+      Name: steamitems/lootboxes/skin11/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_895:
+      Name: steamitems/background/skin01/background04_bundle.unity3d
+      Dependencies: {}
+    Info_896:
+      Name: cardeffects/cardeffects_wonderland/meettherabbit_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/meettherabbit/spinedata_bundle.unity3d
+    Info_897:
+      Name: materials/buildings_bundle.unity3d
+      Dependencies:
+        Dependency_0: shaders_bundle.unity3d
+    Info_898:
+      Name: steamitems/lootboxes/skin27/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_899:
+      Name: prefabs/windowbuycity/buildingsimages_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_1: materials/ui_bundle.unity3d
+    Info_900:
+      Name: steamitems/lootboxes/skin03/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_901:
+      Name: steamitems/lootboxes/skin12/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_902:
+      Name: sprites/nswitch_bundle.unity3d
+      Dependencies: {}
+    Info_903:
+      Name: cardeffects/cardeffects_wonderland/ninthlife_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/ninthlife/spinedata_bundle.unity3d
+    Info_904:
+      Name: steamitems/lootboxes/skin28/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_905:
+      Name: cellview/cellstart_fantasy_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_2: cellview/cellstart_fantasy/animation_bundle.unity3d
+        Dependency_3: fonts_bundle.unity3d
+        Dependency_4: cellview/animation/startanimation_bundle.unity3d
+    Info_906:
+      Name: steamitems/lootboxes/skin04/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_907:
+      Name: steamitems/lootboxes/skin13/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_908:
+      Name: cardeffects/cardeffects_wonderland/pardon_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/pardon/spinedata_bundle.unity3d
+    Info_909:
+      Name: sprites/locations/wonderlandmap/buildings/flags_bundle.unity3d
+      Dependencies: {}
+    Info_910:
+      Name: sprites/uibackgroundimage_bundle.unity3d
+      Dependencies: {}
+    Info_911:
+      Name: prefabs/rules_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+    Info_912:
+      Name: steamitems/lootboxes/skin29/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_913:
+      Name: prefabs/uiwindowinfoaliceroom_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: sprites/locations/fantasymap_bundle.unity3d
+        Dependency_3: sprites/playerview_bundle.unity3d
+        Dependency_4: sprites/windows/windowbuy_bundle.unity3d
+        Dependency_5: sprites/hintsprites/nintendo_bundle.unity3d
+        Dependency_6: sprites/windows/windowbuyresort_bundle.unity3d
+        Dependency_7: sprites/unityanimation_bundle.unity3d
+        Dependency_8: fonts_bundle.unity3d
+        Dependency_9: sprites/windows/headers_bundle.unity3d
+        Dependency_10: materials/ui_bundle.unity3d
+        Dependency_11: sprites/hintsprites_bundle.unity3d
+        Dependency_12: sprites/hintsprites/playstation_bundle.unity3d
+        Dependency_13: sprites/windows/base_bundle.unity3d
+        Dependency_14: sprites/windows/windowbuyhotel_bundle.unity3d
+        Dependency_15: inputprovider_bundle.unity3d
+    Info_914:
+      Name: prefabs/helpinputhintsprefabs_bundle.unity3d
+      Dependencies:
+        Dependency_0: fontsandmaterials_bundle.unity3d
+        Dependency_1: sprites_bundle.unity3d
+        Dependency_2: fonts_bundle.unity3d
+    Info_915:
+      Name: steamitems/lootboxes/skin05/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_916:
+      Name: cardeffects/cardeffects_wonderland/alicesfortune_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/alicesfortune/spinedata_bundle.unity3d
+    Info_917:
+      Name: steamitems/lootboxes/skin14/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_918:
+      Name: cardeffects/cardeffects_wonderland/queenswhim_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/queenswhim/spinedata_bundle.unity3d
+    Info_919:
+      Name: steamitems/lootboxes/skin01/lootbox02_bundle.unity3d
+      Dependencies: {}
+    Info_920:
+      Name: cardeffects/cardeffects_wonderland/royalrevenge/images_bundle.unity3d
+      Dependencies: {}
+    Info_921:
+      Name: sprites/locations/wonderlandmap_bundle.unity3d
+      Dependencies: {}
+    Info_922:
+      Name: steamitems/lootboxes/skin30/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_923:
+      Name: cardeffects/cardeffects_wonderland/reporttoqueen_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/reporttoqueen/spinedata_bundle.unity3d
+    Info_924:
+      Name: prefabs/uibackground/wonderlandbg_bundle.unity3d
+      Dependencies:
+        Dependency_0: prefabs/uibackground/wonderlandbg/extra_bundle.unity3d
+    Info_925:
+      Name: steamitems/lootboxes/skin15/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_926:
+      Name: cardeffects/cardeffects_wonderland/courtsverdict_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/courtsverdict/spinedata_bundle.unity3d
+    Info_927:
+      Name: steamitems/lootboxes/skin31/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_928:
+      Name: sprites/locations/fantasymap/foranim/commonmasks_bundle.unity3d
+      Dependencies: {}
+    Info_929:
+      Name: steamitems/lootboxes/skin16/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_930:
+      Name: prefabs/uigameinventory_bundle.unity3d
+      Dependencies:
+        Dependency_0: sprites/locations/fantasymap_bundle.unity3d
+    Info_931:
+      Name: cardeffects/cardeffects_wonderland/luxurytax_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/luxurytax/spinedata_bundle.unity3d
+    Info_932:
+      Name: inputprovider_bundle.unity3d
+      Dependencies: {}
+    Info_933:
+      Name: cardeffects/cardeffects_wonderland/gameofcroquet_bundle.unity3d
+      Dependencies:
+        Dependency_0: cardeffects/cardeffects_wonderland/gameofcroquet/spinedata_bundle.unity3d
+    Info_934:
+      Name: steamitems/lootboxes/skin32/lootbox01_bundle.unity3d
+      Dependencies: {}
+    Info_935:
+      Name: steamitems/lootboxes/skin17/lootbox01_bundle.unity3d
+      Dependencies: {}

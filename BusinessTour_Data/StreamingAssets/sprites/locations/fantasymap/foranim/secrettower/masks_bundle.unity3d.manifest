@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3746582594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e7c2ac685a04ea9e45c0eb9907cd646
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house1_secret_tower_anim1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house3_secret_tower_anim3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house3_secret_tower_anim4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house3_secret_tower_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house2_secret_tower_anim4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_hotel_secret_tower_anim1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house2_secret_tower_anim1_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house1_secret_tower_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house2_secret_tower_anim3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_hotel_secret_tower_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house2_secret_tower_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/SecretTower/Masks/VII_house3_secret_tower_anim1_mask.png
+Dependencies: []

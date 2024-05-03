@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4204372423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5219f28c7db835c12ed742e42c4f5950
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31dc32ee15946f12312086431da1d834
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/SpineData/skeleton_SkeletonData.asset
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/SpineData/\u0414\u0435\u0432\u044F\u0442\u0430\u044F
+  \u0436\u0438\u0437\u043D\u044C.psd"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/SpineData/\u0414\u0435\u0432\u044F\u0442\u0430\u044F
+  \u0436\u0438\u0437\u043D\u044C_Atlas.asset"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/SpineData/\u0414\u0435\u0432\u044F\u0442\u0430\u044F
+  \u0436\u0438\u0437\u043D\u044C_SkeletonData.asset"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/SpineData/\u0414\u0435\u0432\u044F\u0442\u0430\u044F
+  \u0436\u0438\u0437\u043D\u044C.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/NinthLife/SpineData/\u0414\u0435\u0432\u044F\u0442\u0430\u044F
+  \u0436\u0438\u0437\u043D\u044C_Material.mat"
+Dependencies: []

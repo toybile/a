@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2209242455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0291df23bc64fc2640cee9d5ecdf2fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Windows/WindowBuy/02_Building_00.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/03_Building_00.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/00_Building_01.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/02_Building_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/buyButton_00001_water.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/05_Building_00.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/02_Building_03.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/00_Building_03.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/buyButton_00002.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/05_Building_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/04_Building_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/04_Building_00.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/buyButton_00003.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/01_Building_00.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/buyButton_00002_water.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/CheckMark.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/Icon_Sold.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/01_Building_03.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/04_Building_03.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/cell_water.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/buyButton_00003_water.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/03_Building_03.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/06_Building_03.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/06_Building_00.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/06_Building_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/05_Building_03.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/05_Building_01.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/cell_stones_grey.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/buyButtonCheck_01.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/00_Building_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/01_Building_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/03_Building_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/buyButton_00001.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/03_Building_01.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/buyButtonCheck_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/06_Building_01.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/02_Building_01.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/01_Building_01.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/00_Building_00.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/cell_water_grey.png
+- Assets/Bundled/Sprites/Windows/WindowBuy/04_Building_01.png
+Dependencies: []

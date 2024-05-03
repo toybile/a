@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1302919728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6c6dfe1b6d429b9d3c897ecf20cf3e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1397ad235555a4f37791d5b3ff19e7a7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Materials/Buildings/Buildings_Underlay.mat
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2177834852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 782d23becedbf9ee7104d006aa7e9837
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_rarity_probability_window_common_big.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_heading.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_stand_small.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_close_button_background.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_rarity_probability_window_rare_big.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_header_blue.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_stand_big.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_rarity_probability_window_uncommon_big.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_price_back.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_rarity_probability_window_legendary_big.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_tape_uncommon.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_rarity_probability_window_epic_big.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_tape_common.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_tape_legendary.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_back02_small.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_tooltip.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_rarity_probability_window_neutral.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_back02_big.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_header_green.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_tape_epic.png
+- Assets/Bundled/Sprites/UIItemPreview/preview_items_tape_rare.png
+Dependencies: []

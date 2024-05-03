@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 388782513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2515d35c514adab23638ac046fe73605
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/chips/bag_chips.png
+- Assets/Bundled/Sprites/chips/chips.png
+- Assets/Bundled/Sprites/chips/chips_wo_shadow.png
+- Assets/Bundled/Sprites/chips/icon_chips_00.png
+- Assets/Bundled/Sprites/chips/purse_chips.png
+- Assets/Bundled/Sprites/chips/stack_chips.png
+- Assets/Bundled/Sprites/chips/suitcase_chips.png
+- Assets/Bundled/Sprites/chips/casino.png
+- Assets/Bundled/Sprites/chips/tray_chips.png
+- Assets/Bundled/Sprites/chips/jackpot.png
+- Assets/Bundled/Sprites/chips/handful_chips.png
+Dependencies: []

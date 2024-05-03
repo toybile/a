@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3777655441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86bd9235e39395a16a2a26d9ce5e72f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/prefabs/UIOfferWindow/Animations/circle_animation.anim
+Dependencies: []

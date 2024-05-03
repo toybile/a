@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 704660425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c7e1e2154e56f957c10c2b1677bea5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/WinWindow/win_triple.png
+- Assets/Bundled/Sprites/WinWindow/win_resort.png
+- Assets/Bundled/Sprites/WinWindow/win_last.png
+- Assets/Bundled/Sprites/WinWindow/Points.png
+- Assets/Bundled/Sprites/WinWindow/win_line.png
+Dependencies: []

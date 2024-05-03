@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3989982148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c36cb3106669b9a890d5b49c9a8ddd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/fog_material.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/skull_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/bullet_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/bone_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/leaves_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/bat_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/diamond1_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/cyber_cube_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/bulb_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/ice_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/diamond_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/ColorizedFeather.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/pumpkin_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/blank_bubble_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/hearts_01.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/circle_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/spades_01.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/mirana_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/star_material.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/snowflake_1_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/gradient_bubble_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/feather_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/ro_stars.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/constalation_trail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/confetti_2_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/note2.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/boom_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/confetti_1_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/snowflake_2_tail.mat
+- Assets/Bundled/SteamItems/Dice/Effects/Materials/note1.mat
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/dice/effects/shapes_bundle.unity3d

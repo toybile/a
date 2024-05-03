@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1732054059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 351e17711ee4a22259fb2d94b93d38bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Buttons/ButtonBlueHuge2/button03_over.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlueHuge2/button03_dis.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlueHuge2/button03_normal.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlueHuge2/button01_dis.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlueHuge2/button01_normal.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlueHuge2/button03_clicked.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlueHuge2/button01_clicked.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlueHuge2/button01_over.png
+Dependencies: []

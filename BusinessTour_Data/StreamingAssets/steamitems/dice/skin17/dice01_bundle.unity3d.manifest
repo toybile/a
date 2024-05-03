@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 468158653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0b7dae704ca123cd2776d8aca5eec96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Dice/Skin17/Dice01/Preview.png
+- Assets/Bundled/SteamItems/Dice/Skin17/Dice01/Values.png
+- Assets/Bundled/SteamItems/Dice/Skin17/Dice01/AnimationSpritesheet.png
+- Assets/Bundled/SteamItems/Dice/Skin17/Dice01/Values.spriteatlas
+- Assets/Bundled/SteamItems/Dice/Skin17/Dice01/AnimationSpritesheet.spriteatlas
+Dependencies: []

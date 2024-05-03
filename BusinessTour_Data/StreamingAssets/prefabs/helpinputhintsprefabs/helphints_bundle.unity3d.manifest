@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3481944543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fd38e796727dada5b958cd66b98d9f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f28f69336e3527f59c6e41f56d1b0518
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8845b7fa5eea31043be33443c0c13e3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b66bf4ab5b9ff9c4289f7353cac37cdb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: InputHelpHint/HelpHintObject
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/TwoHintPanelAcceptHome Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/CommonHelpHint.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/TwoHintPanelAcceptBack Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/TwoHintPanel.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/HelpInputHintBack Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/HelpInputHintAcceptOnRT
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/HelpInputHintHome Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/HelpInputHintAccept Variant.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/nintendo_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/playstation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites_bundle.unity3d

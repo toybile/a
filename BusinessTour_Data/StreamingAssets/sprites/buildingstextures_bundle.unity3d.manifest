@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2520810115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 613d0dea4452b2bf7c99a3dbdc7f2403
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/BuildingsTextures/CityTexture_0.png
+- Assets/Bundled/Sprites/BuildingsTextures/ResortTexture_4.png
+- Assets/Bundled/Sprites/BuildingsTextures/ResortTexture_1.png
+- Assets/Bundled/Sprites/BuildingsTextures/ResortTexture_5.png
+- Assets/Bundled/Sprites/BuildingsTextures/Shade.png
+- Assets/Bundled/Sprites/BuildingsTextures/CityTexture_5.png
+- Assets/Bundled/Sprites/BuildingsTextures/CityTexture_2.png
+- Assets/Bundled/Sprites/BuildingsTextures/CityTexture_4.png
+- Assets/Bundled/Sprites/BuildingsTextures/ResortTexture_0.png
+- Assets/Bundled/Sprites/BuildingsTextures/ResortTexture_2.png
+- Assets/Bundled/Sprites/BuildingsTextures/ResortTexture_3.png
+- Assets/Bundled/Sprites/BuildingsTextures/CityTexture_3.png
+- Assets/Bundled/Sprites/BuildingsTextures/CityTexture_1.png
+Dependencies: []

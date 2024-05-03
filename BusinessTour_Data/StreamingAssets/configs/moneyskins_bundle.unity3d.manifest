@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3938106558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7998358a4329e32dbf1f400559f9e993
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b48aac2b5af8e04292d28554441cc58b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 94cbfc1bedfb80c4abee37e68d7bc3d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80913374c0068cf4d9d3f3e3b6b9ce52, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PlatformIdsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SerializedMoneySkinsDefinition
+Assets:
+- Assets/Bundled/Configs/MoneySkins/MoneySkinsSet.asset
+- Assets/Bundled/Configs/MoneySkins/MoneySkinsCollection.asset
+Dependencies: []

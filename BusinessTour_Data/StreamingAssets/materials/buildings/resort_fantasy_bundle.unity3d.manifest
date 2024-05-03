@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2598768196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b2ae1bd6fbc713b2b9cf329d75e8a19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/ResortMaterial_5_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/ResortMaterial_4_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/ResortMaterial_3_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/DarkResortMaterial_4_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/DarkResortMaterial_5_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/ResortMaterial_1_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/DarkResortMaterial_2_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/DarkResortMaterial_0_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/DarkResortMaterial_3_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/ResortMaterial_2_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/DarkResortMaterial_1_Fantasy.mat
+- Assets/Bundled/Materials/Buildings/Resort_Fantasy/ResortMaterial_0_Fantasy.mat
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/buildingstextures_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/obelisks/masks_bundle.unity3d

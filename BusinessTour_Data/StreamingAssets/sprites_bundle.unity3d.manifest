@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 778163164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 178a614e464332c73a9308139c6f03e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36821b705c6d5f64b279ca4075a966e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Bundled/Sprites/MoneyImgUI.png
+- Assets/Bundled/Sprites/PriceViewRTicket.png
+- Assets/Bundled/Sprites/SellSelectionIndicatorGreen.png
+- Assets/Bundled/Sprites/frame_club_02.png
+- Assets/Bundled/Sprites/frame_club.png
+- Assets/Bundled/Sprites/SellSelection.prefab
+- Assets/Bundled/Sprites/Ticket.png
+- Assets/Bundled/Sprites/panel_header_04.png
+- Assets/Bundled/Sprites/SellSelectionCombo.png
+- Assets/Bundled/Sprites/IngameGoldBackground.png
+- Assets/Bundled/Sprites/Ticket00.png
+- Assets/Bundled/Sprites/icon_movie_ticket.png
+- Assets/Bundled/Sprites/button_Invite_01.png
+- Assets/Bundled/Sprites/stardustSmall.png
+- Assets/Bundled/Sprites/SellPriceIndicator.png
+- Assets/Bundled/Sprites/Galochka.png
+- Assets/Bundled/Sprites/BgOverlay.png
+- Assets/Bundled/Sprites/SellPriceIndicator_02.png
+- Assets/Bundled/Sprites/PriceViewR.prefab
+- Assets/Bundled/Sprites/icon_offer_02_disabled.png
+- Assets/Bundled/Sprites/PriceViewR.png
+- Assets/Bundled/Sprites/button_Invite_02.png
+- Assets/Bundled/Sprites/stardustCurrency.png
+- Assets/Bundled/Sprites/panel_header_03.png
+- Assets/Bundled/Sprites/Icon_cup.png
+- Assets/Bundled/Sprites/cinema_club.png
+- Assets/Bundled/Sprites/StardustShopItem.png
+- Assets/Bundled/Sprites/RandomPrize.png
+- Assets/Bundled/Sprites/panel_header_05.png
+- Assets/Bundled/Sprites/SellPriceIndicator_03.png
+- Assets/Bundled/Sprites/PriceView.png
+- Assets/Bundled/Sprites/SellSelectionIndicatorWhite.png
+- Assets/Bundled/Sprites/PlayerHint.png
+- Assets/Bundled/Sprites/Press_to_start.png
+- Assets/Bundled/Sprites/BasketPriceBackground.png
+- Assets/Bundled/Sprites/PanelWinTime.png
+- Assets/Bundled/Sprites/icon_offer_02.png
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d

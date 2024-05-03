@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1038592600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b22d36809d2d4bf8de20341763c0d20f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e43a2b888a62441beb5374c54aca97f8
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c1e222d85c2bc24ead00a23051d1a5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Configs/Buildings/TestCustom/CustomResort.asset
+- Assets/Bundled/Configs/Buildings/TestCustom/CustomCity.asset
+Dependencies: []

@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1963212053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8dd03043701a41a51ac9d608aff60586
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e36280731a77a8d034a769e1e38bc89
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0dd5c17c10786274ca58cf5dd9eb187f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ccd2f2e3de26f44f9fe5cb6c766391e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2719a764b078f964fb767c589b795162, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 331
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/PreviewAnimation/Target.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji10/PreviewAnimation/Thrower.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/emojis/skin01/emoji10_bundle.unity3d

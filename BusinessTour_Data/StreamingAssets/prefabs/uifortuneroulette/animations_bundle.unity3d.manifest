@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 610602482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41e4eb54eee40cd7c9e56cf60e1002e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee4816aaa7b3f9f8b3d2e46dad1273ba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/FortuneRouletteSpinParticle.anim
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/FortuneRouletteButtonHidden.anim
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/FortuneRouletteButtonShow.anim
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/FortuneRouletteButtonIdle.anim
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/FortuneRouletteItemActivated.anim
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/SmokeAnimation.anim
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/FortuneRouletteItemController.controller
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/SmokeController.controller
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/fotrune_roulette_button.controller
+- Assets/Bundled/prefabs/UIFortuneRoulette/Animations/FortuneRouletteItemDefault.anim
+Dependencies: []

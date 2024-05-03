@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3037997396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1477baee95c94829c5c4d938a1d16ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Background/Skin01/Background09/BG_spring_icon_06.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background09/BG_spring_icon_03.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background09/Preview.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background09/BG_spring_icon_07.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background09/BG_spring_icon_05.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background09/Background.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background09/BG_spring_icon_02.png
+- Assets/Bundled/SteamItems/Background/Skin01/Background09/BG_spring_icon_01.png
+Dependencies: []

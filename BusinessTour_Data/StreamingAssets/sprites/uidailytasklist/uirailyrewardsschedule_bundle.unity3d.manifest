@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1164125357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88f1a38bbc2d2d8fbcdd31c7e1fbedb1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/UIDailyTaskList/UIRailyRewardsSchedule/background.png
+- Assets/Bundled/Sprites/UIDailyTaskList/UIRailyRewardsSchedule/back_01.png
+- Assets/Bundled/Sprites/UIDailyTaskList/UIRailyRewardsSchedule/back_04.png
+- Assets/Bundled/Sprites/UIDailyTaskList/UIRailyRewardsSchedule/back_purple.png
+- Assets/Bundled/Sprites/UIDailyTaskList/UIRailyRewardsSchedule/prize_circle.png
+- Assets/Bundled/Sprites/UIDailyTaskList/UIRailyRewardsSchedule/back_02.png
+- Assets/Bundled/Sprites/UIDailyTaskList/UIRailyRewardsSchedule/back_03.png
+Dependencies: []

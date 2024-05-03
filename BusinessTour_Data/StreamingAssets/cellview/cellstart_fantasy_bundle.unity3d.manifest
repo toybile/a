@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 283944353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dccc0c684260f91f2c7182f0d3422ed3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f10892113ff137f3bb7c752a9f722b24
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9e89a5c118d4a24987e3442d9e39f34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8eeadc6edc195824883f0050b0dfc52c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4f9b13fa14fb4d44b56fbad11b23846, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21718bdce1b3c0a49846edd74546b660, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 129ae6506c0eeb243bdf23079340ef39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa59cf453e8140946b2989c352263886, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c33196c4b955e048b94eca581340764, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce02265e2c12b534b8297f19bcd544be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2287d9fd6ce9269459bdeffe6f47e9d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b82b5adc61da12d4f99c44f9cab471da, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.EffectSettingsPair
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TMProFontInfo
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/CellView/CellStart_Fantasy/CellStart_Fantasy.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/cellview/animation/startanimation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/cellview/cellstart_fantasy/animation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap_bundle.unity3d

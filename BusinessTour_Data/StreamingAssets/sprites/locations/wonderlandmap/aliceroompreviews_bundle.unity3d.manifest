@@ -1,0 +1,102 @@
+ManifestFileVersion: 0
+CRC: 2483584941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed675874bda7771d2596189e7a7e95ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_01_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_02_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_02_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_02_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_02_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_02_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_01_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_03_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_03_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_02_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_03_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_01_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_03_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_02_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_02_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_02_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_01_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_03_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_03_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_02_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_03_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_03_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_03_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_03_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_02_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_03_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_01_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_01_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_01_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_03_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_02_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_02_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_01_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_02_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_02_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_03_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_02_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_01_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_03_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_01_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_01_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_02_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_02_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_01_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_01_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_01_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_03_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_03_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_01_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_03_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_02_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_03_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_01_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_02_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_03_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_01_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_02_Color4.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_01_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_03_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_03_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_01_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_01_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_02_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_02_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_02_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_01_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_02_Color5.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_02_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_01_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_01_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_01_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_03_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_02_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_03_Color2.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_02_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_03_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_kitchen_03_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_03_Color1.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_01_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_01_Color0.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bedroom_03_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_01_disabled.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_bathroom_01_Color3.png
+- Assets/Bundled/Sprites/Locations/WonderlandMap/AliceRoomPreviews/alice_livingroom_03_Color5.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3800310732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1ea32b48e4635a0043fd6ffeb55261e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Materials/Buildings/City_Wonderland/CityMaterial_3_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/CityMaterial_0_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/DarkCityMaterial_0_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/CityMaterial_1_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/DarkCityMaterial_3_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/CityMaterial_4_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/DarkCityMaterial_1_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/CityMaterial_5_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/CityMaterial_2_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/DarkCityMaterial_4_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/DarkCityMaterial_2_Wonderland.mat
+- Assets/Bundled/Materials/Buildings/City_Wonderland/DarkCityMaterial_5_Wonderland.mat
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/buildingstextures_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/masks_bundle.unity3d

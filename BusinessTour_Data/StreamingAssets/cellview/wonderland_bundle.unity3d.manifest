@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 4050823453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec826b72253ea7a7d8f227dcbfe5d7a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3dde787128cfbc5aefb69e7049bf7fe1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: edd94af1c95233a45a23fa4ac2afceca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9e89a5c118d4a24987e3442d9e39f34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2fc42ba4a74f2c4f91cbd80163670e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8eeadc6edc195824883f0050b0dfc52c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4f9b13fa14fb4d44b56fbad11b23846, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21718bdce1b3c0a49846edd74546b660, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35ee4e1a8d120f445820e3af68048d11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07994bfe8b0e4adb97d706de5dea48d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1b8e8de05921f1428b5b91ff2acfa6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b67c4780ab44e1f49b5d2e7a3050d27c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 129ae6506c0eeb243bdf23079340ef39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa59cf453e8140946b2989c352263886, type: 3}
+- Class: 114
+  Script: {fileID: -765628799, guid: 86057e0c3e6f68343894579d83be909f, type: 3}
+- Class: 114
+  Script: {fileID: -736414528, guid: 86057e0c3e6f68343894579d83be909f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b503eb86db13f54cb46640b6e6c8f0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381d5887aacd13d4c97db55e2ea72f8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c33196c4b955e048b94eca581340764, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cce2df00bb2caf48858c5abd8c89e59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce02265e2c12b534b8297f19bcd544be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1e7a18d8a495004b8341f79f186abe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2287d9fd6ce9269459bdeffe6f47e9d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b82b5adc61da12d4f99c44f9cab471da, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.EffectSettingsPair
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TMProFontInfo
+- AssemblyName: GAF
+  ClassName: GAFInternal.Core.GAFAnimationPlayerSettings
+- AssemblyName: GAF
+  ClassName: GAFInternal.Data.GAFAssetExternalData
+- AssemblyName: GAF
+  ClassName: GAFInternal.Objects.GAFObjectData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/CellView/Wonderland/CellService_Wonderland.prefab
+- Assets/Bundled/CellView/Wonderland/CellStart_Wonderland.prefab
+- Assets/Bundled/CellView/Wonderland/CellTravel_Wonderland.prefab
+- Assets/Bundled/CellView/Wonderland/CellBaseWonderland.prefab
+- Assets/Bundled/CellView/Wonderland/CellCourtSession.prefab
+- Assets/Bundled/CellView/Wonderland/CellTeaParty.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/cellview/animation/startanimation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/wonderlandmap/cellsbase_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/wonderlandmap/special_bundle.unity3d

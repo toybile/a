@@ -1,0 +1,203 @@
+ManifestFileVersion: 0
+CRC: 259304714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3012290278f625ce20b3d41d130d7548
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f98a6c862afa41a53ca12f83b547aa7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a98125502f715b4b83cfb77b434e436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8dc44ea125da8f847899b79f3be3621e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8ee60af491978345bc197ed4e1316bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b826640817cb2241b5064a056f90ef4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f48708d118609374abf72a3fac38bbd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8d1dbb04b1990a4eb640876565d3f94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12153f815651ff24ea16befd7d0aa051, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b58cf81a900d4afe8b67215639eacb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5557f605d25d0e6409d26ca2f9d6d3b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56cc839b2e76f3645ac40c29297c0ff5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2142ef415044a7145afe2adbe271a38d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b711a85b6a2f03a4aba62ee64838f00c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 459d6932cc7cf3b47a20c25fd06df925, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70d6f79789089549b7e743ff6ac8a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20e0c86c2a3e52846a3691296ff4e8bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8845b7fa5eea31043be33443c0c13e3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b66bf4ab5b9ff9c4289f7353cac37cdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2114cc6b8ebd4c4f8ff20e14917b52b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bba3be8b4f7280d45b87febb8bd79b94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aeec131aeb68db7408af76189039fe62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf11fff4e0f81ef4c9d7ebf854723138, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.FontInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: ConsolesPlatformIconsHolder/PlatformIconsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: FindByHierarchyIndices
+- AssemblyName: Assembly-CSharp
+  ClassName: GetHomeAction
+- AssemblyName: Assembly-CSharp
+  ClassName: GetPlayerProfileWindowAction
+- AssemblyName: Assembly-CSharp
+  ClassName: InputHelpHint/HelpHintObject
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ButtonClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ChangeSliderValueAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.CompositeButtonClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DebugAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DropdownSelectionAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FindAndPerformFirstValidLinkAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FindByNameAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FocusScrollViewToCurrentActiveElementOnGridAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FocusScrollViewToCurrentActiveOnOneDimensionLayoutGroupAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.GadgetButtonAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.MoveAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationLink
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationLinksList
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationStateActionList
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ScrollAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SelectionAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchCardButtonAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchChildDynamicallyAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchChildStaticallyAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchTabAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToNavigationGroup
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToNavmapAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToRootNavmapInDirection
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ToggleClickAction
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundled/prefabs/Leaderboard/LeagueElementLobby.prefab
+- Assets/Bundled/prefabs/Leaderboard/ChipsLeaderboardPlayerElement.prefab
+- Assets/Bundled/prefabs/Leaderboard/DailyLeaderboardPlayerElement.prefab
+- Assets/Bundled/prefabs/Leaderboard/StardustLeaderboardPlayerElement.prefab
+- Assets/Bundled/prefabs/Leaderboard/PlaceholderForTournamentLeaderboard.prefab
+- Assets/Bundled/prefabs/Leaderboard/PlaceholderForLeaderboard.prefab
+- Assets/Bundled/prefabs/Leaderboard/ChipsLeaderboard.prefab
+- Assets/Bundled/prefabs/Leaderboard/PlayerForLobbyRating.prefab
+- Assets/Bundled/prefabs/Leaderboard/LeagueElement.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/materials/ui_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/chips_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/gold_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/nintendo_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/playstation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/leagues_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/playerrating_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/playerview_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/characters/skin15/character01/avatars_bundle.unity3d

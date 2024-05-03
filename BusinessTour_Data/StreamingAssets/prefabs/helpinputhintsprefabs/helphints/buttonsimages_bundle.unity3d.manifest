@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 13124819
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 958c12481b4a7000ced990897497d180
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d8856b22775648e686c56b4d71d0b15
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8845b7fa5eea31043be33443c0c13e3d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: InputHelpHint/HelpHintObject
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/MenuButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/LeftStickButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/LBButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/DPadButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/NorthButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/EastButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/LTButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/RTButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/ViewButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/WestButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/GamepadVariant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/SouthButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/ButtonImageBase.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/RBButtonImage
+  Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/ButtonsImages/RightStickButtonImage
+  Variant.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/nintendo_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/playstation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites_bundle.unity3d

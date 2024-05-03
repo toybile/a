@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1912258640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c1e1551bc131e04209d985c9885db9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 484f228c2ff16a7eb3f7ffff7b6c6c1c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec8da9418a6bf493e93ef4c7b7575847, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.U2D.SpriteBone
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/Animation_plate.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/splinter_03.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/plate_hand.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/Animation_plate_hand.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/plate_hand.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/plate_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/splinter_05.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/Preview.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/Plate.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/plate_00.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/splinter_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/splinter_02.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/Plate.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/splinter_04.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji03/plate_hand.psb
+Dependencies: []

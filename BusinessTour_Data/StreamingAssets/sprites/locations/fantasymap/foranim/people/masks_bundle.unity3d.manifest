@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2603892792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc96fceae49723b30a80970c0a12f603
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/Masks/I_hotel_simple_people_anim4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/Masks/I_house_3_simple_people_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/Masks/I_house_1_simple_people_anim2_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/Masks/I_house_2_simple_people_anim3_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/Masks/I_house_3_simple_people_anim4_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/Masks/I_house_3_simple_people_anim6_mask.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ForAnim/People/Masks/I_house_2_simple_people_anim4_mask.png
+Dependencies: []

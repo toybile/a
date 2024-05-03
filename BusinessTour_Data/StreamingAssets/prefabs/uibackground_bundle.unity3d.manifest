@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 4196934939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f90b31df7d769651333ed8487941e05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5cda71700ddb59077e798232b81b8bf5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80c9eab134fa6c646a46a9834d344980, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 395d9a408f34cfe4e84e7a367e27d765, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43519b107185b714ea3c3c2747517a5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2836b7ca13d828f4f9017b68bc933ce8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc6c84a6e422a984e8fc71d9ad4e4406, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4f3519398c69794c9b92caff90ae7a9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/prefabs/UIBackground/WinterBG.prefab
+- Assets/Bundled/prefabs/UIBackground/summer_grass2.mat
+- Assets/Bundled/prefabs/UIBackground/SpringBG.prefab
+- Assets/Bundled/prefabs/UIBackground/summer_grass.mat
+- Assets/Bundled/prefabs/UIBackground/SummerBG.prefab
+- Assets/Bundled/prefabs/UIBackground/ParticlesSpringBG.prefab
+- Assets/Bundled/prefabs/UIBackground/ParticlesSummerBG.prefab
+- Assets/Bundled/prefabs/UIBackground/UIBackground.prefab
+- Assets/Bundled/prefabs/UIBackground/WinterParticles.prefab
+- Assets/Bundled/prefabs/UIBackground/DefaultParticles.prefab
+- Assets/Bundled/prefabs/UIBackground/ParticlesAutumnBG.prefab
+- Assets/Bundled/prefabs/UIBackground/autumn_top.mat
+- Assets/Bundled/prefabs/UIBackground/AutumnBG.prefab
+- Assets/Bundled/prefabs/UIBackground/ParticlesWinterBG.prefab
+- Assets/Bundled/prefabs/UIBackground/autumn_bottom.mat
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/materials/ui_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/uibackgroundsprite_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background06_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background07_bundle.unity3d

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2920981868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b7cf2cadfe75b27e1cd5123dda8d795
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Windows/WindowsInfo/PrisonInfoImage.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/info_wnd_wonderland_chance.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/info_wnd_wonderland_tea party.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/info_wnd_wonderland_court.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/info_wnd_wonderland_tax.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/ChanceInfoImage.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/TravelInfoImage.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/InfoResortImage.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/TaxInfoImage.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/ChanceIcon.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/CityInfoImage.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/TournamentInfoImage.png
+- Assets/Bundled/Sprites/Windows/WindowsInfo/info_wnd_wonderland_portal.png
+Dependencies: []

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517699644495",
+    "firebase_url": "https://business-tour-e8432.firebaseio.com",
+    "project_id": "business-tour-e8432",
+    "storage_bucket": "business-tour-e8432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517699644495:android:f4bb276694601013a00e3a",
+        "android_client_info": {
+          "package_name": "com.eightfloor.business.tour.friends.board.dice.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517699644495-9klnpkcsgqomgajk3assrfqmu60prav5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVGZaqUj9gpe_TkkuQxvrttX_Z8uH_1Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517699644495-9klnpkcsgqomgajk3assrfqmu60prav5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517699644495-1ebu4uibdpnk1mk6m63dbsgkrl49620i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eightfloor.businesstour.f2p.appstore",
+                "app_store_id": "1468486788"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

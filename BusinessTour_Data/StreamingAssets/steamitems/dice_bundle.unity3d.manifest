@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1190979059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae7b9aaaf3b036daa63fb72f3c751ba4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 103ebbfbd99758448e2f62d09a1e4cfa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cd74ce36c0eb744e84e182501a33cf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80f820036fb9cf74ea5db56551446843, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Dice/dieAnimation.prefab
+Dependencies: []

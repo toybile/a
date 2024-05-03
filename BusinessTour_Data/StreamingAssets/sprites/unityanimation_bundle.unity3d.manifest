@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3732290371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60786ce483c3ccb1117bf45e7f7b3d94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 122a51d375674d843691bd4a1db009e6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/UnityAnimation/HideWindowBackground.anim
+- Assets/Bundled/Sprites/UnityAnimation/StartCellShowCardUI.anim
+- Assets/Bundled/Sprites/UnityAnimation/CardViewUI.controller
+- Assets/Bundled/Sprites/UnityAnimation/HideWindow.anim
+- Assets/Bundled/Sprites/UnityAnimation/ShowTextFeedback.anim
+- Assets/Bundled/Sprites/UnityAnimation/Window.controller
+- Assets/Bundled/Sprites/UnityAnimation/ShowMenuWindow.anim
+- Assets/Bundled/Sprites/UnityAnimation/FullscreenFeedback.controller
+- Assets/Bundled/Sprites/UnityAnimation/MenuWindow.overrideController
+- Assets/Bundled/Sprites/UnityAnimation/ShowWindow.anim
+- Assets/Bundled/Sprites/UnityAnimation/Background.controller
+- Assets/Bundled/Sprites/UnityAnimation/ShowFirstPlayerSelectUI.anim
+- Assets/Bundled/Sprites/UnityAnimation/ShowFeedback.anim
+- Assets/Bundled/Sprites/UnityAnimation/HideFirstPlayerSelectUI.anim
+- Assets/Bundled/Sprites/UnityAnimation/ShowPairAnimation.anim
+- Assets/Bundled/Sprites/UnityAnimation/ShowWindowBackground.anim
+- Assets/Bundled/Sprites/UnityAnimation/HideMenuWindow.anim
+- Assets/Bundled/Sprites/UnityAnimation/FirsPlayerSelectUI.controller
+- Assets/Bundled/Sprites/UnityAnimation/StartCellCardViewUI.controller
+- Assets/Bundled/Sprites/UnityAnimation/HideFeedback.anim
+- Assets/Bundled/Sprites/UnityAnimation/TextFeedback.controller
+Dependencies: []

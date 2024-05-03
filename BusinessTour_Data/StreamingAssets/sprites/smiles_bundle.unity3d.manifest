@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2771860280
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2eeb5dda8f2949fd4d4e7cf30946cfd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Smiles/Pack01Sticker06.png
+- Assets/Bundled/Sprites/Smiles/Pack01Sticker02.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile02.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile00.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile04.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile15.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile09.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile14.png
+- Assets/Bundled/Sprites/Smiles/Pack01Sticker04.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile10.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile16.png
+- Assets/Bundled/Sprites/Smiles/Pack01Sticker03.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile13.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile12.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile01.png
+- Assets/Bundled/Sprites/Smiles/Pack01Sticker08.png
+- Assets/Bundled/Sprites/Smiles/Pack01Sticker07.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile07.png
+- Assets/Bundled/Sprites/Smiles/Pack01Sticker01.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile06.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile05.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile03.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile08.png
+- Assets/Bundled/Sprites/Smiles/Pack00Smile11.png
+- Assets/Bundled/Sprites/Smiles/Pack01Sticker05.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3740756345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05a4fb002355c8ba94bacbffb2396522
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/Resort_1.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/WindowBuyResortImage_fantasy_01.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/WindowBuyResortImage_02.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/Resort_4.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/WindowBuyResortImage.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/WindowBuyResortImage_04.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/Resort_5.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/Resort_3.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/WindowBuyResortImage_03.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/Resort_0.png
+- Assets/Bundled/Sprites/Windows/WindowBuyResort/Resort_2.png
+Dependencies: []

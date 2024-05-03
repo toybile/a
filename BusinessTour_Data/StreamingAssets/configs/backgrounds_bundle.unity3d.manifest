@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 478480816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9dfc9f830179b4bab0ade7f00f5cf57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c792b6c84720622cf6ef29a9d743981
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: ad3d5d4f6aa404e428cccbee86bd03c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd43173c4f9d05d4abe47128a0ab4d76, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.PlatformIdsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SerializedBackgroundDefinition
+Assets:
+- Assets/Bundled/Configs/Backgrounds/BackgroundSet.asset
+- Assets/Bundled/Configs/Backgrounds/BackgroundCollection.asset
+Dependencies: []

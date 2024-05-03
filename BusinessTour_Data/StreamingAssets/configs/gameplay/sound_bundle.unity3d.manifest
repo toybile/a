@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3750235086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bde66be0469371823aaac44dc8aabc08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4100ae8f212b27e38d92617f53aa0226
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: fbd478f0618b0fc4588932751f806ac7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.MapSoundConfig/SoundsDictionary
+Assets:
+- Assets/Bundled/Configs/Gameplay/Sound/MapSoundConfig_Classic.asset
+- Assets/Bundled/Configs/Gameplay/Sound/MapSoundConfig_Wonderland.asset
+- Assets/Bundled/Configs/Gameplay/Sound/MapSoundConfig_Fantasy.asset
+Dependencies: []

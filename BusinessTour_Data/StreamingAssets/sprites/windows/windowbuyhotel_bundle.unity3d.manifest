@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2875351907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40960b98b1fc9f64dabfb11a72c9ffc7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Windows/WindowBuyHotel/01_Building_04.png
+- Assets/Bundled/Sprites/Windows/WindowBuyHotel/WindowTextField.png
+- Assets/Bundled/Sprites/Windows/WindowBuyHotel/05_Building_04.png
+- Assets/Bundled/Sprites/Windows/WindowBuyHotel/00_Building_04.png
+- Assets/Bundled/Sprites/Windows/WindowBuyHotel/02_Building_04.png
+- Assets/Bundled/Sprites/Windows/WindowBuyHotel/03_Building_04.png
+- Assets/Bundled/Sprites/Windows/WindowBuyHotel/WindowBuyHoteImage.png
+- Assets/Bundled/Sprites/Windows/WindowBuyHotel/04_Building_04.png
+Dependencies: []

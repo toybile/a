@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2501415332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52ebc91cd5b0499d12e1601db3f0dea3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d9189bf1910995ec985558110fb660ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07040f71d8316854f98282411223add6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
+Assets:
+- Assets/Bundled/CardEffects/CardEffects_Wonderland/CourtsVerdict/CourtsVerdict_CardEffect.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/cardeffects/cardeffects_wonderland/courtsverdict/spinedata_bundle.unity3d

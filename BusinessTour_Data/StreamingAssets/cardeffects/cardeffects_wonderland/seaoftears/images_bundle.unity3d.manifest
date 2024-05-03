@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2098079354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79004a5a8b5655e711bb45daf2049bd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/SeaOfTears/images/\u0421\u043B\u043E\u0439
+  6.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/SeaOfTears/images/\u0421\u043B\u043E\u0439
+  7.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/SeaOfTears/images/\u0421\u043B\u043E\u0439
+  3.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/SeaOfTears/images/\u0421\u043B\u043E\u0439
+  5.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/SeaOfTears/images/\u0421\u043B\u043E\u0439
+  2.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/SeaOfTears/images/\u0421\u043B\u043E\u0439
+  1.png"
+- "Assets/Bundled/CardEffects/CardEffects_Wonderland/SeaOfTears/images/\u0421\u043B\u043E\u0439
+  4.png"
+Dependencies: []

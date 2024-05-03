@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3050748076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a0522a84b1f2eb4bc6b333daa31347b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/UIDailyTaskList/prize_03.png
+- Assets/Bundled/Sprites/UIDailyTaskList/button_normal_green.png
+- Assets/Bundled/Sprites/UIDailyTaskList/clock_clicked.png
+- Assets/Bundled/Sprites/UIDailyTaskList/clock_over.png
+- Assets/Bundled/Sprites/UIDailyTaskList/button_over_over.png
+- Assets/Bundled/Sprites/UIDailyTaskList/back_light.png
+- Assets/Bundled/Sprites/UIDailyTaskList/mark_yellow.png
+- Assets/Bundled/Sprites/UIDailyTaskList/tape.png
+- Assets/Bundled/Sprites/UIDailyTaskList/bonus_back_frame.png
+- Assets/Bundled/Sprites/UIDailyTaskList/prize_02.png
+- Assets/Bundled/Sprites/UIDailyTaskList/button_clicked_green.png
+- Assets/Bundled/Sprites/UIDailyTaskList/clock_normal.png
+- Assets/Bundled/Sprites/UIDailyTaskList/mark_green.png
+- Assets/Bundled/Sprites/UIDailyTaskList/prize_01.png
+- Assets/Bundled/Sprites/UIDailyTaskList/mark_grey.png
+Dependencies: []

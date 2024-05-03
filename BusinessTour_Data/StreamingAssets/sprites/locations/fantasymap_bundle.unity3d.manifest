@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 374638933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0237a1f3f04f6d676a80829eb1137b9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/FantasyMap/Elves_House_3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_peopleNew.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Dwarfs_House_5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/MagicPlaces_House_1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_pirates.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/coin_earth.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Pirates_House_4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Pirates_House_3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/coin_water.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/People_House_4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/SecretTower_House_2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/PeopleNew_House_4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_mountains.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/MagicPlaces_House_3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Elves_House_5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_secret_tower.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_start.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/PeopleNew_House_1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Mountains_House_3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_magic_places.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_wolf_trap.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/People_House_3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/wolf_trap.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/SecretTower_House_1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_obelisk.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_dwarfs.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Mountains_House_5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/PeopleNew_House_5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Pirates_House_5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_tax_fantasy.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/MagicPlaces_House_4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/MagicPlaces_House_2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/trap_small.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/TaxInfo_fantasy.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Mountains_House_1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/People_House_5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Pirates_House_2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_knighttournament.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Dwarfs_House_2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/horses.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_stable.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/start_pointer.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Dwarfs_House_4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Mountains_House_4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Mountains_House_2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/trap_big.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/PeopleNew_House_3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_people.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/SecretTower_House_4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/PeopleNew_House_2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/ChanceIcon_Fantasy.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/MagicPlaces_House_5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/coin_wind.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/cell_elves.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Elves_House_4.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/SecretTower_House_3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/SecretTower_House_5.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/location_inner_field_fantasy.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Elves_House_1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/People_House_2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Dwarfs_House_3.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/knight_tournament.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/coin_fire.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Elves_House_2.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/People_House_1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Dwarfs_House_1.png
+- Assets/Bundled/Sprites/Locations/FantasyMap/Pirates_House_1.png
+Dependencies: []

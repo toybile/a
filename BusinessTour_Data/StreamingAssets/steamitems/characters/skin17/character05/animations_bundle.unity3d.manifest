@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 689524699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89f947e7a155ecc4c0c239fa8f66168c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Characters/Skin17/Character05/Animations/B_Idle_06.anim
+- Assets/Bundled/SteamItems/Characters/Skin17/Character05/Animations/B_Idle_04.anim
+- Assets/Bundled/SteamItems/Characters/Skin17/Character05/Animations/B_Idle_02.anim
+- Assets/Bundled/SteamItems/Characters/Skin17/Character05/Animations/B_Idle_01.anim
+- Assets/Bundled/SteamItems/Characters/Skin17/Character05/Animations/B_Idle_00.anim
+- Assets/Bundled/SteamItems/Characters/Skin17/Character05/Animations/B_Idle_03.anim
+- Assets/Bundled/SteamItems/Characters/Skin17/Character05/Animations/B_Idle_05.anim
+Dependencies: []

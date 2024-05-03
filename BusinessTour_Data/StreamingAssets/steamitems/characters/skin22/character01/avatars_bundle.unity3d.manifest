@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1696853272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a53685e69273e386c28f6bef0f29ac00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Characters/Skin22/Character01/Avatars/Avatar01Color1.png
+- Assets/Bundled/SteamItems/Characters/Skin22/Character01/Avatars/Avatar01Color2.png
+- Assets/Bundled/SteamItems/Characters/Skin22/Character01/Avatars/Avatar01Color3.png
+- Assets/Bundled/SteamItems/Characters/Skin22/Character01/Avatars/Avatar01Color0.png
+- Assets/Bundled/SteamItems/Characters/Skin22/Character01/Avatars/Avatar01Color5.png
+- Assets/Bundled/SteamItems/Characters/Skin22/Character01/Avatars/Avatar01Color4.png
+Dependencies: []

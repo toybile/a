@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3272442985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d95c6c6bc2c7c15a486f9b37dc4e361
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 964816601621682263c515b9e4253913
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b66bf4ab5b9ff9c4289f7353cac37cdb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/Text/InputTextBase.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/Text/InputTextAccept Variant.prefab
+- Assets/Bundled/prefabs/HelpInputHintsPrefabs/HelpHints/Text/InputTextBack Variant.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d

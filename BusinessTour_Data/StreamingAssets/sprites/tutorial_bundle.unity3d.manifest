@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1451768757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c46696b8877f7a62ac258c15685d541a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Tutorial/ellipse.png
+- Assets/Bundled/Sprites/Tutorial/TutorBg.png
+- Assets/Bundled/Sprites/Tutorial/tutorBg_big.png
+- Assets/Bundled/Sprites/Tutorial/Arrow.png
+Dependencies: []

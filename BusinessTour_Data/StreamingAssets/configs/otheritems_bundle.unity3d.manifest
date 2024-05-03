@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1234430958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dea7a1206576024cf3f8de668eee2b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 491af3ece46780b0e8e3906aef7b28f6
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ca5480f85d78b543aa7b30291793a54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1b1c75e75bf19446ac0ec71ff7097a3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Configs/OtherItems/OneHourPremium.asset
+- Assets/Bundled/Configs/OtherItems/OtherItemDefinitions.asset
+Dependencies: []

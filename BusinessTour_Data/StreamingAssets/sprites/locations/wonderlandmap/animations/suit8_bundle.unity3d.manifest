@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4149645355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2562616831816c5188a5b502a615071
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31a8e35008e8aab720d0136425be6fad
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/Suit8/08_2.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/Suit8/08_3.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/Suit8/08_3_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/Suit8/08_2_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/Suit8/08_4.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/Suit8/08_1_Animation.anim
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/Suit8/08_1.controller
+- Assets/Bundled/Sprites/Locations/WonderlandMap/Animations/Suit8/08_4_Animation.anim
+Dependencies: []

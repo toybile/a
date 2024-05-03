@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3531411695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6862720d19399d2c16aa7ddfb50dbf40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7a1e6269cbbeed94a576da0053e37cec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundled/Sprites/Buttons/ButtonBlue/ButtonBlue0004.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlue/ButtonBlue0002.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlue/ButtonBlue.prefab
+- Assets/Bundled/Sprites/Buttons/ButtonBlue/button_Invite_05.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlue/button_right_slice.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlue/button_left_slice.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlue/ButtonBlue0003.png
+- Assets/Bundled/Sprites/Buttons/ButtonBlue/ButtonBlue0001.png
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d

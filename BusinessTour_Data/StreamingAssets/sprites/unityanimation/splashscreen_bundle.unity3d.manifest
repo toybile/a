@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4257700257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4712ac88acf63846aba12abad419d616
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31a8e35008e8aab720d0136425be6fad
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/UnityAnimation/SplashScreen/HideSplashScreen.anim
+- Assets/Bundled/Sprites/UnityAnimation/SplashScreen/ShowSplashScreen.anim
+- Assets/Bundled/Sprites/UnityAnimation/SplashScreen/ChangeBackgroundColors.anim
+- Assets/Bundled/Sprites/UnityAnimation/SplashScreen/Background.controller
+- Assets/Bundled/Sprites/UnityAnimation/SplashScreen/Image.controller
+Dependencies: []

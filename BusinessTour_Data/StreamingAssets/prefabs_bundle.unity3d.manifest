@@ -1,0 +1,737 @@
+ManifestFileVersion: 0
+CRC: 2193866292
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f8b046bc088636ba478a62774ff14c7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac1a314fda0ab833d46bfc9e82ee6afc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11cee95d991a54147a3720d9778703aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7e42ab940c6a3e45a60ea88eaa42b89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c850b3963cde474e9b63cf61848e929, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a98125502f715b4b83cfb77b434e436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80c9eab134fa6c646a46a9834d344980, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c33d784c1aa6e5b448a968a64f272137, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 923c680978534ae4599de173bbb7e148, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8dc44ea125da8f847899b79f3be3621e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 859c106c95d4b4e41b8ccbe3e485ae3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8ee60af491978345bc197ed4e1316bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f53693bbd31015c4baf759136974bacf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21984db1d646c5e42ac7f5a0b94d0e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b826640817cb2241b5064a056f90ef4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d03b5ceec7e59b14faeb7d506e052025, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5d7b6fd92fc52245ae807fce7910c40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffcb0840d4feb194caf5c29ef4148e1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b16885020a5b30b4e99f480dcf80a799, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90731e528cdef3445b4908053165f706, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8d1dbb04b1990a4eb640876565d3f94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3ac51218951d4d46bb5b6fc8454097b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ae631e0311907743b8fce5fb8c22a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17ce740f9cf0b7a40b764b09e78b2ae2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba34fb1cba0f75f488ba9bf85860adb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d379c17209f5ec44994b827709651ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abb0e183b5e533340adedfa69365016d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0277aa991e3645d4cb1cb4d149606909, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7149ebb58ab08d46a4db98910b7128f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 95904c25809930c4f93f07eb4884a1ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a96535c6e1b975c47bc525cd458260b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a688170c187deab458e31303a667493a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651bdd275b1304c40aced786405ec591, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24f5416fe979558438ed9d7aefa2e964, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b58cf81a900d4afe8b67215639eacb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cac31ba5b2641f44295da9fa047d1e5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00c7f25d5b565fe4a847bdfa448b35b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6dc0b7197d6f302429b1277358321134, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3af3d0ce6c2229c44a9c1488d80485d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a5c44b1b3af83640998a0b722061a77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 166b308a1433bcb4e8543c0e3c006bec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfe3bc85f7cc5dc4e9c8d103b0e9d9c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56cc839b2e76f3645ac40c29297c0ff5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c135ec9e8f3f5a4e84fb8fda715f7f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 395d9a408f34cfe4e84e7a367e27d765, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8868c1104d50fdf4ba1203540803b359, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c941dee3a936a784f871b3cbdb18fda8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4f9b13fa14fb4d44b56fbad11b23846, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75709de389ddec14ca76f13e04acd687, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36d4432280384d64d9438102e6cb98d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d8dd04fd7b64e84fb3e7e5214c0d328, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0c129b2416c6f44f8842f7ddd7cbbe3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8ab9d4cd2be10544bbf5eb914602762, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6da2d5c0d4668644ab741031932bb38d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28df0c1140f66d44398e8aade5fd955a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1668e6ff77053e43b3772bfea176b75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051bd466482d3442b07dab9d044a882, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c0f02201bfe3d2499bb2cc4d2744d6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de93a28457a553940893b460799fa8d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 863e9c909f5b3954e9349fef6b4532c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d1b4652ad42e374c8f9f734c9f230a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fb709cefab664a44b3d4cb6797810ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48805c38cbf8fe94c8bdb924bd921e9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e158a9bceb7bc74a9e918b73a69cfe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20b83de1fe25f3f4184bf47c56843a1e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14ed410e59aa98c4e97c2766053c5757, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b669fbf4a798a174686eefacdd1dc50c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 315a79052cf7fdc4bb0f258a9a1fb72b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7face02460eae444af74ad7f9264cdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2142ef415044a7145afe2adbe271a38d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f896cb4d30c5e5458d8ac1907e798fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cc46447403cd488418161570bf7c0330, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d0b652f32a2cc243917e4028fa0f046, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b711a85b6a2f03a4aba62ee64838f00c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb3f7714176f26448909109536923b8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18929707ac06fc148b7ea4c15ed7574e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e87254800b223a74dae70548a7f89952, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 430b60cba6cc66b4cb9f634fd39eea9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4645da6f79134742a8708653e5bb370, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e33ff0046e8ed974dad41f1db684216d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a37ed3e25a38c224b9510dc22fd32bb5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 430fad7b2113f3b41a501c0926f12ceb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55e6ae6aee77ccd4db6bcd6666970f09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9930a617a0608b94eb42943bb00d7311, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dd7962deade76347872929263ddef78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25d45acd0f0dc7e438871f2b1f7a8a5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cde515b06e83674fbfb5a2600079d05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e9f5d99a633a5c48ada2ef80342a98b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43519b107185b714ea3c3c2747517a5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80eef5373e710774c881ffb33658ebec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96d1bfad01c79fc47a5983de09619cd2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b50dfc9c0e0c4e42827338f8978959e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32af0eebc7579364d9bb758076680fc2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9098fc28dee3ff141b6de2a9d2de4b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 734356e8a6049334f90dd7ab1a7a6ef4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2be7966a0af572c46bdff42ac7477f6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2836b7ca13d828f4f9017b68bc933ce8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8de2ad10df8584d43a2358457c6c42c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc6c84a6e422a984e8fc71d9ad4e4406, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 459d6932cc7cf3b47a20c25fd06df925, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b33bf2f8356bb1429f6b08ef9482781, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3f1ec35fbf914c4ea277a4dd73a21bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 783f62a68bba805469daa9329684fb7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2048e83d020e5624e99715332a7dc934, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b9321a74d20a1d4ead872b238037b42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd079a81f7496f14587cffc050798a38, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27b3e28c9a70e184281b0015810ae790, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07aedc815bcbc7e47a15f4980ef92e24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4195c06a8db8d3249bbca080b38ec2dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b9d4867b71ef944ca09b47d4b1e711a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c822353723c28042b56cbe791a6c285, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d042a46e2f62f104dbd6b13d16559cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a06c3901d679ae64599cb3a41554d3b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba52f5b5705f4954bad7ae65dbf9069b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc5c602d58a67be4d9e3affdbfb3f945, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf9b4262af94aea4085a5f62427fc2d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 856c0acc7c292b3469e94251f89e1b4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a82d60420ea9aeb4a9399d3cf04b6bb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f519d8235bc31d444afa54c2cbbf5254, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c48fb78b80cf194abe34fd4645e279b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5347c5a6404acab4cabb277f19083681, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e38b75beffa0add4a9f105f07f2214a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70d6f79789089549b7e743ff6ac8a1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1076b3f86525b5d4d85c3bd362a343db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6a7b66a2c0d776498b5ef9631153c92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20e0c86c2a3e52846a3691296ff4e8bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 881784d63f7aff74ba1b6a5edbe8766f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a71ce91e50464434b88d14f705b93039, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11484a388383dc44ca7725799f7ab273, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b2984bd95f2c9c43bf739bbbc584888, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 470bdfd0459172a49a8b540f9c1479e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c33196c4b955e048b94eca581340764, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63d4136fa27c1ec4993cbd4cadc9299d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d084456585a1ea47b560478874ce40a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8845b7fa5eea31043be33443c0c13e3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27853c3cad366534f9689d3ab8635b11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b66bf4ab5b9ff9c4289f7353cac37cdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39536fe0f12540f46910164ac0ed5690, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3b82957c56ac8f45b81d05bfee0315c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2114cc6b8ebd4c4f8ff20e14917b52b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ad8a93a099f1c94380fff34ca307bfb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bba3be8b4f7280d45b87febb8bd79b94, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 071e07063237c9c4f8b9254deb2f6c77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aeec131aeb68db7408af76189039fe62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 526919b5084bc34489632cae00fb7438, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 462594ac3e54d224dbb18dd06f93daac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b410a0ad528dc34b8e835f3dab63f6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a6780ce8a5411149a8e539379440175, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40660b00f00dcda4a8790c99938a7d9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7467df3fc7cc3394194590bd82f99397, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 911ea731c5ebd2b4a8fdc8547ad93af7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf951511f02d1ee4290c835a4b3759c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34d0c0222ce1784409bebf4b558d2708, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b427c6e33b4343744a73d920b8c29ab3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31083f05137419348b18b4619f3b9fb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b82b5adc61da12d4f99c44f9cab471da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d617cb38632d5bb4caa44ca0fc5be8b2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.AvailablesFilteredCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.ConcreteLeaderboardViewData
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.DailyBonusReward/Settings
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.DiceTrajectory
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.FontInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.FortuneRouletteButton/States
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.ItemRaritySpriteDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.SkinFilteredCollection
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TMProFontInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.TournamentDataView/Item
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.UITabsContainerLegacy/Tab
+- AssemblyName: Assembly-CSharp
+  ClassName: ConsolesPlatformIconsHolder/PlatformIconsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: FindByHierarchyIndices
+- AssemblyName: Assembly-CSharp
+  ClassName: GetHomeAction
+- AssemblyName: Assembly-CSharp
+  ClassName: GetPlayerProfileWindowAction
+- AssemblyName: Assembly-CSharp
+  ClassName: InputHelpHint/HelpHintObject
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ButtonClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ChangeSliderValueAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.CompositeButtonClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DebugAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DropdownSelectionAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.DynamicElementToStaticLinkingDictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FindAndPerformFirstValidLinkAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FindByNameAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FocusScrollViewToCurrentActiveElementOnGridAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.FocusScrollViewToCurrentActiveOnOneDimensionLayoutGroupAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.GadgetButtonAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.InstantiatableLayoutElementsConnector/MarginalLink
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.MoveAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationLink
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationLinksList
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationStateAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.NavigationStateActionList
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ScrollAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SelectionAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchCardButtonAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchChildDynamicallyAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchChildStaticallyAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchTabAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToNavigationGroup
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToNavmapAction
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.SwitchToRootNavmapInDirection
+- AssemblyName: Assembly-CSharp
+  ClassName: Navigation.ToggleClickAction
+- AssemblyName: Assembly-CSharp
+  ClassName: ReplacableButton/InfosDictionary
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/OnChangeEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SubmitEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TextSelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TouchScreenKeyboardEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/Entry
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/TriggerEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Dropdown/DropdownEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Dropdown/OptionData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Dropdown/OptionDataList
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/EndEditEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/OnChangeEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/SubmitEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Bundled/prefabs/SkinNamedIndicator.prefab
+- Assets/Bundled/prefabs/tournamentChipsPreview.prefab
+- Assets/Bundled/prefabs/tournamentBonusPreview.prefab
+- Assets/Bundled/prefabs/LocationBackground.prefab
+- Assets/Bundled/prefabs/UIFirstPlayerSelect.prefab
+- Assets/Bundled/prefabs/TableNoBet.prefab
+- Assets/Bundled/prefabs/tournamentCharacterPreview.prefab
+- Assets/Bundled/prefabs/UIDailyBonus.prefab
+- Assets/Bundled/prefabs/UILeaderboard.prefab
+- Assets/Bundled/prefabs/PlatformIconsHolder.prefab
+- Assets/Bundled/prefabs/UISplash.prefab
+- Assets/Bundled/prefabs/chipsPreview.prefab
+- Assets/Bundled/prefabs/UIHallOfFame.prefab
+- Assets/Bundled/prefabs/UITopPanel.prefab
+- Assets/Bundled/prefabs/UIExchangeItem.prefab
+- Assets/Bundled/prefabs/UIBackgroundCollectionView.prefab
+- Assets/Bundled/prefabs/UIRateGameWindow.prefab
+- Assets/Bundled/prefabs/UIGameModePanel2.prefab
+- Assets/Bundled/prefabs/UIFeedbackScreen.prefab
+- Assets/Bundled/prefabs/UIPlayerProfileWindow.prefab
+- Assets/Bundled/prefabs/ImageContent.prefab
+- Assets/Bundled/prefabs/TableId.prefab
+- Assets/Bundled/prefabs/UIOtherPlayerPanelViewConsoles.prefab
+- Assets/Bundled/prefabs/UIMainMenu.prefab
+- Assets/Bundled/prefabs/tournamentDicePreview.prefab
+- Assets/Bundled/prefabs/UIMasterPlayerPanelMobile.prefab
+- Assets/Bundled/prefabs/LockedItemMark.prefab
+- Assets/Bundled/prefabs/SmileButton.prefab
+- Assets/Bundled/prefabs/UIAchivementBox.prefab
+- Assets/Bundled/prefabs/InventoryItemView.prefab
+- Assets/Bundled/prefabs/UIDebugCheatsWindowView_Consoles.prefab
+- Assets/Bundled/prefabs/UICharacterCollectionView.prefab
+- Assets/Bundled/prefabs/DailyReward.prefab
+- Assets/Bundled/prefabs/UISmile3DCollectionView.prefab
+- Assets/Bundled/prefabs/Tooltip.prefab
+- Assets/Bundled/prefabs/MapPreview.prefab
+- Assets/Bundled/prefabs/TextContentRunning.prefab
+- Assets/Bundled/prefabs/MonthlyLeaderboardTimer.prefab
+- Assets/Bundled/prefabs/UIMainMenu_Mobile.prefab
+- Assets/Bundled/prefabs/UIHudSmilesPanel.prefab
+- Assets/Bundled/prefabs/PlayerPanel.prefab
+- Assets/Bundled/prefabs/UIReplay.prefab
+- Assets/Bundled/prefabs/bonusPreview.prefab
+- Assets/Bundled/prefabs/UILootbox.prefab
+- Assets/Bundled/prefabs/UIMainMenu_Consoles.prefab
+- Assets/Bundled/prefabs/UIVIPStatusWindow.prefab
+- Assets/Bundled/prefabs/UISpinner.prefab
+- Assets/Bundled/prefabs/UISubscribtionModal.prefab
+- Assets/Bundled/prefabs/UIControlMenu.prefab
+- Assets/Bundled/prefabs/OverlayedImage.prefab
+- Assets/Bundled/prefabs/StandartControlPanel.prefab
+- Assets/Bundled/prefabs/UIThisIDAlreadyExistsWindow.prefab
+- Assets/Bundled/prefabs/UIExchangeWindow.prefab
+- Assets/Bundled/prefabs/MainMenuTabsButton.prefab
+- Assets/Bundled/prefabs/UIApplyCardView.prefab
+- Assets/Bundled/prefabs/UISkinFilter.prefab
+- Assets/Bundled/prefabs/UIGameModePanel.prefab
+- Assets/Bundled/prefabs/UIAvatar.prefab
+- Assets/Bundled/prefabs/TooltipSkinPreview.prefab
+- Assets/Bundled/prefabs/StartGameTimer.prefab
+- Assets/Bundled/prefabs/UniversalPlatformIconsHolder.prefab
+- Assets/Bundled/prefabs/UIObeliskView.prefab
+- Assets/Bundled/prefabs/UIGamepad.prefab
+- Assets/Bundled/prefabs/UISelectAchivementWindow.prefab
+- Assets/Bundled/prefabs/UIStoreEntry.prefab
+- Assets/Bundled/prefabs/UIRewardsViewStandard.prefab
+- Assets/Bundled/prefabs/TextContent.prefab
+- Assets/Bundled/prefabs/UIMapSelectionView.prefab
+- Assets/Bundled/prefabs/MainMenuGrid.prefab
+- Assets/Bundled/prefabs/UIVersus.prefab
+- Assets/Bundled/prefabs/UIPossibleUpdate.prefab
+- Assets/Bundled/prefabs/BackgroundOnlyContent.prefab
+- Assets/Bundled/prefabs/UIRoot.prefab
+- Assets/Bundled/prefabs/DiceViewBase.prefab
+- Assets/Bundled/prefabs/UICreditsWindow.prefab
+- Assets/Bundled/prefabs/characterPreview.prefab
+- Assets/Bundled/prefabs/UIMasterPlayerPanelConsoles.prefab
+- Assets/Bundled/prefabs/UIFiltersWindowView.prefab
+- Assets/Bundled/prefabs/PriceView.prefab
+- Assets/Bundled/prefabs/dicePreview_1.prefab
+- Assets/Bundled/prefabs/TournamentPlayerElement.prefab
+- Assets/Bundled/prefabs/UIOtherPlayerPanelView.prefab
+- Assets/Bundled/prefabs/UIStore.prefab
+- Assets/Bundled/prefabs/UIDiceCollectionView.prefab
+- Assets/Bundled/prefabs/UIConnecting.prefab
+- Assets/Bundled/prefabs/UIMapCustomizationCollectionView.prefab
+- Assets/Bundled/prefabs/UISplash_NonScalable.prefab
+- Assets/Bundled/prefabs/LootboxItemIndicator.prefab
+- Assets/Bundled/prefabs/TableWithBet.prefab
+- Assets/Bundled/prefabs/UIDebugCheatsWindowView.prefab
+- Assets/Bundled/prefabs/UISelectAvatar.prefab
+- Assets/Bundled/prefabs/UIPlayerProfileWindow_Consoles.prefab
+- Assets/Bundled/prefabs/dicePreview.prefab
+- Assets/Bundled/prefabs/UITournamentView.prefab
+- Assets/Bundled/prefabs/UIControlMenuPC.prefab
+- Assets/Bundled/prefabs/UIRewardsViewSmall.prefab
+- Assets/Bundled/prefabs/CircleButton.prefab
+- Assets/Bundled/prefabs/UIOtherPlayerPanelViewMobile.prefab
+- Assets/Bundled/prefabs/UIMasterPlayerPanel.prefab
+- Assets/Bundled/prefabs/UIChestContentView.prefab
+- Assets/Bundled/prefabs/UIDiceSum.prefab
+- Assets/Bundled/prefabs/GameCamera.prefab
+- Assets/Bundled/prefabs/EmojiButton.prefab
+- Assets/Bundled/prefabs/UISubmitKey.prefab
+- Assets/Bundled/prefabs/UIFriendPlayerPanelView.prefab
+- Assets/Bundled/prefabs/MainMenuButton.prefab
+- Assets/Bundled/prefabs/UIRewardsViewMedium.prefab
+- Assets/Bundled/prefabs/SettingsBlock.prefab
+- Assets/Bundled/prefabs/UIJoinUsWindow.prefab
+- Assets/Bundled/prefabs/AvatarPlaceholder.prefab
+- Assets/Bundled/prefabs/UIRulesWindow.prefab
+- Assets/Bundled/prefabs/AudioSetting.prefab
+- Assets/Bundled/prefabs/TextContentGradient.prefab
+- Assets/Bundled/prefabs/GamepadControlPanel.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/fontsandmaterials_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/inputprovider_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/materials/ui_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/prefabs/uifortuneroulette/animations_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/shaders_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/skinfilter_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/buttons/buttonblue_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/buttons/buttonshadowblue_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/buttons/buttonyellow_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/chips_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/control_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/fieldsprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/firstplayerselectui_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/gold_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/headers_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/nintendo_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites/playstation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/hintsprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/localized_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/fantasymap/obelisks_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/playerview_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/smiles_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/throwdiceview/evenbutton_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/throwdiceview/oddbutton_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/throwdiceview/pairbutton_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/throwdiceview/throwagainbutton_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/throwdiceview/throwbutton_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/tournaments_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/tutorial_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/uibackgroundsprite_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/uidailytasklist_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/uiitempreview_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/unityanimation/splashscreen_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/unityanimation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/windows/base_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/windows/headers_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/windows/windowbuyresort_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/winwindow_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background01_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/background/skin01/background02_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/buildingsskin/skin01/buildingsskin01_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/characters/skin01/character02_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/characters/skin15/character01/avatars_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/dice/skin01/dice02_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/dice/skin02/dice08_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/emojis/skin01/emoji04_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/lootboxes/skin01/lootbox01_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/lootboxes/skin03/lootbox01_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/map/skin01/map01_bundle.unity3d

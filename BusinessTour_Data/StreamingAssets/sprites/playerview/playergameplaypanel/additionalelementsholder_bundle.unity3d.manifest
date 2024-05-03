@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3666224511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb0fe1af9af443440ccc424c3923bb7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/PlayerView/PlayerGameplayPanel/AdditionalElementsHolder/key.png
+- Assets/Bundled/Sprites/PlayerView/PlayerGameplayPanel/AdditionalElementsHolder/01_blue.png
+- Assets/Bundled/Sprites/PlayerView/PlayerGameplayPanel/AdditionalElementsHolder/01_green.png
+- Assets/Bundled/Sprites/PlayerView/PlayerGameplayPanel/AdditionalElementsHolder/01_light_blue.png
+- Assets/Bundled/Sprites/PlayerView/PlayerGameplayPanel/AdditionalElementsHolder/01_red.png
+- Assets/Bundled/Sprites/PlayerView/PlayerGameplayPanel/AdditionalElementsHolder/01_pink.png
+- Assets/Bundled/Sprites/PlayerView/PlayerGameplayPanel/AdditionalElementsHolder/01_yellow.png
+Dependencies: []

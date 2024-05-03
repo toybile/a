@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1759602579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52919226f760710c2b56da74b43286f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 625a31ce353b2ad23c172091c97a9027
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b00e4b25ae131f4d963b8acb0d89b65, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Water.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Animation_water balloon_bottom.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/water_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/snow_water_02.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Animation_water.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/water_balloon_top.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/water_balloon_top.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/water_balloon_01.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Animation_water balloon_top.anim
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/water_balloon_bottom.prefab
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/water_balloon_bottom.controller
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/water_02.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Preview.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/snow.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/snow_water.png
+- Assets/Bundled/SteamItems/Emojis/Skin01/Emoji07/Water.controller
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/steamitems/emojis/skin01/emoji07/drops_bundle.unity3d

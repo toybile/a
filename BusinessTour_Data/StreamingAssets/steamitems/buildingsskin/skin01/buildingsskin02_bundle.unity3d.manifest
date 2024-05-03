@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 551735667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be4c3be144a6a5d49f30381ec16e60dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/BuildingsSkin/Skin01/BuildingsSkin02/Buildings.png
+- Assets/Bundled/SteamItems/BuildingsSkin/Skin01/BuildingsSkin02/Preview.png
+Dependencies: []

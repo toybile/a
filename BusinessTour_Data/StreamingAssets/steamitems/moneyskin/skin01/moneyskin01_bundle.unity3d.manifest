@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3471386393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff43308d072fab1e131a53f0058fa4fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/SteamItems/MoneySkin/Skin01/MoneySkin01/Preview.png
+- Assets/Bundled/SteamItems/MoneySkin/Skin01/MoneySkin01/Money.png
+Dependencies: []

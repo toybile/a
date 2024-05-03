@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2119867092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b86cf00550d967ba043631c607c056b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bbcbc79e13c7832a517885c89466cb9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b794439294961341b05a68751a9ed57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 597985ce793adb3428a7c94e0efbd43a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7de42f59658f1f4a9d6dd90d7e69f31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06f727905c1616d438acb615484b46c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b3e4481e2d2a784c9386c1ffeb874d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_bathroom_03.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_bathroom_01.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_bedroom_01.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_kitchen_02.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_living_room_02.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_kitchen_01.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_bedroom_02.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_bedroom_03.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/AliceRoomBuilding_Wonderland.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_living_room_03.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_kitchen_03.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_bathroom_02.prefab
+- Assets/Bundled/prefabs/Buildings/AliceRooms_Wonderland/alice_living_room_01.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/wonderlandmap/aliceroooms_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/sprites/locations/wonderlandmap/animations/alicerooms_bundle.unity3d

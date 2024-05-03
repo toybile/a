@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3369969203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3a71fa5c2f0436e6b85fdec0cfc6e27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/PlayerRating/ChipsReward_3.png
+- Assets/Bundled/Sprites/PlayerRating/ChipsReward_4.png
+- Assets/Bundled/Sprites/PlayerRating/ChipsReward_0.png
+- Assets/Bundled/Sprites/PlayerRating/ChipsReward_1.png
+- Assets/Bundled/Sprites/PlayerRating/ChipsReward_2.png
+- Assets/Bundled/Sprites/PlayerRating/ChipsReward_5.png
+Dependencies: []

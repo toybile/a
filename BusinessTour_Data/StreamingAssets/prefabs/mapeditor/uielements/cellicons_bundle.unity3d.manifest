@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 532653497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b16dfdda3a3ce7f84e50edf6c9c8158
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fca524dbeba2fec884738b987ce117af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6fae7e0b9b5a07449ea1d416cfc675c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00c7f25d5b565fe4a847bdfa448b35b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_RogueTrap_Fantasy.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Chance_Wonderland.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Island_Classic.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Tournament_Classic.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_City_Fantasy.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Start_Classic.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Tax_Classic.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Start_Fantasy.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_TravelWonderland_Wonderland.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Resort_Fantasy.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_TeaParty_Wonderland.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Tournament_Fantasy.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_AliceRoom_Wonderland.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/MapEditorCellIcon.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_TravelNextTurn_Classic.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Resort_Classic.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_City_Wonderland.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Start_Wonderland.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Chance_Classic.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_City_Classic.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Court_Wonderland.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Travel_Fantasy.prefab
+- Assets/Bundled/prefabs/MapEditor/UIElements/CellIcons/CellIcon_Tax_Wonderland.prefab
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/fonts_bundle.unity3d

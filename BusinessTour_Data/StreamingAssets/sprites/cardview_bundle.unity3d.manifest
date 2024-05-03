@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2410561179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c9769c2e8828d91263c4b0a803a3106
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundled/Sprites/CardView/CardViewBg0001.png
+- Assets/Bundled/Sprites/CardView/CardViewBg0003.png
+- Assets/Bundled/Sprites/CardView/CardViewBg0002.png
+- Assets/Bundled/Sprites/CardView/CardViewBg0002_back.png
+Dependencies: []

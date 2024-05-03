@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2220276354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 999701a675d43e794732a3fba6fbde9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4469790adcba9074147d1c650e6a3be4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82fc7ce02d1a1ca468574011c17c38bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a58d49010d02fed429d97dca87988f4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af6d88287bcd9ab43a9dab3d144b2bf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.BoardDecorationsConfig.BuildingsDecorationsConfig/BuildingsDecorationsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.BoardDecorationsConfig.MoneyDecorationsConfig/MoneyDecorationsDict
+- AssemblyName: Assembly-CSharp
+  ClassName: BusinessTour.BoardDecorationsConfig.MoneyDecorationsData
+Assets:
+- Assets/Bundled/Configs/BoardDecorations/BuildingsDecorationsConfig_Wonderland.asset
+- Assets/Bundled/Configs/BoardDecorations/BuildingsDecorationsConfig_Classic.asset
+- Assets/Bundled/Configs/BoardDecorations/BuildingsDecorationsConfig_Fantasy.asset
+- Assets/Bundled/Configs/BoardDecorations/BuildingsDecorationsConfig_Classic_Locked.asset
+- Assets/Bundled/Configs/BoardDecorations/MoneyDecorationsConfig_Classic_Locked.asset
+- Assets/Bundled/Configs/BoardDecorations/MoneyDecorationsConfig_Fantasy.asset
+- Assets/Bundled/Configs/BoardDecorations/MoneyDecorationsConfig_Wonderland.asset
+- Assets/Bundled/Configs/BoardDecorations/MoneyDecorationsConfig_Classic.asset
+Dependencies:
+- D:/work/business-tour-windows/Assets/StreamingAssets/cellview/moneycellanimation/moneyclassiccellanimation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/cellview/moneycellanimation/moneyfantasycellanimation_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/configs/buildings_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/gafanimations/playermoney/classic_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/gafanimations/playermoney/fantasy_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/gafanimations/playermoney/wonderland/sprites_bundle.unity3d
+- D:/work/business-tour-windows/Assets/StreamingAssets/gafanimations/playermoney/wonderland_bundle.unity3d
